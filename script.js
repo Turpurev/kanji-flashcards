@@ -3,19 +3,19 @@ let activeStudyGroup = [];    // Holds filtered and sliced group selection
 let currentIndex = 0;
 
 // DOM Screens
-const mainMenu = document.getElementById('mainMenu');
-const flashcardScreen = document.getElementById('flashcardScreen');
+const mainMenu = document.getElementById('main-Menu');
+const flashcardScreen = document.getElementById('flashcard-Screen');
 
 // DOM Card Elements
 const flashcard = document.getElementById('flashcard');
-const kanjiFront = document.getElementById('kanjiFront');
-const meaningBack = document.getElementById('meaningBack');
+const kanjiFront = document.getElementById('kanji-Front');
+const meaningBack = document.getElementById('meaning-Back');
 
 // Control Elements
-const flipBtn = document.getElementById('flipBtn');
-const nextBtn = document.getElementById('nextBtn');
-const prevBtn = document.getElementById('prevBtn');
-const backBtn = document.getElementById('backBtn');
+const flipBtn = document.getElementById('flip-Btn');
+const nextBtn = document.getElementById('next-Btn');
+const prevBtn = document.getElementById('prev-Btn');
+const backBtn = document.getElementById('back-Btn');
 
 // Fisher-Yates Shuffle Algorithm
 function shuffleArray(array) {
