@@ -2,20 +2,20 @@ let masterKanjiDatabase = []; // Holds all raw entries from json
 let activeStudyGroup = [];    // Holds filtered and sliced group selection
 let currentIndex = 0;
 
-// DOM Screens
-const mainMenu = document.getElementById('main-Menu');
-const flashcardScreen = document.getElementById('flashcard-Screen');
+// DOM Screens (Changed to exact lowercase matching your HTML)
+const mainMenu = document.getElementById('main-menu');
+const flashcardScreen = document.getElementById('flashcard-screen');
 
-// DOM Card Elements
+// DOM Card Elements (Changed to exact lowercase matching your HTML)
 const flashcard = document.getElementById('flashcard');
-const kanjiFront = document.getElementById('kanji-Front');
-const meaningBack = document.getElementById('meaning-Back');
+const kanjiFront = document.getElementById('kanji-front');
+const meaningBack = document.getElementById('meaning-back');
 
-// Control Elements
-const flipBtn = document.getElementById('flip-Btn');
-const nextBtn = document.getElementById('next-Btn');
-const prevBtn = document.getElementById('prev-Btn');
-const backBtn = document.getElementById('back-Btn');
+// Control Elements (Changed to exact lowercase matching your HTML)
+const flipBtn = document.getElementById('flip-btn');
+const nextBtn = document.getElementById('next-btn');
+const prevBtn = document.getElementById('prev-btn');
+const backBtn = document.getElementById('back-btn');
 
 // Fisher-Yates Shuffle Algorithm
 function shuffleArray(array) {
