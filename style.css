@@ -1,37 +1,74 @@
-/* Force dark theme variables or root styling */
-:root {
-    --bg-color: #121212;
-    --card-bg: #1e1e1e;
-    --text-color: #e0e0e0;
-    --border-color: #333333;
-    --accent-color: #bb86fc; /* A nice dark-mode friendly purple */
-}
-
+/* Hard-coded Dark Theme */
 body {
-    background-color: var(--bg-color);
-    color: var(--text-color);
-    font-family: Arial, sans-serif; /* or whatever font you are using */
-    margin: 0;
-    padding: 0;
+    background-color: #121212;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
     display: flex;
-    justify-content: center;
+    flex-direction: column;
     align-items: center;
+    justify-content: center;
     min-height: 100vh;
+    margin: 0;
+    padding: 20px;
+    box-sizing: border-box;
 }
 
-/* Update your flashcard container class */
-.card, .flashcard-container {
-    background-color: var(--card-bg);
-    border: 1px solid var(--border-color);
-    color: var(--text-color);
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
-    /* Keep your existing border-radius or padding */
+/* Header Text styling */
+h1 {
+    color: #ffffff;
+    margin-bottom: 20px;
 }
 
-/* If you have text buttons, make sure they remain visible */
+/* Main Flashcard Container */
+#flashcard {
+    background-color: #1e1e1e;
+    border: 2px solid #333333;
+    border-radius: 10px;
+    padding: 40px;
+    width: 300px;
+    min-height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+    margin-bottom: 20px;
+}
+
+/* Kanji and Text inside the card */
+#kanji {
+    font-size: 70px;
+    color: #ffffff;
+    margin: 0;
+}
+
+#meaning, #reading {
+    font-size: 20px;
+    color: #bb86fc; /* Light purple for readable accents */
+    margin-top: 10px;
+}
+
+/* Button Group Styling */
+.buttons {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+/* Unified Buttons */
 button {
-    background-color: var(--accent-color);
+    background-color: #bb86fc;
     color: #121212;
     border: none;
-    /* keep your existing button padding/styling */
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+button:hover {
+    background-color: #9965df;
 }
