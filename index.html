@@ -8,12 +8,25 @@
 </head>
 <body>
 
-    <div class="card-container">
+    <div id="main-menu" class="menu-container">
+        <h1>Select Study Group</h1>
+        <div class="menu-grid">
+            <button class="menu-btn" onclick="startGroup('N5', 0, 50)">JLPT N5 (1-50)</button>
+            <button class="menu-btn" onclick="startGroup('N5', 50, 100)">JLPT N5 (51-100)</button>
+            <button class="menu-btn" onclick="startGroup('N4', 0, 50)">JLPT N4 (1-50)</button>
+            <button class="menu-btn" onclick="startGroup('N4', 50, 100)">JLPT N4 (51-100)</button>
+            <button class="menu-btn" onclick="startGroup('N3', 0, 50)">JLPT N3 (1-50)</button>
+            <button class="menu-btn" onclick="startGroup('N3', 50, 100)">JLPT N3 (51-100)</button>
+        </div>
+    </div>
+
+    <div id="flashcard-screen" class="card-container style-hidden">
+        <button id="back-btn" class="back-navigation-btn">← Back to Menu</button>
+        
         <div class="flashcard" id="flashcard">
             <div class="front" id="kanji-front">一</div>
             <div class="back">
-                <p class="meaning" id="meaning-back">One</p>
-                <p class="reading" id="reading-back">Onyomi: イチ | Kunyomi: ひと-つ</p>
+                <div id="meaning-back"></div>
             </div>
         </div>
         
