@@ -55,15 +55,19 @@ function updateCard() {
         
         // Render examples
         if (currentItem.examples && currentItem.examples.length > 0) {
-            let examplesHTML = '<div style="font-size: 0.9rem; margin-top: 12px; padding-top: 12px; border-top: 1px solid #555;">';
+            let examplesHTML = '<div style="margin-top: 12px; padding-top: 12px; border-top: 1px solid #555;">';
             examplesHTML += '<div style="font-size: 0.8rem; color: #95a5a6; margin-bottom: 8px; text-transform: uppercase; letter-spacing: 1px;">Examples:</div>';
             
             currentItem.examples.forEach(example => {
                 examplesHTML += `
-                    <div style="margin-bottom: 10px; padding: 8px; background-color: rgba(255,255,255,0.05); border-radius: 5px;">
-                        <div style="font-weight: 500; font-size: 1.1rem; margin-bottom: 3px;">${example.word}</div>
-                        <div style="font-size: 0.75rem; color: #a8c5dd; margin-bottom: 3px;">${example.furigana}</div>
-                        <div style="font-size: 0.8rem; color: #bdc3c7; font-style: italic;">${example.meaning}</div>
+                    <div style="display: flex; gap: 12px; margin-bottom: 10px; padding: 8px; background-color: rgba(255,255,255,0.05); border-radius: 5px;">
+                        <div style="flex: 0 0 33%; display: flex; align-items: center; justify-content: center; font-size: 1.8rem; font-weight: bold; border-right: 1px solid #555; padding-right: 8px;">
+                            ${example.word}
+                        </div>
+                        <div style="flex: 0 0 67%; display: flex; flex-direction: column; justify-content: center;">
+                            <div style="font-size: 0.75rem; color: #a8c5dd; margin-bottom: 4px;">${example.furigana}</div>
+                            <div style="font-size: 0.8rem; color: #bdc3c7; font-style: italic;">${example.meaning}</div>
+                        </div>
                     </div>
                 `;
             });
