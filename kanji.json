@@ -1298,5 +1298,2605 @@
       { "word": "耳栓", "furigana": "みみせん", "meaning": "earplugs" },
       { "word": "耳鳴り", "furigana": "みみなり", "meaning": "tinnitus" }
     ]
+  },
+  {
+    "kanji": "会",
+    "meaning": "Meet / Meeting",
+    "reading": "On: カイ | Kun: あ-う",
+    "level": "N4",
+    "sentence": "あした、ともだちに 会います。",
+    "translation": "I will meet my friend tomorrow.",
+    "examples": [
+      { "word": "会社", "furigana": "かいしゃ", "meaning": "company" },
+      { "word": "会話", "furigana": "かいわ", "meaning": "conversation" },
+      { "word": "教会", "furigana": "きょうかい", "meaning": "church" }
+    ]
+  },
+  {
+    "kanji": "同",
+    "meaning": "Same",
+    "reading": "On: ドウ | Kun: おな-じ",
+    "level": "N4",
+    "sentence": "かれと 私は 同じ としです。",
+    "translation": "He and I are the same age.",
+    "examples": [
+      { "word": "同時に", "furigana": "どうじに", "meaning": "at the same time" },
+      { "word": "同意", "furigana": "どうい", "meaning": "agreement" },
+      { "word": "同級生", "furigana": "どうきゅうせい", "meaning": "classmate" }
+    ]
+  },
+  {
+    "kanji": "事",
+    "meaning": "Thing / Matter / Business",
+    "reading": "On: ジ | Kun: こと",
+    "level": "N4",
+    "sentence": "だいじな 事を わすれました。",
+    "translation": "I forgot an important thing.",
+    "examples": [
+      { "word": "仕事", "furigana": "しごと", "meaning": "work / job" },
+      { "word": "食事", "furigana": "しょくじ", "meaning": "meal" },
+      { "word": "事故", "furigana": "じこ", "meaning": "accident" }
+    ]
+  },
+  {
+    "kanji": "自",
+    "meaning": "Self",
+    "reading": "On: ジ、シ | Kun: みずか-ら",
+    "level": "N4",
+    "sentence": "自分で べんきょうします。",
+    "translation": "I study by myself.",
+    "examples": [
+      { "word": "自転車", "furigana": "じてんしゃ", "meaning": "bicycle" },
+      { "word": "自動車", "furigana": "じどうしゃ", "meaning": "automobile" },
+      { "word": "自由", "furigana": "じゆう", "meaning": "freedom" }
+    ]
+  },
+  {
+    "kanji": "社",
+    "meaning": "Company / Shrine",
+    "reading": "On: シャ | Kun: やしろ",
+    "level": "N4",
+    "sentence": "私の 社長は とても やさしいです。",
+    "translation": "My company president is very kind.",
+    "examples": [
+      { "word": "社会", "furigana": "しゃかい", "meaning": "society" },
+      { "word": "神社", "furigana": "じんじゃ", "meaning": "shrine" },
+      { "word": "本社", "furigana": "ほんしゃ", "meaning": "head office" }
+    ]
+  },
+  {
+    "kanji": "発",
+    "meaning": "Depart / Emit / Start",
+    "reading": "On: ハツ、ハツ",
+    "level": "N4",
+    "sentence": "でんしゃが 出発します。",
+    "translation": "The train is departing.",
+    "examples": [
+      { "word": "発音", "furigana": "hatsuon", "meaning": "pronunciation" },
+      { "word": "発見", "furigana": "はっけん", "meaning": "discovery" },
+      { "word": "発表", "furigana": "はっぴょう", "meaning": "presentation / announcement" }
+    ]
+  },
+  {
+    "kanji": "者",
+    "meaning": "Person (professional/expert)",
+    "reading": "On: シャ | Kun: もの",
+    "level": "N4",
+    "sentence": "びょういんで 医者に みてもらいました。",
+    "translation": "I was examined by a doctor at the hospital.",
+    "examples": [
+      { "word": "学者", "furigana": "がくしゃ", "meaning": "scholar" },
+      { "word": "若者", "furigana": "わかもの", "meaning": "young person" },
+      { "word": "歯医者", "furigana": "はいしゃ", "meaning": "dentist" }
+    ]
+  },
+  {
+    "kanji": "地",
+    "meaning": "Ground / Earth",
+    "reading": "On: チ、ジ",
+    "level": "N4",
+    "sentence": "地下鉄で えきへ いきます。",
+    "translation": "I go to the station by subway.",
+    "examples": [
+      { "word": "地図", "furigana": "ちず", "meaning": "map" },
+      { "word": "地震", "furigana": "じしん", "meaning": "earthquake" },
+      { "word": "地方", "furigana": "ちほう", "meaning": "region / locality" }
+    ]
+  },
+  {
+    "kanji": "業",
+    "meaning": "Business / Industry / Work",
+    "reading": "On: ギョウ | Kun: わざ",
+    "level": "N4",
+    "sentence": "きょうの 授業は おわりました。",
+    "translation": "Today's class has finished.",
+    "examples": [
+      { "word": "工業", "furigana": "こうぎょう", "meaning": "industry" },
+      { "word": "商業", "furigana": "しょうぎょう", "meaning": "commerce" },
+      { "word": "卒業", "furigana": "そつぎょう", "meaning": "graduation" }
+    ]
+  },
+  {
+    "kanji": "方",
+    "meaning": "Direction / Way / Person",
+    "reading": "On: ホウ | Kun: かた",
+    "level": "N4",
+    "sentence": "この 漢字の 読み方を おしえてください。",
+    "translation": "Please teach me the way to read this kanji.",
+    "examples": [
+      { "word": "夕方", "furigana": "ゆうがた", "meaning": "evening" },
+      { "word": "方法", "furigana": "ほうほう", "meaning": "method" },
+      { "word": "両方", "furigana": "りょうほう", "meaning": "both sides" }
+    ]
+  },
+  {
+    "kanji": "新",
+    "meaning": "New",
+    "reading": "On: シン | Kun: あたら-しい",
+    "level": "N4",
+    "sentence": "新しい カメラを 買いました。",
+    "translation": "I bought a new camera.",
+    "examples": [
+      { "word": "新聞", "furigana": "しんぶん", "meaning": "newspaper" },
+      { "word": "新年", "furigana": "しんねん", "meaning": "New Year" },
+      { "word": "新鮮", "furigana": "しんせん", "meaning": "fresh" }
+    ]
+  },
+  {
+    "kanji": "場",
+    "meaning": "Place / Location",
+    "reading": "On: ジョウ | Kun: ば",
+    "level": "N4",
+    "sentence": "テニスの 会場は どこですか。",
+    "translation": "Where is the tennis venue?",
+    "examples": [
+      { "word": "場所", "furigana": "ばしょ", "meaning": "place" },
+      { "word": "工場", "furigana": "こうじょう", "meaning": "factory" },
+      { "word": "場合", "furigana": "ばあい", "meaning": "case / situation" }
+    ]
+  },
+  {
+    "kanji": "員",
+    "meaning": "Member / Employee",
+    "reading": "On: イン",
+    "level": "N4",
+    "sentence": "えきの 駅員に みちを 聞きました。",
+    "translation": "I asked the station staff member for directions.",
+    "examples": [
+      { "word": "社員", "furigana": "しゃいん", "meaning": "company employee" },
+      { "word": "店員", "furigana": "てんいん", "meaning": "store clerk" },
+      { "word": "全員", "furigana": "ぜんいん", "meaning": "everyone" }
+    ]
+  },
+  {
+    "kanji": "立",
+    "meaning": "Stand",
+    "reading": "On: リツ | Kun: た-つ",
+    "level": "N4",
+    "sentence": "いすから 立ち上がります。",
+    "translation": "I will stand up from the chair.",
+    "examples": [
+      { "word": "国立", "furigana": "こくりつ", "meaning": "national (e.g., university)" },
+      { "word": "私立", "furigana": "しりつ", "meaning": "private (e.g., school)" },
+      { "word": "役に立つ", "furigana": "やくにたつ", "meaning": "to be useful" }
+    ]
+  },
+  {
+    "kanji": "開",
+    "meaning": "Open",
+    "reading": "On: カイ | Kun: あ-ける、ひら-く",
+    "level": "N4",
+    "sentence": "まどを 開けて ください。",
+    "translation": "Please open the window.",
+    "examples": [
+      { "word": "開く", "furigana": "ひらく", "meaning": "to open (an event/book)" },
+      { "word": "開店", "furigana": "かいてん", "meaning": "opening a store" },
+      { "word": "開始", "furigana": "かいし", "meaning": "start / commencement" }
+    ]
+  },
+  {
+    "kanji": "手",
+    "meaning": "Hand",
+    "reading": "On: シュ | Kun: て",
+    "level": "N4",
+    "sentence": "ごはんを たべるまえに 手を あらいます。",
+    "translation": "I wash my hands before eating.",
+    "examples": [
+      { "word": "上手", "furigana": "じょうず", "meaning": "skillful" },
+      { "word": "下手", "furigana": "へた", "meaning": "unskillful" },
+      { "word": "手紙", "furigana": "てがみ", "meaning": "letter" }
+    ]
+  },
+  {
+    "kanji": "力",
+    "meaning": "Power / Strength",
+    "reading": "On: リョク、リキ | Kun: ちから",
+    "level": "N4",
+    "sentence": "かれは 力が つよいです。",
+    "translation": "He has strong power.",
+    "examples": [
+      { "word": "体力", "furigana": "たいりょく", "meaning": "physical strength" },
+      { "word": "協力", "furigana": "きょうりょく", "meaning": "cooperation" },
+      { "word": "努力", "furigana": "どりょく", "meaning": "effort" }
+    ]
+  },
+  {
+    "kanji": "問",
+    "meaning": "Question / Ask",
+    "reading": "On: モン | Kun: と-う",
+    "level": "N4",
+    "sentence": "テストの 質問は むずかしかったです。",
+    "translation": "The test question was difficult.",
+    "examples": [
+      { "word": "問題", "furigana": "もんだい", "meaning": "problem / question" },
+      { "word": "訪問", "furigana": "ほうもん", "meaning": "visit" },
+      { "word": "問い合わせ", "furigana": "といあわせ", "meaning": "inquiry" }
+    ]
+  },
+  {
+    "kanji": "代",
+    "meaning": "Substitute / Age / Fee",
+    "reading": "On: ダイ | Kun: か-わる",
+    "level": "N4",
+    "sentence": "父の 代わりに 私が いきます。",
+    "translation": "I will go instead of my father.",
+    "examples": [
+      { "word": "部屋代", "furigana": "へやだい", "meaning": "room rent" },
+      { "word": "時代", "furigana": "じだい", "meaning": "era / age" },
+      { "word": "交代", "furigana": "こうたい", "meaning": "alternation / shift" }
+    ]
+  },
+  {
+    "kanji": "明",
+    "meaning": "Bright / Light",
+    "reading": "On: メイ | Kun: あか-るい",
+    "level": "N4",
+    "sentence": "この 部屋は 明るい ですね。",
+    "translation": "This room is bright, isn't it?",
+    "examples": [
+      { "word": "明日", "furigana": "あした", "meaning": "tomorrow" },
+      { "word": "説明", "furigana": "せつめい", "meaning": "explanation" },
+      { "word": "明白", "furigana": "めいはく", "meaning": "clear / obvious" }
+    ]
+  },
+  {
+    "kanji": "動",
+    "meaning": "Move",
+    "reading": "On: ドウ | Kun: うご-く",
+    "level": "N4",
+    "sentence": "くるまが 動きました。",
+    "translation": "The car moved.",
+    "examples": [
+      { "word": "動物", "furigana": "どうぶつ", "meaning": "animal" },
+      { "word": "運動", "furigana": "うんどう", "meaning": "exercise" },
+      { "word": "自動車", "furigana": "じどうしゃ", "meaning": "automobile" }
+    ]
+  },
+  {
+    "kanji": "京",
+    "meaning": "Capital",
+    "reading": "On: キョウ、ケイ",
+    "level": "N4",
+    "sentence": "新幹線で 東京へ いきます。",
+    "translation": "I will go to Tokyo by Shinkansen.",
+    "examples": [
+      { "word": "京都", "furigana": "きょうと", "meaning": "Kyoto" },
+      { "word": "上京", "furigana": "じょうきょう", "meaning": "proceeding to the capital" },
+      { "word": "京浜", "furigana": "けいひん", "meaning": "Tokyo-Yokohama area" }
+    ]
+  },
+  {
+    "kanji": "目",
+    "meaning": "Eye / Item",
+    "reading": "On: モク | Kun: め",
+    "level": "N4",
+    "sentence": "目が かゆいので くすりを つけます。",
+    "translation": "My eyes are itchy, so I will apply medicine.",
+    "examples": [
+      { "word": "目的", "furigana": "もくてき", "meaning": "purpose / goal" },
+      { "word": "目次", "furigana": "もくじ", "meaning": "table of contents" },
+      { "word": "一番目", "furigana": "いちばんめ", "meaning": "the first one" }
+    ]
+  },
+  {
+    "kanji": "通",
+    "meaning": "Pass through / Commute",
+    "reading": "On: ツウ | Kun: とお-る、かよ-う",
+    "level": "N4",
+    "sentence": "私は 毎日 大学に 通っています。",
+    "translation": "I commute to the university every day.",
+    "examples": [
+      { "word": "通り", "furigana": "とおり", "meaning": "street / road" },
+      { "word": "交通", "furigana": "こうつう", "meaning": "traffic" },
+      { "word": "通常", "furigana": "つうじょう", "meaning": "normal / regular" }
+    ]
+  },
+  {
+    "kanji": "理",
+    "meaning": "Reason / Logic / Manage",
+    "reading": "On: リ",
+    "level": "N4",
+    "sentence": "日本の 料理が 大好きです。",
+    "translation": "I love Japanese cuisine.",
+    "examples": [
+      { "word": "理由", "furigana": "りゆう", "meaning": "reason" },
+      { "word": "地理", "furigana": "ちり", "meaning": "geography" },
+      { "word": "無理", "furigana": "むり", "meaning": "impossible" }
+    ]
+  },
+  {
+    "kanji": "体",
+    "meaning": "Body",
+    "reading": "On: タイ | Kun: からだ",
+    "level": "N4",
+    "sentence": "健康のために 体を うごかします。",
+    "translation": "I move my body for my health.",
+    "examples": [
+      { "word": "体重", "furigana": "たいじゅう", "meaning": "body weight" },
+      { "word": "体育", "furigana": "たいいく", "meaning": "physical education" },
+      { "word": "全体", "furigana": "ぜんたい", "meaning": "whole / entirely" }
+    ]
+  },
+  {
+    "kanji": "田",
+    "meaning": "Rice field",
+    "reading": "On: デン | Kun: た",
+    "level": "N4",
+    "sentence": "田んぼで お米を つくります。",
+    "translation": "We grow rice in the rice fields.",
+    "examples": [
+      { "word": "水田", "furigana": "すいでん", "meaning": "flooded rice paddy" },
+      { "word": "山田", "furigana": "やまだ", "meaning": "Yamada (common surname)" },
+      { "word": "田舎", "furigana": "いなか", "meaning": "countryside" }
+    ]
+  },
+  {
+    "kanji": "主",
+    "meaning": "Main / Master / Owner",
+    "reading": "On: シュ | Kun: ぬし、おも",
+    "level": "N4",
+    "sentence": "この 料理の 主な 材料は 肉です。",
+    "translation": "The main ingredient of this dish is meat.",
+    "examples": [
+      { "word": "主人", "furigana": "しゅじん", "meaning": "husband / master" },
+      { "word": "主婦", "furigana": "しゅふ", "meaning": "housewife" },
+      { "word": "主に", "furigana": "おもに", "meaning": "mainly" }
+    ]
+  },
+  {
+    "kanji": "題",
+    "meaning": "Topic / Theme / Title",
+    "reading": "On: ダイ",
+    "level": "N4",
+    "sentence": "宿題を すませてから あそびます。",
+    "translation": "I will play after finishing my homework.",
+    "examples": [
+      { "word": "問題", "furigana": "もんだい", "meaning": "problem / question" },
+      { "word": "話題", "furigana": "わだい", "meaning": "topic" },
+      { "word": "題名", "furigana": "だいめい", "meaning": "title name" }
+    ]
+  },
+  {
+    "kanji": "意",
+    "meaning": "Idea / Mind / Meaning",
+    "reading": "On: イ",
+    "level": "N4",
+    "sentence": "ことばの 意味を しらべます。",
+    "translation": "I will look up the meaning of the word.",
+    "examples": [
+      { "word": "意見", "furigana": "いけん", "meaning": "opinion" },
+      { "word": "注意", "furigana": "ちゅうい", "meaning": "caution / attention" },
+      { "word": "用意", "furigana": "ようい", "meaning": "preparation" }
+    ]
+  },
+  {
+    "kanji": "不",
+    "meaning": "Non- / Bad / Negative",
+    "reading": "On: フ、ブ",
+    "level": "N4",
+    "sentence": "バスが こなくて 不便です。",
+    "translation": "It's inconvenient because the bus isn't coming.",
+    "examples": [
+      { "word": "不安", "furigana": "ふあん", "meaning": "anxiety / uneasy" },
+      { "word": "不足", "furigana": "ふそく", "meaning": "shortage" },
+      { "word": "不可能", "furigana": "ふかのう", "meaning": "impossible" }
+    ]
+  },
+  {
+    "kanji": "作",
+    "meaning": "Make / Create",
+    "reading": "On: サク、サ | Kun: つく-る",
+    "level": "N4",
+    "sentence": "母が 晩ご飯を 作っています。",
+    "translation": "My mother is making dinner.",
+    "examples": [
+      { "word": "作文", "furigana": "さくぶん", "meaning": "essay / composition" },
+      { "word": "作品", "furigana": "さくひん", "meaning": "artwork / piece" },
+      { "word": "手作り", "furigana": "てづくり", "meaning": "handmade" }
+    ]
+  },
+  {
+    "kanji": "用",
+    "meaning": "Use / Task / Business",
+    "reading": "On: ヨウ | Kun: もち-いる",
+    "level": "N4",
+    "sentence": "じむしょで 用紙を もらいました。",
+    "translation": "I received the blank form at the office.",
+    "examples": [
+      { "word": "用意", "furigana": "ようい", "meaning": "preparation" },
+      { "word": "利用", "furigana": "りよう", "meaning": "utilization / use" },
+      { "word": "用事", "furigana": "ようじ", "meaning": "errand / business" }
+    ]
+  },
+  {
+    "kanji": "度",
+    "meaning": "Degree / Times / Limit",
+    "reading": "On: ド | Kun: たび",
+    "level": "N4",
+    "sentence": "もう 一度 言ってください。",
+    "translation": "Please say it one more time.",
+    "examples": [
+      { "word": "今度", "furigana": "こんど", "meaning": "next time / this time" },
+      { "word": "温度", "furigana": "おんど", "meaning": "temperature" },
+      { "word": "支度", "furigana": "したく", "meaning": "preparation / arrangements" }
+    ]
+  },
+  {
+    "kanji": "強",
+    "meaning": "Strong",
+    "reading": "On: キョウ | Kun: つよ-い",
+    "level": "N4",
+    "sentence": "まいにち 日本語を 勉強します。",
+    "translation": "I study Japanese every day.",
+    "examples": [
+      { "word": "強い", "furigana": "つよい", "meaning": "strong" },
+      { "word": "強調", "furigana": "きょうちょう", "meaning": "emphasis" },
+      { "word": "強力", "furigana": "きょうりょく", "meaning": "powerful" }
+    ]
+  },
+  {
+    "kanji": "公",
+    "meaning": "Public / Official",
+    "reading": "On: コウ | Kun: おおやけ",
+    "level": "N4",
+    "sentence": "あかるい 公園で あそびます。",
+    "translation": "We play in the bright park.",
+    "examples": [
+      { "word": "公務員", "furigana": "こうむいん", "meaning": "civil servant" },
+      { "word": "公式", "furigana": "こうしき", "meaning": "official formula/formal" },
+      { "word": "公開", "furigana": "こうかい", "meaning": "opening to the public" }
+    ]
+  },
+  {
+    "kanji": "持",
+    "meaning": "Hold / Have",
+    "reading": "On: ジ | Kun: も-つ",
+    "level": "N4",
+    "sentence": "かばんを 持って いきます。",
+    "translation": "I will take my bag with me.",
+    "examples": [
+      { "word": "気持ち", "furigana": "きもち", "meaning": "feeling" },
+      { "word": "金持ち", "furigana": "かねもち", "meaning": "rich person" },
+      { "word": "持参", "furigana": "じさん", "meaning": "bringing something" }
+    ]
+  },
+  {
+    "kanji": "野",
+    "meaning": "Field / Plain",
+    "reading": "On: ヤ | Kun: の",
+    "level": "N4",
+    "sentence": "まいにち 野菜を たべます。",
+    "translation": "I eat vegetables every day.",
+    "examples": [
+      { "word": "分野", "furigana": "ぶんや", "meaning": "field / sphere" },
+      { "word": "野球", "furigana": "やきゅう", "meaning": "baseball" },
+      { "word": "長野", "furigana": "ながの", "meaning": "Nagano (place name)" }
+    ]
+  },
+  {
+    "kanji": "以",
+    "meaning": "By means of / Compared to",
+    "reading": "On: イ",
+    "level": "N4",
+    "sentence": "これ 以上は たべられません。",
+    "translation": "I cannot eat any more than this.",
+    "examples": [
+      { "word": "以下", "furigana": "いか", "meaning": "below / under" },
+      { "word": "以外", "furigana": "いがい", "meaning": "except / besides" },
+      { "word": "以前", "furigana": "いぜん", "meaning": "ago / previously" }
+    ]
+  },
+  {
+    "kanji": "思",
+    "meaning": "Think",
+    "reading": "On: シ | Kun: おも-う",
+    "level": "N4",
+    "sentence": "あしたは 雨だと 思います。",
+    "translation": "I think it will rain tomorrow.",
+    "examples": [
+      { "word": "思い出す", "furigana": "おもいだす", "meaning": "to recall / remember" },
+      { "word": "思い出", "furigana": "おもいで", "meaning": "memory" },
+      { "word": "思考", "furigana": "しこう", "meaning": "thought / thinking" }
+    ]
+  },
+  {
+    "kanji": "家",
+    "meaning": "House / Home / Family",
+    "reading": "On: カ、ケ | Kun: いえ、や",
+    "level": "N4",
+    "sentence": "いそいで 家に かえります。",
+    "translation": "I will return home in a hurry.",
+    "examples": [
+      { "word": "家族", "furigana": "かぞく", "meaning": "family" },
+      { "word": "家賃", "furigana": "やちん", "meaning": "rent" },
+      { "word": "画家", "furigana": "がか", "meaning": "painter / artist" }
+    ]
+  },
+  {
+    "kanji": "世",
+    "meaning": "World / Generation",
+    "reading": "On: セ、セイ | Kun: よ",
+    "level": "N4",
+    "sentence": "お世話に なりました。",
+    "translation": "Thank you for taking care of me.",
+    "examples": [
+      { "word": "世界", "furigana": "せかい", "meaning": "world" },
+      { "word": "世の中", "furigana": "よのなか", "meaning": "society / the world" },
+      { "word": "世代", "furigana": "せだい", "meaning": "generation" }
+    ]
+  },
+  {
+    "kanji": "多",
+    "meaning": "Many / Much",
+    "reading": "On: タ | Kun: おお-い",
+    "level": "N4",
+    "sentence": "この まちには 外国人が 多い です。",
+    "translation": "There are many foreigners in this town.",
+    "examples": [
+      { "word": "多分", "furigana": "たぶん", "meaning": "probably / perhaps" },
+      { "word": "多数", "furigana": "たすう", "meaning": "large number / majority" },
+      { "word": "多少", "furigana": "たしょう", "meaning": "more or less / a little" }
+    ]
+  },
+  {
+    "kanji": "正",
+    "meaning": "Correct / Right",
+    "reading": "On: セイ、ショウ | Kun: ただ-しい",
+    "level": "N4",
+    "sentence": "正しい 答えを えらんでください。",
+    "translation": "Please choose the correct answer.",
+    "examples": [
+      { "word": "正月", "furigana": "しょうがつ", "meaning": "New Year's Day" },
+      { "word": "正確", "furigana": "せいかく", "meaning": "accurate / precise" },
+      { "word": "正解", "furigana": "せいかい", "meaning": "correct solution" }
+    ]
+  },
+  {
+    "kanji": "院",
+    "meaning": "Institution / House",
+    "reading": "On: イン",
+    "level": "N4",
+    "sentence": "あねは 病院で はたらいています。",
+    "translation": "My older sister works at a hospital.",
+    "examples": [
+      { "word": "入院", "furigana": "にゅういん", "meaning": "hospitalization" },
+      { "word": "大学院", "furigana": "だいがくいん", "meaning": "graduate school" },
+      { "word": "退院", "furigana": "たいいん", "meaning": "discharge from hospital" }
+    ]
+  },
+  {
+    "kanji": "心",
+    "meaning": "Heart / Mind / Spirit",
+    "reading": "On: シン | Kun: こころ",
+    "level": "N4",
+    "sentence": "かれは 心が やさしい人です。",
+    "translation": "He is a kind-hearted person.",
+    "examples": [
+      { "word": "安心", "furigana": "あんしん", "meaning": "relief / peace of mind" },
+      { "word": "心配", "furigana": "しんぱい", "meaning": "worry / anxiety" },
+      { "word": "中心", "furigana": "ちゅうしん", "meaning": "center / core" }
+    ]
+  },
+  {
+    "kanji": "界",
+    "meaning": "World / Boundary",
+    "reading": "On: カイ",
+    "level": "N4",
+    "sentence": "世界には たくさんの 国があります。",
+    "translation": "There are many countries in the world.",
+    "examples": [
+      { "word": "世界中", "furigana": "せかいじゅう", "meaning": "all over the world" },
+      { "word": "業界", "furigana": "ぎょうかい", "meaning": "industry / business circle" },
+      { "word": "境界", "furigana": "きょうかい", "meaning": "boundary / limit" }
+    ]
+  },
+  {
+    "kanji": "教",
+    "meaning": "Teach / Faith",
+    "reading": "On: キョウ | Kun: おし-える",
+    "level": "N4",
+    "sentence": "先生が 英語を 教えて くれました。",
+    "translation": "The teacher taught me English.",
+    "examples": [
+      { "word": "教室", "furigana": "きょうしつ", "meaning": "classroom" },
+      { "word": "教科書", "furigana": "きょうかしょ", "meaning": "textbook" },
+      { "word": "キリスト教", "furigana": "きりすときょう", "meaning": "Christianity" }
+    ]
+  },
+  {
+    "kanji": "文",
+    "meaning": "Sentence / Literature",
+    "reading": "On: ブン、モン | Kun: ふみ",
+    "level": "N4",
+    "sentence": "日本語で 作文を 書きました。",
+    "translation": "I wrote an essay in Japanese.",
+    "examples": [
+      { "word": "文化", "furigana": "ぶんか", "meaning": "culture" },
+      { "word": "文学", "furigana": "ぶんがく", "meaning": "literature" },
+      { "word": "文字", "furigana": "もじ", "meaning": "letter / character" }
+    ]
+  },
+  {
+    "kanji": "元",
+    "meaning": "Origin / Source / Base",
+    "reading": "On: ゲン、ガン | Kun: もと",
+    "level": "N4",
+    "sentence": "風邪を ひきましたが、もう 元気です。",
+    "translation": "I caught a cold, but I am healthy/well now.",
+    "examples": [
+      { "word": "元日", "furigana": "がんじつ", "meaning": "New Year's Day" },
+      { "word": "足元", "furigana": "あしもと", "meaning": "at one's feet" },
+      { "word": "地元", "furigana": "じもと", "meaning": "local" }
+    ]
+  },
+  {
+    "kanji": "通",
+    "meaning": "Pass through / Commute",
+    "reading": "On: ツウ | Kun: とお-る、かよ-う",
+    "level": "N4",
+    "sentence": "私は まいにち 大学に 通っています。",
+    "translation": "I commute to the university every day.",
+    "examples": [
+      { "word": "通り", "furigana": "とおり", "meaning": "street / road" },
+      { "word": "交通", "furigana": "こうつう", "meaning": "traffic" },
+      { "word": "通常", "furigana": "つうじょう", "meaning": "normal / regular" }
+    ]
+  },
+  {
+    "kanji": "言",
+    "meaning": "Say / Word",
+    "reading": "On: ゲン、ゴン | Kun: い-う、こと",
+    "level": "N4",
+    "sentence": "かれは なにも 言いませんでした。",
+    "translation": "He didn't say anything.",
+    "examples": [
+      { "word": "言葉", "furigana": "ことば", "meaning": "language / word" },
+      { "word": "伝言", "furigana": "でんごん", "meaning": "verbal message" },
+      { "word": "方言", "furigana": "ほうげん", "meaning": "dialect" }
+    ]
+  },
+  {
+    "kanji": "品",
+    "meaning": "Goods / Article / Quality",
+    "reading": "On: ヒン | Kun: しな",
+    "level": "N4",
+    "sentence": "デパートで 品物を かいました。",
+    "translation": "I bought goods at the department store.",
+    "examples": [
+      { "word": "作品", "furigana": "さくひん", "meaning": "artistic work" },
+      { "word": "上品", "furigana": "じょうひん", "meaning": "elegant / refined" },
+      { "word": "商品", "furigana": "しょうひん", "meaning": "merchandise / product" }
+    ]
+  },
+  {
+    "kanji": "手",
+    "meaning": "Hand",
+    "reading": "On: シュ | Kun: て",
+    "level": "N4",
+    "sentence": "ごはんを たべるまえに 手を あらいます。",
+    "translation": "I wash my hands before eating.",
+    "examples": [
+      { "word": "上手", "furigana": "じょうず", "meaning": "skillful" },
+      { "word": "下手", "furigana": "へた", "meaning": "unskillful" },
+      { "word": "手紙", "furigana": "てがみ", "meaning": "letter" }
+    ]
+  },
+  {
+    "kanji": "死",
+    "meaning": "Die",
+    "reading": "On: シ | Kun: し-ぬ",
+    "level": "N4",
+    "sentence": "かいがらの 金魚が 死んで しまいました。",
+    "translation": "The pet goldfish unfortunately died.",
+    "examples": [
+      { "word": "死体", "furigana": "したい", "meaning": "corpse" },
+      { "word": "必死", "furigana": "ひっし", "meaning": "desperate / frantic" },
+      { "word": "死者", "furigana": "ししゃ", "meaning": "the deceased" }
+    ]
+  },
+  {
+    "kanji": "始",
+    "meaning": "Begin / Start",
+    "reading": "On: シ | Kun: はじ-める、はじ-まる",
+    "level": "N4",
+    "sentence": "あしたから 新しい 仕事が 始まります。",
+    "translation": "A new job starts tomorrow.",
+    "examples": [
+      { "word": "開始", "furigana": "かいし", "meaning": "start / commencement" },
+      { "word": "年始", "furigana": "ねんし", "meaning": "beginning of the year" },
+      { "word": "終始", "furigana": "しゅうし", "meaning": "from beginning to end" }
+    ]
+  },
+  {
+    "kanji": "使",
+    "meaning": "Use / Messenger",
+    "reading": "On: シ | Kun: つか-う",
+    "level": "N4",
+    "sentence": "この パソコンを 使っても いいですか。",
+    "translation": "May I use this computer?",
+    "examples": [
+      { "word": "大使館", "furigana": "たいしかん", "meaning": "embassy" },
+      { "word": "使い方", "furigana": "つかいたか", "meaning": "how to use" },
+      { "word": "使用", "furigana": "しよう", "meaning": "utilization / use" }
+    ]
+  },
+  {
+    "kanji": "朝",
+    "meaning": "Morning",
+    "reading": "On: チョウ | Kun: あさ",
+    "level": "N4",
+    "sentence": "毎朝 しんぶんを よみます。",
+    "translation": "I read the newspaper every morning.",
+    "examples": [
+      { "word": "今朝", "furigana": "けさ", "meaning": "this morning" },
+      { "word": "朝食", "furigana": "ちょうしょく", "meaning": "breakfast" },
+      { "word": "朝日", "furigana": "あさひ", "meaning": "morning sun" }
+    ]
+  },
+  {
+    "kanji": "明",
+    "meaning": "Bright / Clear",
+    "reading": "On: メイ、ミョウ | Kun: あか-るい",
+    "level": "N4",
+    "sentence": "あの 部屋は とても 明るい ですね。",
+    "translation": "That room is very bright, isn't it?",
+    "examples": [
+      { "word": "明日", "furigana": "あした", "meaning": "tomorrow" },
+      { "word": "説明", "furigana": "せつめい", "meaning": "explanation" },
+      { "word": "明白", "furigana": "めいはく", "meaning": "clear / obvious" }
+    ]
+  },
+  {
+    "kanji": "長",
+    "meaning": "Long / Leader",
+    "reading": "On: チョウ | Kun: なが-い",
+    "level": "N4",
+    "sentence": "この 川は とても 長いです。",
+    "translation": "This river is very long.",
+    "examples": [
+      { "word": "社長", "furigana": "しゃちょう", "meaning": "company president" },
+      { "word": "校長", "furigana": "こうちょう", "meaning": "principal" },
+      { "word": "長期", "furigana": "ちょうき", "meaning": "long term" }
+    ]
+  },
+  {
+    "kanji": "広",
+    "meaning": "Wide / Spacious",
+    "reading": "On: コウ | Kun: ひろ-い",
+    "level": "N4",
+    "sentence": "ここは 広くて きれいな 公園です。",
+    "translation": "This is a spacious and beautiful park.",
+    "examples": [
+      { "word": "広告", "furigana": "こうこく", "meaning": "advertisement" },
+      { "word": "広大", "furigana": "こうだい", "meaning": "vast / grand" },
+      { "word": "広場", "furigana": "ひろば", "meaning": "plaza / public square" }
+    ]
+  },
+  {
+    "kanji": "少",
+    "meaning": "Few / Little",
+    "reading": "On: ショウ | Kun: すく-ない、すこ-し",
+    "level": "N4",
+    "sentence": "お酒を 少し のみました。",
+    "translation": "I drank a little sake.",
+    "examples": [
+      { "word": "少年", "furigana": "しょうねん", "meaning": "boy" },
+      { "word": "少女", "furigana": "しょうじょ", "meaning": "girl" },
+      { "word": "多少", "furigana": "たしょう", "meaning": "more or less" }
+    ]
+  },
+  {
+    "kanji": "止",
+    "meaning": "Stop",
+    "reading": "On: シ | Kun: と-まる、と-める",
+    "level": "N4",
+    "sentence": "あそこに 車を 止めて ください。",
+    "translation": "Please stop the car over there.",
+    "examples": [
+      { "word": "中止", "furigana": "ちゅうし", "meaning": "cancellation / suspension" },
+      { "word": "禁止", "furigana": "きんし", "meaning": "prohibition" },
+      { "word": "波止場", "furigana": "hatoba", "meaning": "wharf / quay" }
+    ]
+  },
+  {
+    "kanji": "切",
+    "meaning": "Cut / End",
+    "reading": "On: セツ | Kun: き-る",
+    "level": "N4",
+    "sentence": "はさみで かみを 切ります。",
+    "translation": "I will cut the paper with scissors.",
+    "examples": [
+      { "word": "切手", "furigana": "きって", "meaning": "postage stamp" },
+      { "word": "大切", "furigana": "たいせつ", "meaning": "important" },
+      { "word": "親切", "furigana": "しんせつ", "meaning": "kind" }
+    ]
+  },
+  {
+    "kanji": "物",
+    "meaning": "Thing / Object",
+    "reading": "On: ブツ、モツ | Kun: もの",
+    "level": "N4",
+    "sentence": "デパートで 買い物を しました。",
+    "translation": "I did some shopping at the department store.",
+    "examples": [
+      { "word": "動物", "furigana": "どうぶつ", "meaning": "animal" },
+      { "word": "建物", "furigana": "たてもの", "meaning": "building" },
+      { "word": "荷物", "furigana": "にもつ", "meaning": "luggage" }
+    ]
+  },
+  {
+    "kanji": "店",
+    "meaning": "Shop / Store",
+    "reading": "On: テン | Kun: みせ",
+    "level": "N4",
+    "sentence": "あの 店の ケーキは おいしいです。",
+    "translation": "The cake at that shop is delicious.",
+    "examples": [
+      { "word": "喫茶店", "furigana": "きっさてん", "meaning": "coffee shop" },
+      { "word": "書店", "furigana": "しょてん", "meaning": "bookstore" },
+      { "word": "店員", "furigana": "てんいん", "meaning": "store clerk" }
+    ]
+  },
+  {
+    "kanji": "病",
+    "meaning": "Illness / Sickness",
+    "reading": "On: ビョウ | Kun: や-む",
+    "level": "N4",
+    "sentence": "病気に なったので 学校を やすみました。",
+    "translation": "I rested from school because I became sick.",
+    "examples": [
+      { "word": "病院", "furigana": "びょういん", "meaning": "hospital" },
+      { "word": "病室", "furigana": "びょうしつ", "meaning": "hospital room" },
+      { "word": "病人", "furigana": "びょうにん", "meaning": "sick person" }
+    ]
+  },
+  {
+    "kanji": "体",
+    "meaning": "Body",
+    "reading": "On: タイ | Kun: からだ",
+    "level": "N4",
+    "sentence": "健康のために 体を うごかします。",
+    "translation": "I move my body for my health.",
+    "examples": [
+      { "word": "体重", "furigana": "たいじゅう", "meaning": "body weight" },
+      { "word": "体育", "furigana": "たいいく", "meaning": "physical education" },
+      { "word": "全体", "furigana": "ぜんたい", "meaning": "the whole" }
+    ]
+  },
+  {
+    "kanji": "町",
+    "meaning": "Town / Street",
+    "reading": "On: チョウ | Kun: まち",
+    "level": "N4",
+    "sentence": "わたしの 町は しずかです。",
+    "translation": "My town is quiet.",
+    "examples": [
+      { "word": "町長", "furigana": "ちょうちょう", "meaning": "town mayor" },
+      { "word": "下町", "furigana": "したまち", "meaning": "downtown / old town" },
+      { "word": "町内", "furigana": "ちょうない", "meaning": "neighborhood" }
+    ]
+  },
+  {
+    "kanji": "寄",
+    "meaning": "Approach / Gather",
+    "reading": "On: キ | Kun: よ-る、よ-せる",
+    "level": "N4",
+    "sentence": "かえりに スーパーに 寄ります。",
+    "translation": "I will stop by the supermarket on my way back.",
+    "examples": [
+      { "word": "寄付", "furigana": "きふ", "meaning": "donation" },
+      { "word": "立ち寄る", "furigana": "たちよる", "meaning": "to drop by" },
+      { "word": "寄り道", "furigana": "よりみち", "meaning": "detour" }
+    ]
+  },
+  {
+    "kanji": "走",
+    "meaning": "Run",
+    "reading": "On: ソウ | Kun: はし-る",
+    "level": "N4",
+    "sentence": "えきまで いっしょに 走りました。",
+    "translation": "We ran together to the station.",
+    "examples": [
+      { "word": "師走", "furigana": "しわす", "meaning": "December" },
+      { "word": "走行", "furigana": "そうこう", "meaning": "running (a vehicle)" },
+      { "word": "ご馳走", "furigana": "ごちそう", "meaning": "feast / treat" }
+    ]
+  },
+  {
+    "kanji": "送",
+    "meaning": "Send",
+    "reading": "On: ソウ | Kun: おく-る",
+    "level": "N4",
+    "sentence": "ともだちに 手紙を 送りました。",
+    "translation": "I sent a letter to my friend.",
+    "examples": [
+      { "word": "送料", "furigana": "そうりょう", "meaning": "postage / shipping fee" },
+      { "word": "見送る", "furigana": "みおくる", "meaning": "to see someone off" },
+      { "word": "送信", "furigana": "そうしん", "meaning": "transmission / sending" }
+    ]
+  },
+  {
+    "kanji": "答",
+    "meaning": "Answer",
+    "reading": "On: トウ | Kun: こた-える、こた-え",
+    "level": "N4",
+    "sentence": "しつもんに 正しく 答えて ください。",
+    "translation": "Please answer the question correctly.",
+    "examples": [
+      { "word": "回答", "furigana": "かいとう", "meaning": "reply / answer" },
+      { "word": "解答", "furigana": "かいとう", "meaning": "solution / answer key" },
+      { "word": "問答", "furigana": "もんどう", "meaning": "questions and answers" }
+    ]
+  },
+  {
+    "kanji": "反",
+    "meaning": "Anti- / Opposite",
+    "reading": "On: ハン、ホン | Kun: そ-る",
+    "level": "N4",
+    "sentence": "かれの 意見に 反対します。",
+    "translation": "I oppose his opinion.",
+    "examples": [
+      { "word": "反対", "furigana": "はんたい", "meaning": "opposite / opposition" },
+      { "word": "反省", "furigana": "はんせい", "meaning": "reflection / reconsideration" },
+      { "word": "反応", "furigana": "はんのう", "meaning": "reaction / response" }
+    ]
+  },
+  {
+    "kanji": "対",
+    "meaning": "Vis-a-vis / Opposite / Equal",
+    "reading": "On: タイ、ツイ",
+    "level": "N4",
+    "sentence": "二人は 対等な かんけいです。",
+    "translation": "The two have an equal relationship.",
+    "examples": [
+      { "word": "反対", "furigana": "はんたい", "meaning": "opposite / opposition" },
+      { "word": "対象", "furigana": "たいしょう", "meaning": "target / object" },
+      { "word": "一対", "furigana": "いっつい", "meaning": "a pair" }
+    ]
+  },
+  {
+    "kanji": "飯",
+    "meaning": "Meal / Cooked rice",
+    "reading": "On: ハン | Kun: めし",
+    "level": "N4",
+    "sentence": "もう 晩ご飯を たべましたか。",
+    "translation": "Have you eaten dinner already?",
+    "examples": [
+      { "word": "ご飯", "furigana": "ごはん", "meaning": "meal / rice" },
+      { "word": "朝ご飯", "furigana": "あさごはん", "meaning": "breakfast" },
+      { "word": "昼飯", "furigana": "ひるめし", "meaning": "lunch (casual)" }
+    ]
+  },
+  {
+    "kanji": "服",
+    "meaning": "Clothes / Obey",
+    "reading": "On: フク",
+    "level": "N4",
+    "sentence": "新しい 服を 買いに いきます。",
+    "translation": "I will go buy some new clothes.",
+    "examples": [
+      { "word": "洋服", "furigana": "ようふく", "meaning": "Western clothes" },
+      { "word": "和服", "furigana": "わふく", "meaning": "Japanese clothes" },
+      { "word": "下着", "furigana": "したぎ", "meaning": "underwear" }
+    ]
+  },
+  {
+    "kanji": "信",
+    "meaning": "Trust / Believe",
+    "reading": "On: シン",
+    "level": "N4",
+    "sentence": "ニュースを 信じられません。",
+    "translation": "I cannot believe the news.",
+    "examples": [
+      { "word": "信号", "furigana": "しんごう", "meaning": "traffic light" },
+      { "word": "信用", "furigana": "しんよう", "meaning": "trust / confidence" },
+      { "word": "自信", "furigana": "じしん", "meaning": "confidence" }
+    ]
+  },
+  {
+    "kanji": "終",
+    "meaning": "End / Finish",
+    "reading": "On: シュウ | Kun: お-わる、お-える",
+    "level": "N4",
+    "sentence": "授業は ４時に 終わります。",
+    "translation": "The class finishes at 4 o'clock.",
+    "examples": [
+      { "word": "終わり", "furigana": "おわり", "meaning": "the end" },
+      { "word": "最終", "furigana": "さいしゅう", "meaning": "final / last" },
+      { "word": "終点", "furigana": "しゅうてん", "meaning": "terminus / last stop" }
+    ]
+  },
+  {
+    "kanji": "考",
+    "meaning": "Think / Consider",
+    "reading": "On: コウ | Kun: かんが-える",
+    "level": "N4",
+    "sentence": "将来の ことを 考えて います。",
+    "translation": "I am thinking about the future.",
+    "examples": [
+      { "word": "考え", "furigana": "かんがえ", "meaning": "idea / thought" },
+      { "word": "参考", "furigana": "さんこう", "meaning": "reference" },
+      { "word": "考古学", "furigana": "こうこがく", "meaning": "archaeology" }
+    ]
+  },
+  {
+    "kanji": "借",
+    "meaning": "Borrow",
+    "reading": "On: シャク | Kun: か-りる",
+    "level": "N4",
+    "sentence": "図書館で 本を 借りました。",
+    "translation": "I borrowed a book from the library.",
+    "examples": [
+      { "word": "借金", "furigana": "しゃっきん", "meaning": "debt / loan" },
+      { "word": "借家", "furigana": "しゃくや", "meaning": "rented house" },
+      { "word": "借り手", "furigana": "かりて", "meaning": "borrower / tenant" }
+    ]
+  },
+  {
+    "kanji": "貸",
+    "meaning": "Lend",
+    "reading": "On: タイ | Kun: か-す",
+    "level": "N4",
+    "sentence": "ペンを 貸して くれませんか。",
+    "translation": "Could you lend me a pen?",
+    "examples": [
+      { "word": "貸し出し", "furigana": "かしだし", "meaning": "lending / loaning out" },
+      { "word": "賃貸", "furigana": "ちんたい", "meaning": "lease / rent" },
+      { "word": "貸家", "furigana": "かしや", "meaning": "house for rent" }
+    ]
+  },
+  {
+    "kanji": "黒",
+    "meaning": "Black",
+    "reading": "On: コク | Kun: くろ、くろ-しい",
+    "level": "N4",
+    "sentence": "黒い かばんを 買いました。",
+    "translation": "I bought a black bag.",
+    "examples": [
+      { "word": "黒板", "furigana": "こくばん", "meaning": "blackboard" },
+      { "word": "真っ黒", "furigana": "まっくろ", "meaning": "pitch black" },
+      { "word": "白黒", "furigana": "しろくろ", "meaning": "black and white" }
+    ]
+  },
+  {
+    "kanji": "白",
+    "meaning": "White",
+    "reading": "On: ハク、ビャク | Kun: しろ、しろ-い",
+    "level": "N4",
+    "sentence": "白い シャツを 着ています。",
+    "translation": "I am wearing a white shirt.",
+    "examples": [
+      { "word": "白髪", "furigana": "しらが", "meaning": "white/gray hair" },
+      { "word": "明白", "furigana": "めいはく", "meaning": "clear / obvious" },
+      { "word": "面白い", "furigana": "おもしろい", "meaning": "interesting" }
+    ]
+  },
+  {
+    "kanji": "赤",
+    "meaning": "Red",
+    "reading": "On: セキ、シャク | Kun: あか、あか-い",
+    "level": "N4",
+    "sentence": "赤信号なので 止まります。",
+    "translation": "It is a red light, so I will stop.",
+    "examples": [
+      { "word": "赤ちゃん", "furigana": "あかちゃん", "meaning": "baby" },
+      { "word": "赤道", "furigana": "せきどう", "meaning": "the equator" },
+      { "word": "赤十字", "furigana": "せきじゅうじ", "meaning": "Red Cross" }
+    ]
+  },
+  {
+    "kanji": "青",
+    "meaning": "Blue",
+    "reading": "On: セイ、ショウ | Kun: あお、あお-い",
+    "level": "N4",
+    "sentence": "空が 青くて きれいです。",
+    "translation": "The sky is blue and beautiful.",
+    "examples": [
+      { "word": "青年", "furigana": "せいねん", "meaning": "youth / young man" },
+      { "word": "青空", "furigana": "あおぞら", "meaning": "blue sky" },
+      { "word": "青森", "furigana": "あおもり", "meaning": "Aomori (place name)" }
+    ]
+  },
+  {
+    "kanji": "近",
+    "meaning": "Near / Close",
+    "reading": "On: キン | Kun: ちか-い",
+    "level": "N4",
+    "sentence": "駅の 近くに 住んでいます。",
+    "translation": "I live near the station.",
+    "examples": [
+      { "word": "最近", "furigana": "さいきん", "meaning": "recently" },
+      { "word": "近所", "furigana": "きんじょ", "meaning": "neighborhood" },
+      { "word": "近道", "furigana": "ちかみち", "meaning": "shortcut" }
+    ]
+  },
+  {
+    "kanji": "遠",
+    "meaning": "Far / Distant",
+    "reading": "On: エン | Kun: とお-い",
+    "level": "N4",
+    "sentence": "学校まで 遠い ですか。",
+    "translation": "Is it far to school?",
+    "examples": [
+      { "word": "遠足", "furigana": "えんそく", "meaning": "excursion / picnic" },
+      { "word": "遠慮", "furigana": "えんりょ", "meaning": "restraint / hesitation" },
+      { "word": "遠方", "furigana": "えんぽう", "meaning": "distant place" }
+    ]
+  },
+  {
+    "kanji": "帰",
+    "meaning": "Return",
+    "reading": "On: キ | Kun: かえ-る、かえ-す",
+    "level": "N4",
+    "sentence": "何時に 家に 帰りますか。",
+    "translation": "What time will you return home?",
+    "examples": [
+      { "word": "日帰り", "furigana": "ひがえり", "meaning": "day trip" },
+      { "word": "帰国", "furigana": "きこく", "meaning": "return to one's country" },
+      { "word": "帰り道", "furigana": "かえりみち", "meaning": "the way home" }
+    ]
+  },
+  {
+    "kanji": "味",
+    "meaning": "Taste / Flavor",
+    "reading": "On: ミ | Kun: あじ、あじ-わう",
+    "level": "N4",
+    "sentence": "この スープは 薄い 味がします。",
+    "translation": "This soup has a weak taste.",
+    "examples": [
+      { "word": "意味", "furigana": "いみ", "meaning": "meaning" },
+      { "word": "趣味", "furigana": "しゅみ", "meaning": "hobby" },
+      { "word": "興味", "furigana": "きょうみ", "meaning": "interest" }
+    ]
+  },
+  {
+    "kanji": "究",
+    "meaning": "Research / Master",
+    "reading": "On: キュウ | Kun: きわ-める",
+    "level": "N4",
+    "sentence": "大学で 科学を 研究して います。",
+    "translation": "I am researching chemistry at the university.",
+    "examples": [
+      { "word": "研究所", "furigana": "けんきゅうじょ", "meaning": "research institute" },
+      { "word": "究極", "furigana": "きゅうきょく", "meaning": "ultimate" },
+      { "word": "探究", "furigana": "たんきゅう", "meaning": "inquiry / research" }
+    ]
+  },
+  {
+    "kanji": "研",
+    "meaning": "Sharpen / Polish / Study",
+    "reading": "On: ケン | Kun: と-ぐ",
+    "level": "N4",
+    "sentence": "もっと 日本語を 研磨しなければ なりません。",
+    "translation": "I must polish up my Japanese more.",
+    "examples": [
+      { "word": "研究", "furigana": "けんきゅう", "meaning": "research" },
+      { "word": "研修", "furigana": "けんしゅう", "meaning": "training" },
+      { "word": "研究者", "furigana": "けんきゅうしゃ", "meaning": "researcher" }
+    ]
+  },
+  {
+    "kanji": "急",
+    "meaning": "Hurry / Sudden",
+    "reading": "On: キュウ | Kun: いそ-ぐ",
+    "level": "N4",
+    "sentence": "時間が ないので 急ぎましょう。",
+    "translation": "Let's hurry because there is no time.",
+    "examples": [
+      { "word": "急行", "furigana": "きゅうこう", "meaning": "express train" },
+      { "word": "特急", "furigana": "とっきゅう", "meaning": "limited express" },
+      { "word": "急に", "furigana": "きゅうに", "meaning": "suddenly" }
+    ]
+  },
+  {
+    "kanji": "重",
+    "meaning": "Heavy / Pile up",
+    "reading": "On: ジュウ、チョウ | Kun: おも-い、かさ-ねる",
+    "level": "N4",
+    "sentence": "この 荷物は とても 重いです。",
+    "translation": "This luggage is very heavy.",
+    "examples": [
+      { "word": "体重", "furigana": "たいじゅう", "meaning": "body weight" },
+      { "word": "貴重", "furigana": "きちょう", "meaning": "precious / valuable" },
+      { "word": "重ねる", "furigana": "かさねる", "meaning": "to pile up" }
+    ]
+  },
+  {
+    "kanji": "軽",
+    "meaning": "Light (weight)",
+    "reading": "On: ケイ | Kun: かる-い",
+    "level": "N4",
+    "sentence": "この コートは 軽くて 温かいです。",
+    "translation": "This coat is light and warm.",
+    "examples": [
+      { "word": "軽食", "furigana": "けいしょく", "meaning": "light meal / snack" },
+      { "word": "気軽に", "furigana": "きがるに", "meaning": "freely / casually" },
+      { "word": "軽自動車", "furigana": "けいじどうしゃ", "meaning": "light/kei car" }
+    ]
+  },
+  {
+    "kanji": "病",
+    "meaning": "Sickness / Illness",
+    "reading": "On: ビョウ | Kun: や-む",
+    "level": "N4",
+    "sentence": "病気にならないように 気をつけます。",
+    "translation": "I will take care not to fall ill.",
+    "examples": [
+      { "word": "病院", "furigana": "びょういん", "meaning": "hospital" },
+      { "word": "病気", "furigana": "びょうき", "meaning": "sickness" },
+      { "word": "病室", "furigana": "びょうしつ", "meaning": "hospital room" }
+    ]
+  },
+  {
+    "kanji": "弱",
+    "meaning": "Weak",
+    "reading": "On: ジャク | Kun: よわ-い",
+    "level": "N4",
+    "sentence": "風邪を ひいて 体が 弱っています。",
+    "translation": "I caught a cold, so my body is weakened.",
+    "examples": [
+      { "word": "弱点", "furigana": "じゃくてん", "meaning": "weak point" },
+      { "word": "弱気", "furigana": "よわき", "meaning": "timid / weak-kneed" },
+      { "word": "微弱", "furigana": "びじゃく", "meaning": "faint / feeble" }
+    ]
+  },
+  {
+    "kanji": "暗",
+    "meaning": "Dark / Secret",
+    "reading": "On: アン | Kun: くら-い",
+    "level": "N4",
+    "sentence": "外は もう 暗く なりました。",
+    "translation": "It has already become dark outside.",
+    "examples": [
+      { "word": "暗記", "furigana": "あんき", "meaning": "memorization" },
+      { "word": "暗号", "furigana": "あんごう", "meaning": "cipher / code" },
+      { "word": "真っ暗", "furigana": "まっくら", "meaning": "pitch dark" }
+    ]
+  },
+  {
+    "kanji": "悪",
+    "meaning": "Bad / Evil",
+    "reading": "On: アク | Kun: わる-い",
+    "level": "N4",
+    "sentence": "人の 悪口を 言ってはいけません。",
+    "translation": "You must not speak badly of others.",
+    "examples": [
+      { "word": "悪い", "furigana": "わるい", "meaning": "bad" },
+      { "word": "悪魔", "furigana": "あくま", "meaning": "devil / demon" },
+      { "word": "最悪", "furigana": "さいあく", "meaning": "the worst" }
+    ]
+  },
+  {
+    "kanji": "太",
+    "meaning": "Fat / Thick",
+    "reading": "On: タイ、タ | Kun: ふと-い、ふと-る",
+    "level": "N4",
+    "sentence": "さいきん 少し 太りました。",
+    "translation": "I gained a little weight recently.",
+    "examples": [
+      { "word": "太陽", "furigana": "たいよう", "meaning": "the sun" },
+      { "word": "太平洋", "furigana": "たいへいよう", "meaning": "Pacific Ocean" },
+      { "word": "太字", "furigana": "ふとじ", "meaning": "bold text" }
+    ]
+  },
+  {
+    "kanji": "政",
+    "meaning": "Politics / Government",
+    "reading": "On: セイ、ショウ | Kun: まつりごと",
+    "level": "N3",
+    "sentence": "国の 政治について 考えます。",
+    "translation": "I think about the country's politics.",
+    "examples": [
+      { "word": "政府", "furigana": "せいふ", "meaning": "government" },
+      { "word": "政治家", "furigana": "せいじか", "meaning": "politician" },
+      { "word": "政策", "furigana": "せいさく", "meaning": "policy" }
+    ]
+  },
+  {
+    "kanji": "経",
+    "meaning": "Pass through / Manage / Experience",
+    "reading": "On: ケイ、キョウ | Kun: へ-る",
+    "level": "N3",
+    "sentence": "大学で 経済学を まなびました。",
+    "translation": "I studied economics at the university.",
+    "examples": [
+      { "word": "経験", "furigana": "けいけん", "meaning": "experience" },
+      { "word": "経営", "furigana": "けいえい", "meaning": "management" },
+      { "word": "経費", "furigana": "けいひ", "meaning": "expenses" }
+    ]
+  },
+  {
+    "kanji": "済",
+    "meaning": "Finish / Settle / Relieve",
+    "reading": "On: サイ、ザイ | Kun: す-む、す-ます",
+    "level": "N3",
+    "sentence": "もう 会費の 支払いは 済みました。",
+    "translation": "The payment for the membership fee is already finished.",
+    "examples": [
+      { "word": "経済", "furigana": "けいざい", "meaning": "economics" },
+      { "word": "返済", "furigana": "へんさい", "meaning": "repayment" },
+      { "word": "決済", "furigana": "けっさい", "meaning": "settlement / payment" }
+    ]
+  },
+  {
+    "kanji": "険",
+    "meaning": "Precipitous / Steep / Risky",
+    "reading": "On: ケン | Kun: けわ-しい",
+    "level": "N3",
+    "sentence": "この 山道は 険しいです。",
+    "translation": "This mountain path is steep.",
+    "examples": [
+      { "word": "危険", "furigana": "きけん", "meaning": "danger" },
+      { "word": "保険", "furigana": "ほけん", "meaning": "insurance" },
+      { "word": "冒険", "furigana": "ぼうけん", "meaning": "adventure" }
+    ]
+  },
+  {
+    "kanji": "備",
+    "meaning": "Equip / Provision / Provide",
+    "reading": "On: ビ | Kun: そな-える、そな-わる",
+    "level": "N3",
+    "sentence": "地震に 備えて 水を かいました。",
+    "translation": "I bought water in preparation for earthquakes.",
+    "examples": [
+      { "word": "準備", "furigana": "じゅんび", "meaning": "preparation" },
+      { "word": "設備", "furigana": "せつび", "meaning": "equipment / facilities" },
+      { "word": "予備", "furigana": "よび", "meaning": "spare / reserve" }
+    ]
+  },
+  {
+    "kanji": "営",
+    "meaning": "Camp / Perform / Build / Run a business",
+    "reading": "On: エイ | Kun: いとな-む",
+    "level": "N3",
+    "sentence": "かれは レストランを 営んでいます。",
+    "translation": "He runs a restaurant.",
+    "examples": [
+      { "word": "営業", "furigana": "えいぎょう", "meaning": "business hours / sales" },
+      { "word": "経営", "furigana": "けいえい", "meaning": "management" },
+      { "word": "運営", "furigana": "うんえい", "meaning": "administration / operation" }
+    ]
+  },
+  {
+    "kanji": "面",
+    "meaning": "Face / Mask / Surface",
+    "reading": "On: メン | Kun: おも、おもて、つら",
+    "level": "N3",
+    "sentence": "あした 会社の 面接が あります。",
+    "translation": "I have a job interview tomorrow.",
+    "examples": [
+      { "word": "面白い", "furigana": "おもしろい", "meaning": "interesting" },
+      { "word": "画面", "furigana": "がめん", "meaning": "screen" },
+      { "word": "表面", "furigana": "ひょうめん", "meaning": "surface" }
+    ]
+  },
+  {
+    "kanji": "接",
+    "meaning": "Touch / Contact / Adjoin",
+    "reading": "On: セツ、ショウ | Kun: つ-ぐ",
+    "level": "N3",
+    "sentence": "客に 親切に 接します。",
+    "translation": "I attend to customers kindly.",
+    "examples": [
+      { "word": "面接", "furigana": "めんせつ", "meaning": "interview" },
+      { "word": "直接", "furigana": "ちょくせつ", "meaning": "directly" },
+      { "word": "接続", "furigana": "せつぞく", "meaning": "connection" }
+    ]
+  },
+  {
+    "kanji": "対",
+    "meaning": "Opposite / Versus / Equal",
+    "reading": "On: タイ、ツイ",
+    "level": "N3",
+    "sentence": "提案に 反対する 人は いません。",
+    "translation": "There is no one who opposes the proposal.",
+    "examples": [
+      { "word": "反対", "furigana": "はんたい", "meaning": "opposite / opposition" },
+      { "word": "対象", "furigana": "たいしょう", "meaning": "target / object" },
+      { "word": "対談", "furigana": "たいだん", "meaning": "talk / dialogue" }
+    ]
+  },
+  {
+    "kanji": "個",
+    "meaning": "Individual / Counter for articles",
+    "reading": "On: コ",
+    "level": "N3",
+    "sentence": "リンゴを 三個 かいました。",
+    "translation": "I bought three apples.",
+    "examples": [
+      { "word": "個人", "furigana": "こじん", "meaning": "individual / private" },
+      { "word": "個性", "furigana": "こせい", "meaning": "individuality / personality" },
+      { "word": "一個", "furigana": "いっこ", "meaning": "one piece" }
+    ]
+  },
+  {
+    "kanji": "全",
+    "meaning": "Whole / Entire / All",
+    "reading": "On: ゼン | Kun: まった-く、すべ-て",
+    "level": "N3",
+    "sentence": "漢字の 意味が 全く わかりません。",
+    "translation": "I don't understand the meaning of the kanji at all.",
+    "examples": [
+      { "word": "全部", "furigana": "ぜんぶ", "meaning": "all / everything" },
+      { "word": "安全", "furigana": "あんぜん", "meaning": "safety" },
+      { "word": "全国", "furigana": "ぜんこく", "meaning": "nationwide" }
+    ]
+  },
+  {
+    "kanji": "部",
+    "meaning": "Part / Section / Department",
+    "reading": "On: ブ",
+    "level": "N3",
+    "sentence": "高校のとき テニス部に 入っていました。",
+    "translation": "When I was in high school, I belonged to the tennis club.",
+    "examples": [
+      { "word": "部屋", "furigana": "へや", "meaning": "room" },
+      { "word": "部分", "furigana": "ぶぶん", "meaning": "part / portion" },
+      { "word": "部長", "furigana": "ぶちょう", "meaning": "department manager" }
+    ]
+  },
+  {
+    "kanji": "内",
+    "meaning": "Inside / Within / Home",
+    "reading": "On: ナイ、ダイ | Kun: うち",
+    "level": "N3",
+    "sentence": "時間内に テストを おわらせます。",
+    "translation": "I will finish the test within the time limit.",
+    "examples": [
+      { "word": "案内", "furigana": "あんない", "meaning": "guidance / information" },
+      { "word": "以内", "furigana": "いない", "meaning": "within / inside" },
+      { "word": "内容", "furigana": "ないよう", "meaning": "content" }
+    ]
+  },
+  {
+    "kanji": "相",
+    "meaning": "Inter- / Mutual / Minister of State",
+    "reading": "On: ソウ、ショウ | Kun: あい",
+    "level": "N3",
+    "sentence": "こまったときは 先生に 相談します。",
+    "translation": "When I am in trouble, I consult with my teacher.",
+    "examples": [
+      { "word": "首相", "furigana": "しゅしょう", "meaning": "prime minister" },
+      { "word": "相手", "furigana": "あいて", "meaning": "partner / opponent" },
+      { "word": "相互", "furigana": "そうご", "meaning": "mutual" }
+    ]
+  },
+  {
+    "kanji": "談",
+    "meaning": "Discuss / Talk",
+    "reading": "On: ダン",
+    "level": "N3",
+    "sentence": "ともだちと 冗談を 言い合いました。",
+    "translation": "I exchanged jokes with my friend.",
+    "examples": [
+      { "word": "相談", "furigana": "そうだん", "meaning": "consultation" },
+      { "word": "会談", "furigana": "かいだん", "meaning": "conference / interview" },
+      { "word": "対談", "furigana": "たいだん", "meaning": "dialogue / talk" }
+    ]
+  },
+  {
+    "kanji": "配",
+    "meaning": "Distribute / Spouse / Exile",
+    "reading": "On: ハイ | Kun: くば-る",
+    "level": "N3",
+    "sentence": "クラスで プリントを 配ります。",
+    "translation": "I will distribute handouts in class.",
+    "examples": [
+      { "word": "心配", "furigana": "しんぱい", "meaning": "worry / anxiety" },
+      { "word": "配達", "furigana": "はいたつ", "meaning": "delivery" },
+      { "word": "気配", "furigana": "けはい", "meaning": "sign / indication" }
+    ]
+  },
+  {
+    "kanji": "育",
+    "meaning": "Bring up / Grow up / Raise",
+    "reading": "On: イク | Kun: そだ-てる、そだ-つ",
+    "level": "N3",
+    "sentence": "田舎で のんびり 育ちました。",
+    "translation": "I grew up relaxedly in the countryside.",
+    "examples": [
+      { "word": "教育", "furigana": "きょういく", "meaning": "education" },
+      { "word": "体育", "furigana": "たいいく", "meaning": "physical education" },
+      { "word": "育児", "furigana": "いくじ", "meaning": "child-rearing" }
+    ]
+  },
+  {
+    "kanji": "化",
+    "meaning": "Change / Turn into / Influence",
+    "reading": "On: カ、ケ | Kun: ば-ける",
+    "level": "N3",
+    "sentence": "日本の 文化に 興味が あります。",
+    "translation": "I have an interest in Japanese culture.",
+    "examples": [
+      { "word": "化学", "furigana": "かがく", "meaning": "chemistry" },
+      { "word": "変化", "furigana": "へんか", "meaning": "change" },
+      { "word": "化粧", "furigana": "けしょう", "meaning": "makeup" }
+    ]
+  },
+  {
+    "kanji": "酒",
+    "meaning": "Alcohol / Sake",
+    "reading": "On: シュ | Kun: さけ、さか",
+    "level": "N3",
+    "sentence": "お酒は 二十歳に なってから。",
+    "translation": "Alcohol is only after turning 20 years old.",
+    "examples": [
+      { "word": "日本酒", "furigana": "にほんしゅ", "meaning": "Japanese sake" },
+      { "word": "居酒屋", "furigana": "いざかや", "meaning": "Japanese pub" },
+      { "word": "飲酒", "furigana": "いんしゅ", "meaning": "drinking alcohol" }
+    ]
+  },
+  {
+    "kanji": "果",
+    "meaning": "Fruit / Result / Accomplish",
+    "reading": "On: カ | Kun: は-たす、は-てる",
+    "level": "N3",
+    "sentence": "まいにち くだものを たべます。",
+    "translation": "I eat fruit every day.",
+    "examples": [
+      { "word": "果物", "furigana": "くだもの", "meaning": "fruit" },
+      { "word": "結果", "furigana": "けっか", "meaning": "result" },
+      { "word": "効果", "furigana": "こうか", "meaning": "effect" }
+    ]
+  },
+  {
+    "kanji": "悲",
+    "meaning": "Sad / Grieve",
+    "reading": "On: ヒ | Kun: かな-しい、かな-しむ",
+    "level": "N3",
+    "sentence": "悲しい 映画を みて 泣きました。",
+    "translation": "I watched a sad movie and cried.",
+    "examples": [
+      { "word": "悲劇", "furigana": "ひげき", "meaning": "tragedy" },
+      { "word": "悲哀", "furigana": "ひあい", "meaning": "sorrow" },
+      { "word": "悲痛", "furigana": "ひつう", "meaning": "grief-stricken" }
+    ]
+  },
+  {
+    "kanji": "幸",
+    "meaning": "Happiness / Good fortune",
+    "reading": "On: コウ | Kun: さいわ-い、しあわ-せ",
+    "level": "N3",
+    "sentence": "家族が 元気なら 幸せです。",
+    "translation": "If my family is healthy, I am happy.",
+    "examples": [
+      { "word": "幸福", "furigana": "こうふく", "meaning": "happiness" },
+      { "word": "不幸", "furigana": "ふこう", "meaning": "misfortune / unhappiness" },
+      { "word": "幸運", "furigana": "こううん", "meaning": "good luck" }
+    ]
+  },
+  {
+    "kanji": "福",
+    "meaning": "Blessing / Fortune / Wealth",
+    "reading": "On: フク",
+    "level": "N3",
+    "sentence": "笑う 門には 福 来たる。",
+    "translation": "Fortune comes to a smiling gate (Japanese proverb).",
+    "examples": [
+      { "word": "福祉", "furigana": "ふくし", "meaning": "welfare" },
+      { "word": "福袋", "furigana": "ふくぶくろ", "meaning": "lucky bag" },
+      { "word": "祝福", "furigana": "しゅくふく", "meaning": "blessing / celebration" }
+    ]
+  },
+  {
+    "kanji": "路",
+    "meaning": "Path / Route / Road",
+    "reading": "On: ロ、ル | Kun: じ",
+    "level": "N3",
+    "sentence": "道路を わたるときは 気をつけて。",
+    "translation": "Be careful when crossing the road.",
+    "examples": [
+      { "word": "通路", "furigana": "つうろ", "meaning": "aisle / pathway" },
+      { "word": "線路", "furigana": "せんろ", "meaning": "railway track" },
+      { "word": "進路", "furigana": "しんろ", "meaning": "career path / course" }
+    ]
+  },
+  {
+    "kanji": "盗",
+    "meaning": "Steal / Rob",
+    "reading": "On: トウ | Kun: ぬす-む",
+    "level": "N3",
+    "sentence": "だれかに 自転車を 盗まれました。",
+    "translation": "My bicycle was stolen by someone.",
+    "examples": [
+      { "word": "強盗", "furigana": "ごうとう", "meaning": "robbery / robber" },
+      { "word": "盗難", "furigana": "とうなん", "meaning": "theft" },
+      { "word": "盗聴", "furigana": "とうちょう", "meaning": "wiretapping" }
+    ]
+  },
+  {
+    "kanji": "吸",
+    "meaning": "Suck / Inhale / Sip",
+    "reading": "On: キュウ | Kun: す-う",
+    "level": "N3",
+    "sentence": "タバコを 吸っても いいですか。",
+    "translation": "May I smoke a cigarette?",
+    "examples": [
+      { "word": "呼吸", "furigana": "こきゅう", "meaning": "breathing" },
+      { "word": "吸収", "furigana": "きゅうしゅう", "meaning": "absorption" },
+      { "word": "吸い殻", "furigana": "すいがら", "meaning": "cigarette butt" }
+    ]
+  },
+  {
+    "kanji": "適",
+    "meaning": "Suitable / Fit / Proper",
+    "reading": "On: テキ",
+    "level": "N3",
+    "sentence": "適度な 運動が 体に いいです。",
+    "translation": "Moderate exercise is good for your body.",
+    "examples": [
+      { "word": "適切な", "furigana": "てきせつな", "meaning": "appropriate" },
+      { "word": "適当な", "furigana": "てきとうな", "meaning": "suitable / random" },
+      { "word": "適応", "furigana": "てきおう", "meaning": "adaptation" }
+    ]
+  },
+  {
+    "kanji": "由",
+    "meaning": "Reason / Wherefore / Origin",
+    "reading": "On: ユ、ユウ、ユイ | Kun: よし",
+    "level": "N3",
+    "sentence": "遅刻した 理由を 説明してください。",
+    "translation": "Please explain the reason why you were late.",
+    "examples": [
+      { "word": "自由", "furigana": "じゆう", "meaning": "freedom" },
+      { "word": "経由", "furigana": "けいゆ", "meaning": "via / by way of" },
+      { "word": "由来", "furigana": "ゆらい", "meaning": "origin / source" }
+    ]
+  },
+  {
+    "kanji": "断",
+    "meaning": "Refuse / Sever / Decide",
+    "reading": "On: ダン | Kun: ことわ-る、た-つ",
+    "level": "N3",
+    "sentence": "さそいを きっぱり 断りました。",
+    "translation": "I flatly refused the invitation.",
+    "examples": [
+      { "word": "断水", "furigana": "だんすい", "meaning": "water outage" },
+      { "word": "油断", "furigana": "ゆだん", "meaning": "negligence / carelessness" },
+      { "word": "決断", "furigana": "けつだん", "meaning": "decision" }
+    ]
+  },
+  {
+    "kanji": "求",
+    "meaning": "Request / Want / Wish",
+    "reading": "On: キュウ | Kun: もと-める",
+    "level": "N3",
+    "sentence": "助けを 求める 声が きこえました。",
+    "translation": "I heard a voice calling for help.",
+    "examples": [
+      { "word": "要求", "furigana": "ようきゅう", "meaning": "demand / request" },
+      { "word": "求人", "furigana": "きゅうじん", "meaning": "job offer / recruiting" },
+      { "word": "探求", "furigana": "たんきゅう", "meaning": "quest / pursuit" }
+    ]
+  },
+  {
+    "kanji": "義",
+    "meaning": "Justice / Morality / Meaning",
+    "reading": "On: ギ",
+    "level": "N3",
+    "sentence": "それは 人間の 義務です。",
+    "translation": "That is a human duty.",
+    "examples": [
+      { "word": "意味", "furigana": "いみ", "meaning": "meaning" },
+      { "word": "正義", "furigana": "せいぎ", "meaning": "justice" },
+      { "word": "定義", "furigana": "ていぎ", "meaning": "definition" }
+    ]
+  },
+  {
+    "kanji": "認",
+    "meaning": "Acknowledge / Approve / Recognize",
+    "reading": "On: ニン | Kun: みと-める",
+    "level": "N3",
+    "sentence": "じぶんの ミスを 認めます。",
+    "translation": "I admit my mistake.",
+    "examples": [
+      { "word": "確認", "furigana": "かくにん", "meaning": "confirmation" },
+      { "word": "認可", "furigana": "ninka", "meaning": "approval / license" },
+      { "word": "認識", "furigana": "にんしき", "meaning": "recognition / awareness" }
+    ]
+  },
+  {
+    "kanji": "算",
+    "meaning": "Calculate / Count",
+    "reading": "On: サン",
+    "level": "N3",
+    "sentence": "計算が とても 苦手です。",
+    "translation": "I am very bad at calculating.",
+    "examples": [
+      { "word": "予算", "furigana": "よさん", "meaning": "budget" },
+      { "word": "引き算", "furigana": "ひきざん", "meaning": "subtraction" },
+      { "word": "暗算", "furigana": "あんざん", "meaning": "mental arithmetic" }
+    ]
+  },
+  {
+    "kanji": "制",
+    "meaning": "System / Control / Rule",
+    "reading": "On: セイ",
+    "level": "N3",
+    "sentence": "学校には 制服が あります。",
+    "translation": "The school has a uniform.",
+    "examples": [
+      { "word": "制度", "furigana": "せいど", "meaning": "system / institution" },
+      { "word": "制限", "furigana": "せいげん", "meaning": "restriction / limit" },
+      { "word": "制作", "furigana": "せいさく", "meaning": "production / creation" }
+    ]
+  },
+  {
+    "kanji": "限",
+    "meaning": "Limit / Restrict",
+    "reading": "On: ゲン | Kun: かぎ-る",
+    "level": "N3",
+    "sentence": "時間に 限りがあります。",
+    "translation": "Time is limited.",
+    "examples": [
+      { "word": "期限", "furigana": "きげん", "meaning": "deadline / time limit" },
+      { "word": "最低限", "furigana": "さいていげん", "meaning": "minimum" },
+      { "word": "限界", "furigana": "げんかい", "meaning": "boundary / limit" }
+    ]
+  },
+  {
+    "kanji": "増",
+    "meaning": "Increase",
+    "reading": "On: ゾウ | Kun: ま-す、ふ-える、ふ-やす",
+    "level": "N3",
+    "sentence": "日本に来る 外国人が 増えています。",
+    "translation": "The number of foreigners coming to Japan is increasing.",
+    "examples": [
+      { "word": "増加", "furigana": "ぞうか", "meaning": "increase / growth" },
+      { "word": "増える", "furigana": "ふえる", "meaning": "to increase" },
+      { "word": "増量", "furigana": "ぞうりょう", "meaning": "increase in volume" }
+    ]
+  },
+  {
+    "kanji": "減",
+    "meaning": "Decrease",
+    "reading": "On: ゲン | Kun: へ-る、へ-らす",
+    "level": "N3",
+    "sentence": "さいきん 体重が 減りました。",
+    "translation": "My body weight decreased recently.",
+    "examples": [
+      { "word": "減少", "furigana": "げんしょう", "meaning": "decrease / decline" },
+      { "word": "減点", "furigana": "げんてん", "meaning": "deduction of points" },
+      { "word": "減らす", "furigana": "へらす", "meaning": "to reduce" }
+    ]
+  },
+  {
+    "kanji": "確",
+    "meaning": "Certain / Firm / Sure",
+    "reading": "On: カク | Kun: たし-か、たし-かめる",
+    "level": "N3",
+    "sentence": "電車の 時間を 確かめます。",
+    "translation": "I will check the train time.",
+    "examples": [
+      { "word": "確かに", "furigana": "たしかに", "meaning": "certainly / surely" },
+      { "word": "確認", "furigana": "かくにん", "meaning": "confirmation" },
+      { "word": "正確", "furigana": "せいかく", "meaning": "accurate" }
+    ]
+  },
+  {
+    "kanji": "示",
+    "meaning": "Show / Indicate",
+    "reading": "On: ジ、シ | Kun: しめ-す",
+    "level": "N3",
+    "sentence": "カードを 相手に 示します。",
+    "translation": "I will show the card to the other party.",
+    "examples": [
+      { "word": "指示", "furigana": "しじ", "meaning": "instruction / direction" },
+      { "word": "表示", "furigana": "ひょうじ", "meaning": "display / expression" },
+      { "word": "暗示", "furigana": "あんじ", "meaning": "hint / suggestion" }
+    ]
+  },
+  {
+    "kanji": "格",
+    "meaning": "Status / Rank / Standard",
+    "reading": "On: カク、コウ",
+    "level": "N3",
+    "sentence": "日本語の テストに 合格しました。",
+    "translation": "I passed the Japanese test.",
+    "examples": [
+      { "word": "資格", "furigana": "しかく", "meaning": "qualification" },
+      { "word": "価格", "furigana": "かかく", "meaning": "price" },
+      { "word": "性格", "furigana": "せいかく", "meaning": "personality / character" }
+    ]
+  },
+  {
+    "kanji": "険",
+    "meaning": "Precipitous / Steep / Risky",
+    "reading": "On: ケン | Kun: けわ-しい",
+    "level": "N3",
+    "sentence": "あぶないから 危険な 場所には いかないで。",
+    "translation": "It's dangerous, so don't go to risky places.",
+    "examples": [
+      { "word": "危険", "furigana": "きけん", "meaning": "danger" },
+      { "word": "保険", "furigana": "ほけん", "meaning": "insurance" },
+      { "word": "険しい", "furigana": "けわしい", "meaning": "steep / grim" }
+    ]
+  },
+  {
+    "kanji": "率",
+    "meaning": "Ratio / Rate / Lead",
+    "reading": "On: ソツ、リツ | Kun: ひき-いる",
+    "level": "N3",
+    "sentence": "合格の 確率を しらべます。",
+    "translation": "I will check the probability of passing.",
+    "examples": [
+      { "word": "確率", "furigana": "かくりつ", "meaning": "probability" },
+      { "word": "倍率", "furigana": "ばいりつ", "meaning": "magnification / competition rate" },
+      { "word": "効率", "furigana": "こうりつ", "meaning": "efficiency" }
+    ]
+  },
+  {
+    "kanji": "録",
+    "meaning": "Record",
+    "reading": "On: ロク",
+    "level": "N3",
+    "sentence": "テレビの 番組を 録画しました。",
+    "translation": "I recorded the TV program.",
+    "examples": [
+      { "word": "記録", "furigana": "きろく", "meaning": "record / document" },
+      { "word": "録音", "furigana": "ろくおん", "meaning": "audio recording" },
+      { "word": "登録", "furigana": "とうろく", "meaning": "registration" }
+    ]
+  },
+  {
+    "kanji": "精",
+    "meaning": "Refined / Ghost / Energy",
+    "reading": "On: セイ、ショウ",
+    "level": "N3",
+    "sentence": "まいにち 精神的に つかれています。",
+    "translation": "I am mentally tired every day.",
+    "examples": [
+      { "word": "精一杯", "furigana": "せいいっぱい", "meaning": "with all one's might" },
+      { "word": "精密", "furigana": "せいみつ", "meaning": "precise / exact" },
+      { "word": "精力", "furigana": "せいりょく", "meaning": "energy / vigor" }
+    ]
+  },
+  {
+    "kanji": "効",
+    "meaning": "Effect / Efficacy",
+    "reading": "On: コウ | Kun: き-く",
+    "level": "N3",
+    "sentence": "この くすりは よく 効きます。",
+    "translation": "This medicine works well.",
+    "examples": [
+      { "word": "効果", "furigana": "こうか", "meaning": "effect" },
+      { "word": "有効", "furigana": "ゆうこう", "meaning": "valid / effective" },
+      { "word": "無効", "furigana": "むこう", "meaning": "invalid" }
+    ]
+  },
+  {
+    "kanji": "総",
+    "meaning": "General / Gross / Overall",
+    "reading": "On: ソウ",
+    "level": "N3",
+    "sentence": "旅行の 総額は いくらですか。",
+    "translation": "What is the total amount for the trip?",
+    "examples": [
+      { "word": "総理大臣", "furigana": "そうりだいじん", "meaning": "prime minister" },
+      { "word": "総合", "furigana": "そうごう", "meaning": "synthesis / comprehensive" },
+      { "word": "総数", "furigana": "そうすう", "meaning": "total number" }
+    ]
+  },
+  {
+    "kanji": "像",
+    "meaning": "Statue / Image / Portrait",
+    "reading": "On: ゾウ",
+    "level": "N3",
+    "sentence": "公園に 銅像が たっています。",
+    "translation": "A bronze statue stands in the park.",
+    "examples": [
+      { "word": "想像", "furigana": "そうぞう", "meaning": "imagination" },
+      { "word": "映像", "furigana": "えいぞう", "meaning": "video / reflection" },
+      { "word": "仏像", "furigana": "ぶつぞう", "meaning": "Buddhist statue" }
+    ]
+  },
+  {
+    "kanji": "際",
+    "meaning": "Occasion / Edge / Inter-",
+    "reading": "On: サイ | Kun: きわ",
+    "level": "N3",
+    "sentence": "成田 国際空港を 利用しました。",
+    "translation": "I used Narita International Airport.",
+    "examples": [
+      { "word": "国際", "furigana": "こくさい", "meaning": "international" },
+      { "word": "〜の際", "furigana": "〜のさい", "meaning": "on the occasion of..." },
+      { "word": "交際", "furigana": "こうさい", "meaning": "association / dating" }
+    ]
+  },
+  {
+    "kanji": "規",
+    "meaning": "Standard / Measure / Rule",
+    "reading": "On: キ",
+    "level": "N3",
+    "sentence": "会社の 規則を まもります。",
+    "translation": "I follow the company rules.",
+    "examples": [
+      { "word": "規則", "furigana": "きそく", "meaning": "rule / regulation" },
+      { "word": "規模", "furigana": "きぼ", "meaning": "scale / scope" },
+      { "word": "規定", "furigana": "きてい", "meaning": "stipulation / regulation" }
+    ]
+  },
+  {
+    "kanji": "則",
+    "meaning": "Rule / Law / Model",
+    "reading": "On: ソク | Kun: のっと-る",
+    "level": "N3",
+    "sentence": "交通 規則に したがいます。",
+    "translation": "I obey traffic regulations.",
+    "examples": [
+      { "word": "原則", "furigana": "げんそく", "meaning": "principle" },
+      { "word": "法則", "furigana": "ほうそく", "meaning": "law (e.g., of physics)" },
+      { "word": "反則", "furigana": "はんそく", "meaning": "foul / violation" }
+    ]
+  },
+  {
+    "kanji": "賞",
+    "meaning": "Prize / Reward / Praise",
+    "reading": "On: ショウ | Kun: ほ-める",
+    "level": "N3",
+    "sentence": "かれは まんがの コンテストで 賞を もらいました。",
+    "translation": "He received a prize in the manga contest.",
+    "examples": [
+      { "word": "賞金", "furigana": "しょうきん", "meaning": "prize money" },
+      { "word": "賞品", "furigana": "しょうひん", "meaning": "prize / trophy" },
+      { "word": "受賞", "furigana": "じゅしょう", "meaning": "winning a prize" }
+    ]
+  },
+  {
+    "kanji": "企",
+    "meaning": "Plan / Undertake / Scheme",
+    "reading": "On: キ | Kun: くわだ-てる",
+    "level": "N3",
+    "sentence": "新しい 企画を チームで 考えます。",
+    "translation": "We will think of a new plan as a team.",
+    "examples": [
+      { "word": "企業", "furigana": "きぎょう", "meaning": "enterprise / business" },
+      { "word": "企画", "furigana": "きかく", "meaning": "planning / project" },
+      { "word": "大企業", "furigana": "だいきぎょう", "meaning": "large corporation" }
+    ]
+  },
+  {
+    "kanji": "宅",
+    "meaning": "Home / House / Residence",
+    "reading": "On: タク",
+    "level": "N3",
+    "sentence": "あした、先生の お宅に うかがいます。",
+    "translation": "I will visit my teacher's house tomorrow.",
+    "examples": [
+      { "word": "自宅", "furigana": "じたく", "meaning": "one's own home" },
+      { "word": "宅配便", "furigana": "たくはいびん", "meaning": "home delivery service" },
+      { "word": "帰宅", "furigana": "きたく", "meaning": "returning home" }
+    ]
+  },
+  {
+    "kanji": "訪",
+    "meaning": "Visit / Call on",
+    "reading": "On: ホウ | Kun: おとず-れる、たず-ねる",
+    "level": "N3",
+    "sentence": "京都の 古い お寺を 訪ねました。",
+    "translation": "I visited an old temple in Kyoto.",
+    "examples": [
+      { "word": "訪問", "furigana": "ほうもん", "meaning": "visit / call" },
+      { "word": "訪日", "furigana": "ほうにち", "meaning": "visit to Japan" },
+      { "word": "訪れる", "furigana": "おとずれる", "meaning": "to visit (a place)" }
+    ]
+  },
+  {
+    "kanji": "呼",
+    "meaning": "Call / Invite / Inhale",
+    "reading": "On: コ | Kun: よ-ぶ",
+    "level": "N3",
+    "sentence": "あぶないですから タクシーを 呼びましょう。",
+    "translation": "It's dangerous, so let's call a taxi.",
+    "examples": [
+      { "word": "呼吸", "furigana": "こきゅう", "meaning": "breathing" },
+      { "word": "呼び出す", "furigana": "よびだす", "meaning": "to summon / call out" },
+      { "word": "呼称", "furigana": "こしょう", "meaning": "name / designation" }
+    ]
+  },
+  {
+    "kanji": "賛",
+    "meaning": "Approve / Praise / Agree",
+    "reading": "On: サン",
+    "level": "N3",
+    "sentence": "あなたの 意見に 賛成します。",
+    "translation": "I agree with your opinion.",
+    "examples": [
+      { "word": "賛成", "furigana": "さんせい", "meaning": "approval / agreement" },
+      { "word": "賛同", "furigana": "さんどう", "meaning": "approval / endorsement" },
+      { "word": "絶賛", "furigana": "ぜっさん", "meaning": "high praise" }
+    ]
+  },
+  {
+    "kanji": "域",
+    "meaning": "Region / Region / Limits",
+    "reading": "On: イキ",
+    "level": "N3",
+    "sentence": "この 地域の ゴミの ルールを しらべます。",
+    "translation": "I will look into the trash rules for this area.",
+    "examples": [
+      { "word": "地域", "furigana": "ちいき", "meaning": "region / area" },
+      { "word": "区域", "furigana": "くいき", "meaning": "zone / district" },
+      { "word": "流域", "furigana": "りゅういき", "meaning": "river basin" }
+    ]
+  },
+  {
+    "kanji": "断",
+    "meaning": "Refuse / Sever / Decide",
+    "reading": "On: ダン | Kun: ことわ-る、た-つ",
+    "level": "N3",
+    "sentence": "いそがしいので、さそいを 断りました。",
+    "translation": "Because I am busy, I refused the invitation.",
+    "examples": [
+      { "word": "断水", "furigana": "だんすい", "meaning": "water suspension" },
+      { "word": "油断", "furigana": "ゆだん", "meaning": "carelessness" },
+      { "word": "決断", "furigana": "けつだん", "meaning": "decision" }
+    ]
+  },
+  {
+    "kanji": "勢",
+    "meaning": "Force / Energy / Economy",
+    "reading": "On: セイ | Kun: いきお-い",
+    "level": "N3",
+    "sentence": "台風が 強い 勢いで ちかづいています。",
+    "translation": "The typhoon is approaching with strong force.",
+    "examples": [
+      { "word": "姿勢", "furigana": "しせい", "meaning": "posture / attitude" },
+      { "word": "勢力", "furigana": "せいりょく", "meaning": "influence / power" },
+      { "word": "大勢", "furigana": "おおぜい", "meaning": "crowd / many people" }
+    ]
+  },
+  {
+    "kanji": "減",
+    "meaning": "Decrease / Dwindle",
+    "reading": "On: ゲン | Kun: へ-る、へ-らす",
+    "level": "N3",
+    "sentence": "さいきん、お米を たべる 量が 減りました。",
+    "translation": "Recently, the amount of rice I eat has decreased.",
+    "examples": [
+      { "word": "減少", "furigana": "げんしょう", "meaning": "decrease / reduction" },
+      { "word": "減点", "furigana": "げんてん", "meaning": "point deduction" },
+      { "word": "半減", "furigana": "はんげん", "meaning": "reduction by half" }
+    ]
+  },
+  {
+    "kanji": "容",
+    "meaning": "Contain / Form / Appearance",
+    "reading": "On: ヨウ",
+    "level": "N3",
+    "sentence": "はこの 内容を たしかめて ください。",
+    "translation": "Please confirm the contents of the box.",
+    "examples": [
+      { "word": "内容", "furigana": "ないよう", "meaning": "contents / substance" },
+      { "word": "容器", "furigana": "ようき", "meaning": "container" },
+      { "word": "美容院", "furigana": "びよういん", "meaning": "hair/beauty salon" }
+    ]
+  },
+  {
+    "kanji": "演",
+    "meaning": "Perform / Play / Act",
+    "reading": "On: エン",
+    "level": "N3",
+    "sentence": "舞台で すばらしい 演技を みました。",
+    "translation": "I saw a wonderful performance on stage.",
+    "examples": [
+      { "word": "演説", "furigana": "えんぜつ", "meaning": "speech / address" },
+      { "word": "演奏", "furigana": "えんそう", "meaning": "musical performance" },
+      { "word": "講演", "furigana": "こうえん", "meaning": "lecture" }
+    ]
+  },
+  {
+    "kanji": "能",
+    "meaning": "Ability / Talent / Skill",
+    "reading": "On: ノウ",
+    "level": "N3",
+    "sentence": "かれの 能力は とても 高いです。",
+    "translation": "His ability is very high.",
+    "examples": [
+      { "word": "可能", "furigana": "かのう", "meaning": "possible" },
+      { "word": "機能", "furigana": "きのう", "meaning": "function / feature" },
+      { "word": "芸能人", "furigana": "げいのうじん", "meaning": "performer / celebrity" }
+    ]
+  },
+  {
+    "kanji": "再",
+    "meaning": "Again / Twice",
+    "reading": "On: サイ、サ | Kun: ふたた-び",
+    "level": "N3",
+    "sentence": "来週、ともだちと 再会します。",
+    "translation": "I will reunite with my friend next week.",
+    "examples": [
+      { "word": "再生", "furigana": "さいせい", "meaning": "playback / recycling" },
+      { "word": "再開", "furigana": "さいかい", "meaning": "reopening / resumption" },
+      { "word": "来週再び", "furigana": "らいしゅうふたたび", "meaning": "again next week" }
+    ]
+  },
+  {
+    "kanji": "状",
+    "meaning": "Status / Condition / Letter",
+    "reading": "On: ジョウ",
+    "level": "N3",
+    "sentence": "びょうきの 状況を ほうこくします。",
+    "translation": "I will report the condition of the illness.",
+    "examples": [
+      { "word": "状態", "furigana": "じょうたい", "meaning": "state / condition" },
+      { "word": "招待状", "furigana": "しょうたいじょう", "meaning": "invitation letter" },
+      { "word": "症状", "furigana": "しょうじょう", "meaning": "symptoms" }
+    ]
+  },
+  {
+    "kanji": "過",
+    "meaning": "Pass / Exceed / Mistake",
+    "reading": "On: カ | Kun: す-ぎる、す-ごす、あやま-ち",
+    "level": "N3",
+    "sentence": "楽しい 時間を 過ごしました。",
+    "translation": "I spent a fun time.",
+    "examples": [
+      { "word": "過去", "furigana": "かこ", "meaning": "the past" },
+      { "word": "通過", "furigana": "つうか", "meaning": "passage / passing through" },
+      { "word": "食べ過ぎる", "furigana": "たべすぎる", "meaning": "to overeat" }
+    ]
+  },
+  {
+    "kanji": "贈",
+    "meaning": "Present / Give / Send a gift",
+    "reading": "On: ゾウ、ソウ | Kun: おく-る",
+    "level": "N3",
+    "sentence": "お世話になった人に 贈り物を します。",
+    "translation": "I will give a gift to the person who took care of me.",
+    "examples": [
+      { "word": "寄贈", "furigana": "きぞう", "meaning": "donation / presentation" },
+      { "word": "贈答品", "furigana": "ぞうとうひん", "meaning": "gift items" },
+      { "word": "贈る", "furigana": "おくる", "meaning": "to present / give" }
+    ]
+  },
+  {
+    "kanji": "内",
+    "meaning": "Inside / Within / Secret",
+    "reading": "On: ナイ、ダイ | Kun: うち",
+    "level": "N3",
+    "sentence": "時間内に テストを おわらせます。",
+    "translation": "I will finish the test within the time limit.",
+    "examples": [
+      { "word": "案内", "furigana": "あんない", "meaning": "guidance / information" },
+      { "word": "以内", "furigana": "いない", "meaning": "within" },
+      { "word": "内容", "furigana": "ないよう", "meaning": "content / substance" }
+    ]
+  },
+  {
+    "kanji": "恐",
+    "meaning": "Fear / Dread / Awe",
+    "reading": "On: キョウ | Kun: おそ-れる、おそ-ろしい",
+    "level": "N3",
+    "sentence": "あの お化け屋敷は おそろしいです。",
+    "translation": "That haunted house is scary.",
+    "examples": [
+      { "word": "恐竜", "furigana": "きょうりゅう", "meaning": "dinosaur" },
+      { "word": "恐怖", "furigana": "きょうふ", "meaning": "fear / terror" },
+      { "word": "恐縮", "furigana": "きょうしゅく", "meaning": "feeling obliged / sorry" }
+    ]
+  },
+  {
+    "kanji": "乗",
+    "meaning": "Ride / Board / Power",
+    "reading": "On: ジョウ | Kun: の-る、の-せる",
+    "level": "N3",
+    "sentence": "あした、新幹線に 乗ります。",
+    "translation": "I will ride the Shinkansen tomorrow.",
+    "examples": [
+      { "word": "乗客", "furigana": "じょうきゃく", "meaning": "passenger" },
+      { "word": "乗車券", "furigana": "じょうしゃけん", "meaning": "train ticket" },
+      { "word": "乗り物", "furigana": "のりもの", "meaning": "vehicle" }
+    ]
+  },
+  {
+    "kanji": "館",
+    "meaning": "Building / Mansion / Large hall",
+    "reading": "On: カン | Kun: やかた",
+    "level": "N3",
+    "sentence": "週末に 美術館へ いきました。",
+    "translation": "I went to an art museum over the weekend.",
+    "examples": [
+      { "word": "図書館", "furigana": "としょかん", "meaning": "library" },
+      { "word": "映画館", "furigana": "えいがかん", "meaning": "movie theater" },
+      { "word": "大使館", "furigana": "たいしかん", "meaning": "embassy" }
+    ]
+  },
+  {
+    "kanji": "談",
+    "meaning": "Discuss / Talk / Converse",
+    "reading": "On: ダン",
+    "level": "N3",
+    "sentence": "しんぱいな事を 先生に 相談しました。",
+    "translation": "I consulted my teacher about my worries.",
+    "examples": [
+      { "word": "会談", "furigana": "かいだん", "meaning": "conference / talks" },
+      { "word": "冗談", "furigana": "じょうだん", "meaning": "joke" },
+      { "word": "対談", "furigana": "たいだん", "meaning": "dialogue / conversation" }
+    ]
+  },
+  {
+    "kanji": "求",
+    "meaning": "Request / Want / Seek",
+    "reading": "On: キュウ | Kun: もと-める",
+    "level": "N3",
+    "sentence": "会社が 新しい 人材を 伝めています。",
+    "translation": "The company is seeking new talent.",
+    "examples": [
+      { "word": "要求", "furigana": "ようきゅう", "meaning": "demand / requirement" },
+      { "word": "求人", "furigana": "きゅうじん", "meaning": "job opening" },
+      { "word": "追求", "furigana": "ついきゅう", "meaning": "pursuit / tracking down" }
+    ]
+  },
+  {
+    "kanji": "放",
+    "meaning": "Release / Emit / Broadcast",
+    "reading": "On: ホウ | Kun: はな-す、はな-つ、ほう-る",
+    "level": "N3",
+    "sentence": "夜の ラジオ放送を ききます。",
+    "translation": "I listen to the night radio broadcast.",
+    "examples": [
+      { "word": "開放", "furigana": "かいほう", "meaning": "opening / liberation" },
+      { "word": "放送局", "furigana": "ほうそうきょく", "meaning": "broadcasting station" },
+      { "word": "放課後", "furigana": "ほうかご", "meaning": "after school" }
+    ]
+  },
+  {
+    "kanji": "常",
+    "meaning": "Normal / Regular / Always",
+    "reading": "On: ジョウ | Kun: つね、とこ",
+    "level": "N3",
+    "sentence": "非常口の 場所を かくにんします。",
+    "translation": "I will check the location of the emergency exit.",
+    "examples": [
+      { "word": "日常", "furigana": "にちじょう", "meaning": "everyday / daily life" },
+      { "word": "常識", "furigana": "じょうしき", "meaning": "common sense" },
+      { "word": "常に", "furigana": "つねに", "meaning": "always" }
+    ]
+  },
+  {
+    "kanji": "職",
+    "meaning": "Employment / Work / Job",
+    "reading": "On: ショク",
+    "level": "N3",
+    "sentence": "新しい 職場に なれました。",
+    "translation": "I got used to my new workplace.",
+    "examples": [
+      { "word": "職業", "furigana": "しょくぎょう", "meaning": "occupation / profession" },
+      { "word": "職員", "furigana": "しょくいん", "meaning": "staff member / employee" },
+      { "word": "転職", "furigana": "てんしょく", "meaning": "changing jobs" }
+    ]
+  },
+  {
+    "kanji": "導",
+    "meaning": "Guide / Lead / Conduct",
+    "reading": "On: ドウ | Kun: みちび-く",
+    "level": "N3",
+    "sentence": "先生が 生徒を 導きます。",
+    "translation": "The teacher guides the students.",
+    "examples": [
+      { "word": "盲導犬", "furigana": "もうどうけん", "meaning": "guide dog" },
+      { "word": "指導", "furigana": "しどう", "meaning": "guidance / leadership" },
+      { "word": "導入", "furigana": "どうにゅう", "meaning": "introduction / bringing in" }
+    ]
+  },
+  {
+    "kanji": "吸",
+    "meaning": "Suck / Inhale / Sip",
+    "reading": "On: キュウ | Kun: す-う",
+    "level": "N3",
+    "sentence": "深く 息を 吸って ください。",
+    "translation": "Please inhale deeply.",
+    "examples": [
+      { "word": "呼吸", "furigana": "こきゅう", "meaning": "breathing / respiration" },
+      { "word": "吸収", "furigana": "きゅうしゅう", "meaning": "absorption" },
+      { "word": "吸い殻", "furigana": "すいがら", "meaning": "cigarette butt" }
+    ]
+  },
+  {
+    "kanji": "予",
+    "meaning": "Beforehand / Advance / Predict",
+    "reading": "On: ヨ、シャ",
+    "level": "N3",
+    "sentence": "来週の 予定を カレンダーに 書きます。",
+    "translation": "I will write next week's schedule on the calendar.",
+    "examples": [
+      { "word": "天気予報", "furigana": "てんきよほう", "meaning": "weather forecast" },
+      { "word": "予約", "furigana": "よやく", "meaning": "reservation" },
+      { "word": "予防", "furigana": "よぼう", "meaning": "prevention / precaution" }
+    ]
+  },
+  {
+    "kanji": "向",
+    "meaning": "Facing / Beyond / Turn toward",
+    "reading": "On: コウ | Kun: む-く、む-かう、む-こう",
+    "level": "N3",
+    "sentence": "駅に 向かって 歩いています。",
+    "translation": "I am walking toward the station.",
+    "examples": [
+      { "word": "方向", "furigana": "ほうこう", "meaning": "direction" },
+      { "word": "向こう", "furigana": "むこう", "meaning": "over there / opposite side" },
+      { "word": "前向き", "furigana": "まえむき", "meaning": "positive / forward-looking" }
+    ]
+  },
+  {
+    "kanji": "守",
+    "meaning": "Guard / Protect / Keep",
+    "reading": "On: シュ、ス | Kun: まも-る、もり",
+    "level": "N3",
+    "sentence": "約束は 必ず 守りましょう。",
+    "translation": "Let's definitely keep our promises.",
+    "examples": [
+      { "word": "留守", "furigana": "るす", "meaning": "absence / away from home" },
+      { "word": "お守り", "furigana": "おまもり", "meaning": "protection amulet" },
+      { "word": "保守的", "furigana": "ほしゅてき", "meaning": "conservative" }
+    ]
+  },
+  {
+    "kanji": "流",
+    "meaning": "Current / Flow / Style",
+    "reading": "On: リュウ、ル | Kun: なが-れる、なが-す",
+    "level": "N3",
+    "sentence": "きれいな 川の水が 流れています。",
+    "translation": "Clean river water is flowing.",
+    "examples": [
+      { "word": "流行", "furigana": "りゅうこう", "meaning": "fashion / trend" },
+      { "word": "一流", "furigana": "いちりゅう", "meaning": "first-class / top-rate" },
+      { "word": "物流", "furigana": "ぶつりゅう", "meaning": "distribution / logistics" }
+    ]
+  },
+  {
+    "kanji": "温",
+    "meaning": "Warm",
+    "reading": "On: オン | Kun: あたた-か、あたた-かい、あたた-まる、あたた-める",
+    "level": "N3",
+    "sentence": "寒いので 温かい スープを のみます。",
+    "translation": "Because it's cold, I will drink warm soup.",
+    "examples": [
+      { "word": "温泉", "furigana": "おんせん", "meaning": "hot spring" },
+      { "word": "温度", "furigana": "おんど", "meaning": "temperature" },
+      { "word": "気温", "furigana": "きおん", "meaning": "atmospheric temperature" }
+    ]
+  },
+  {
+    "kanji": "求",
+    "meaning": "Request / Want / Wish",
+    "reading": "On: キュウ | Kun: もと-める",
+    "level": "N3",
+    "sentence": "助けを 求める 声が きこえました。",
+    "translation": "I heard a voice calling for help.",
+    "examples": [
+      { "word": "要求", "furigana": "ようきゅう", "meaning": "demand / request" },
+      { "word": "求人", "furigana": "きゅうじん", "meaning": "job offer / recruiting" },
+      { "word": "探求", "furigana": "たんきゅう", "meaning": "quest / pursuit" }
+    ]
+  },
+  {
+    "kanji": "算",
+    "meaning": "Calculate / Count",
+    "reading": "On: サン",
+    "level": "N3",
+    "sentence": "計算が とても 苦手です。",
+    "translation": "I am very bad at calculating.",
+    "examples": [
+      { "word": "予算", "furigana": "よさん", "meaning": "budget" },
+      { "word": "引き算", "furigana": "ひきざん", "meaning": "subtraction" },
+      { "word": "暗算", "furigana": "あんざん", "meaning": "mental arithmetic" }
+    ]
+  },
+  {
+    "kanji": "落",
+    "meaning": "Fall / Drop / Come down",
+    "reading": "On: ラク | Kun: お-ちる、お-とす",
+    "level": "N3",
+    "sentence": "さいふを どこかに 落として しまいました。",
+    "translation": "I unfortunately dropped my wallet somewhere.",
+    "examples": [
+      { "word": "落ち着く", "furigana": "おちつく", "meaning": "to calm down" },
+      { "word": "落第", "furigana": "らくだい", "meaning": "failing an exam" },
+      { "word": "落とし物", "furigana": "おとしもの", "meaning": "lost property" }
+    ]
+  },
+  {
+    "kanji": "深",
+    "meaning": "Deep / Close / Thick",
+    "reading": "On: シン | Kun: ふか-い、ふか-まる、ふか-める",
+    "level": "N3",
+    "sentence": "夜が 深くなって きました。",
+    "translation": "The night has grown deep.",
+    "examples": [
+      { "word": "深刻な", "furigana": "しんこくな", "meaning": "serious / grave" },
+      { "word": "深夜", "furigana": "しんや", "meaning": "late at night" },
+      { "word": "深海", "furigana": "しんかい", "meaning": "deep sea" }
+    ]
+  },
+  {
+    "kanji": "登",
+    "meaning": "Ascend / Climb up",
+    "reading": "On: トウ、ト | Kun: のぼ-る",
+    "level": "N3",
+    "sentence": "夏休みに 富士山に 登りたいです。",
+    "translation": "I want to climb Mount Fuji during summer vacation.",
+    "examples": [
+      { "word": "登山", "furigana": "とざん", "meaning": "mountain climbing" },
+      { "word": "登録", "furigana": "とうろく", "meaning": "registration" },
+      { "word": "登場", "furigana": "とうじょう", "meaning": "appearance on stage" }
+    ]
+  },
+  {
+    "kanji": "路",
+    "meaning": "Path / Route / Road",
+    "reading": "On: ロ、ル | Kun: じ",
+    "level": "N3",
+    "sentence": "道路を わたるときは 気をつけて。",
+    "translation": "Be careful when crossing the road.",
+    "examples": [
+      { "word": "通路", "furigana": "つうろ", "meaning": "aisle / pathway" },
+      { "word": "線路", "furigana": "せんろ", "meaning": "railway track" },
+      { "word": "進路", "furigana": "しんろ", "meaning": "career path / course" }
+    ]
+  },
+  {
+    "kanji": "拾",
+    "meaning": "Pick up / Gather / Find",
+    "reading": "On: シュウ、ジュウ | Kun: ひろ-う",
+    "level": "N3",
+    "sentence": "みちで タクシーを 拾いました。",
+    "translation": "I hailed (picked up) a taxi on the street.",
+    "examples": [
+      { "word": "拾得物", "furigana": "しゅうとくぶつ", "meaning": "found article" },
+      { "word": "命拾い", "furigana": "いのちびろい", "meaning": "narrow escape from death" },
+      { "word": "拾う", "furigana": "ひろう", "meaning": "to pick up" }
+    ]
+  },
+  {
+    "kanji": "突",
+    "meaning": "Stab / Protrude / Thrust",
+    "reading": "On: トツ | Kun: つ-く",
+    "level": "N3",
+    "sentence": "くるまが 突然 とまりました。",
+    "translation": "The car stopped suddenly.",
+    "examples": [
+      { "word": "衝突", "furigana": "しょうとつ", "meaning": "collision / clash" },
+      { "word": "突進", "furigana": "とっしん", "meaning": "rush / charge" },
+      { "word": "突き当たり", "furigana": "つきあたり", "meaning": "dead end" }
+    ]
+  },
+  {
+    "kanji": "熱",
+    "meaning": "Heat / Fever / Passion",
+    "reading": "On: ネツ | Kun: あつ-い",
+    "level": "N3",
+    "sentence": "風邪を ひいて 高い 熱が あります。",
+    "translation": "I caught a cold and have a high fever.",
+    "examples": [
+      { "word": "熱心な", "furigana": "ねっしんな", "meaning": "enthusiastic / earnest" },
+      { "word": "熱帯", "furigana": "ねったい", "meaning": "tropics" },
+      { "word": "熱中", "furigana": "ねっちゅう", "meaning": "passion / enthusiasm" }
+    ]
+  },
+  {
+    "kanji": "包",
+    "meaning": "Wrap / Pack / Conceal",
+    "reading": "On: ホウ | Kun: つつ-む",
+    "level": "N3",
+    "sentence": "プレゼントを きれいな かみで 包みます。",
+    "translation": "I will wrap the present in beautiful paper.",
+    "examples": [
+      { "word": "包帯", "furigana": "ほうたい", "meaning": "bandage" },
+      { "word": "小包", "furigana": "こづつみ", "meaning": "parcel / package" },
+      { "word": "包含", "furigana": "ほうがん", "meaning": "inclusion / inclusion" }
+    ]
+  },
+  {
+    "kanji": "組",
+    "meaning": "Association / Team / Assemble",
+    "reading": "On: ソ | Kun: く-む、くみ",
+    "level": "N3",
+    "sentence": "テストのために グループを 組みました。",
+    "translation": "We formed a group for the test.",
+    "examples": [
+      { "word": "番組", "furigana": "ばんぐみ", "meaning": "TV program" },
+      { "word": "組合", "furigana": "くみあい", "meaning": "association / union" },
+      { "word": "組み立てる", "furigana": "くみたてる", "meaning": "to assemble" }
+    ]
+  },
+  {
+    "kanji": "勝",
+    "meaning": "Win / Excel / Victory",
+    "reading": "On: ショウ | Kun: か-つ、まさ-る",
+    "level": "N3",
+    "sentence": "今日の 試合は ぜったいに 勝てます。",
+    "translation": "We can definitely win today's match.",
+    "examples": [
+      { "word": "勝負", "furigana": "しょうぶ", "meaning": "match / contest" },
+      { "word": "決勝", "furigana": "けっしょう", "meaning": "finals (in sports)" },
+      { "word": "勝手な", "furigana": "かってな", "meaning": "selfish / arbitrary" }
+    ]
+  },
+  {
+    "kanji": "負",
+    "meaning": "Lose / Negative / Bear",
+    "reading": "On: フ | Kun: ま-ける、ま-かす、お-う",
+    "level": "N3",
+    "sentence": "試合に 負けて くやしいです。",
+    "translation": "I am frustrated that we lost the match.",
+    "examples": [
+      { "word": "負担", "furigana": "ふたん", "meaning": "burden / load" },
+      { "word": "負傷", "furigana": "ふしょう", "meaning": "injury / wound" },
+      { "word": "負ける", "furigana": "まける", "meaning": "to lose" }
+    ]
+  },
+  {
+    "kanji": "代",
+    "meaning": "Substitute / Age / Fee",
+    "reading": "On: ダイ、タイ | Kun: か-わる、か-える、よ、しろ",
+    "level": "N3",
+    "sentence": "電気代の 支払いを わすれました。",
+    "translation": "I forgot to pay the electricity bill.",
+    "examples": [
+      { "word": "時代", "furigana": "じだい", "meaning": "era / period" },
+      { "word": "代わりに", "furigana": "かわりに", "meaning": "instead of" },
+      { "word": "代表", "furigana": "だいひょう", "meaning": "representative" }
+    ]
+  },
+  {
+    "kanji": "初",
+    "meaning": "First / Beginning",
+    "reading": "On: ショ | Kun: はじ-めて、はじめ、はつ、うい、そ-める",
+    "level": "N3",
+    "sentence": "初めて 日本へ 来たときは 緊張しました。",
+    "translation": "I was nervous when I came to Japan for the first time.",
+    "examples": [
+      { "word": "最初", "furigana": "さいしょ", "meaning": "the beginning / first" },
+      { "word": "初級", "furigana": "しょきゅう", "meaning": "beginner level" },
+      { "word": "初恋", "furigana": "hatsukoi", "meaning": "first love" }
+    ]
+  },
+  {
+    "kanji": "極",
+    "meaning": "Poles / Extreme / Utmost",
+    "reading": "On: キョク、ゴク | Kun: きわ-める、きわ-まる、きわ-み",
+    "level": "N3",
+    "sentence": "その ニュースを きいて 南極に いきたくなりました。",
+    "translation": "Hearing that news made me want to go to Antarctica.",
+    "examples": [
+      { "word": "積極的な", "furigana": "せっきょくてきな", "meaning": "positive / active" },
+      { "word": "北極", "furigana": "ほっきょく", "meaning": "North Pole" },
+      { "word": "究極", "furigana": "きゅうきょく", "meaning": "ultimate" }
+    ]
+  },
+  {
+    "kanji": "他",
+    "meaning": "Other / Another",
+    "reading": "On: タ | Kun: ほか",
+    "level": "N3",
+    "sentence": "ほかの 方法を かんがえましょう。",
+    "translation": "Let's think of another method.",
+    "examples": [
+      { "word": "他人", "furigana": "たにん", "meaning": "stranger / others" },
+      { "word": "他国", "furigana": "たこく", "meaning": "other countries" },
+      { "word": "その他", "furigana": "そのた", "meaning": "and others / miscellaneous" }
+    ]
   }
 ]
