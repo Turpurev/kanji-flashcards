@@ -5,7 +5,12 @@
     "reading": "On: イチ | Kun: ひと-つ",
     "level": "N5",
     "sentence": "りんごを 一つ ください。",
-    "translation": "Please give me one apple."
+    "translation": "Please give me one apple.",
+    "examples": [
+      { "word": "一つ", "furigana": "ひとつ", "meaning": "one (item)" },
+      { "word": "第一", "furigana": "だいいち", "meaning": "first" },
+      { "word": "一番", "furigana": "いちばん", "meaning": "number one" }
+    ]
   },
   {
     "kanji": "二",
@@ -13,7 +18,12 @@
     "reading": "On: ニ | Kun: ふた-つ",
     "level": "N5",
     "sentence": "ねこが 二ひき います。",
-    "translation": "There are two cats."
+    "translation": "There are two cats.",
+    "examples": [
+      { "word": "二つ", "furigana": "ふたつ", "meaning": "two (items)" },
+      { "word": "二日", "furigana": "ふつか", "meaning": "2nd day" },
+      { "word": "二番", "furigana": "にばん", "meaning": "number two" }
+    ]
   },
   {
     "kanji": "三",
@@ -21,7 +31,12 @@
     "reading": "On: サン | Kun: み-つ",
     "level": "N5",
     "sentence": "みかんが 三つ あります。",
-    "translation": "There are three mandarins."
+    "translation": "There are three mandarins.",
+    "examples": [
+      { "word": "三つ", "furigana": "みつ", "meaning": "three (items)" },
+      { "word": "三月", "furigana": "さんがつ", "meaning": "March" },
+      { "word": "三番", "furigana": "さんばん", "meaning": "number three" }
+    ]
   },
   {
     "kanji": "四",
@@ -29,7 +44,12 @@
     "reading": "On: シ | Kun: よ、よ-つ",
     "level": "N5",
     "sentence": "くるまが 四だい とまっています。",
-    "translation": "There are four cars parked."
+    "translation": "There are four cars parked.",
+    "examples": [
+      { "word": "四つ", "furigana": "よつ", "meaning": "four (items)" },
+      { "word": "四月", "furigana": "しがつ", "meaning": "April" },
+      { "word": "四番", "furigana": "しばん", "meaning": "number four" }
+    ]
   },
   {
     "kanji": "五",
@@ -37,7 +57,12 @@
     "reading": "On: ゴ | Kun: いつ-つ",
     "level": "N5",
     "sentence": "きょうは 五日 です。",
-    "translation": "Today is the fifth day of the month."
+    "translation": "Today is the fifth day of the month.",
+    "examples": [
+      { "word": "五つ", "furigana": "いつつ", "meaning": "five (items)" },
+      { "word": "五月", "furigana": "ごがつ", "meaning": "May" },
+      { "word": "五番", "furigana": "ごばん", "meaning": "number five" }
+    ]
   },
   {
     "kanji": "六",
@@ -45,7 +70,12 @@
     "reading": "On: ロク | Kun: む-つ",
     "level": "N5",
     "sentence": "むすめは 六さい になりました。",
-    "translation": "My daughter turned six years old."
+    "translation": "My daughter turned six years old.",
+    "examples": [
+      { "word": "六つ", "furigana": "むつ", "meaning": "six (items)" },
+      { "word": "六月", "furigana": "ろくがつ", "meaning": "June" },
+      { "word": "六番", "furigana": "ろくばん", "meaning": "number six" }
+    ]
   },
   {
     "kanji": "七",
@@ -53,7 +83,12 @@
     "reading": "On: シチ | Kun: なな-つ",
     "level": "N5",
     "sentence": "一しゅうかんは 七日 あります。",
-    "translation": "A week has seven days."
+    "translation": "A week has seven days.",
+    "examples": [
+      { "word": "七つ", "furigana": "ななつ", "meaning": "seven (items)" },
+      { "word": "七月", "furigana": "しちがつ", "meaning": "July" },
+      { "word": "七番", "furigana": "しちばん", "meaning": "number seven" }
+    ]
   },
   {
     "kanji": "八",
@@ -61,7 +96,12 @@
     "reading": "On: ハチ | Kun: や-つ",
     "level": "N5",
     "sentence": "やおやで とまとを 八つ かいました。",
-    "translation": "I bought eight tomatoes at the greengrocer."
+    "translation": "I bought eight tomatoes at the greengrocer.",
+    "examples": [
+      { "word": "八つ", "furigana": "やつ", "meaning": "eight (items)" },
+      { "word": "八月", "furigana": "はちがつ", "meaning": "August" },
+      { "word": "八番", "furigana": "はちばん", "meaning": "number eight" }
+    ]
   },
   {
     "kanji": "九",
@@ -69,7 +109,12 @@
     "reading": "On: キュウ | Kun: ここの-つ",
     "level": "N5",
     "sentence": "がっこうは 九じに はじまります。",
-    "translation": "School starts at nine o'clock."
+    "translation": "School starts at nine o'clock.",
+    "examples": [
+      { "word": "九つ", "furigana": "ここのつ", "meaning": "nine (items)" },
+      { "word": "九月", "furigana": "くがつ", "meaning": "September" },
+      { "word": "九番", "furigana": "きゅうばん", "meaning": "number nine" }
+    ]
   },
   {
     "kanji": "十",
@@ -77,7 +122,12 @@
     "reading": "On: ジュウ | Kun: とお",
     "level": "N5",
     "sentence": "この おかしは 十えん です。",
-    "translation": "This sweet costs ten yen."
+    "translation": "This sweet costs ten yen.",
+    "examples": [
+      { "word": "十日", "furigana": "とおか", "meaning": "10th day" },
+      { "word": "十月", "furigana": "じゅうがつ", "meaning": "October" },
+      { "word": "十番", "furigana": "じゅうばん", "meaning": "number ten" }
+    ]
   },
   {
     "kanji": "百",
@@ -85,7 +135,12 @@
     "reading": "On: ヒャク",
     "level": "N5",
     "sentence": "テストで 百てんを とりました。",
-    "translation": "I got a hundred points on the test."
+    "translation": "I got a hundred points on the test.",
+    "examples": [
+      { "word": "百円", "furigana": "ひゃくえん", "meaning": "hundred yen" },
+      { "word": "百人", "furigana": "ひゃくにん", "meaning": "hundred people" },
+      { "word": "百点", "furigana": "ひゃくてん", "meaning": "perfect score" }
+    ]
   },
   {
     "kanji": "千",
@@ -93,7 +148,12 @@
     "reading": "On: セン | Kun: ち",
     "level": "N5",
     "sentence": "この ほんは 千えん です。",
-    "translation": "This book costs one thousand yen."
+    "translation": "This book costs one thousand yen.",
+    "examples": [
+      { "word": "千円", "furigana": "せんえん", "meaning": "thousand yen" },
+      { "word": "千人", "furigana": "せんにん", "meaning": "thousand people" },
+      { "word": "千代", "furigana": "ちよ", "meaning": "thousand years" }
+    ]
   },
   {
     "kanji": "万",
@@ -101,7 +161,12 @@
     "reading": "On: マン",
     "level": "N5",
     "sentence": "あの かばんは 三万えん もします。",
-    "translation": "That bag costs as much as thirty thousand yen."
+    "translation": "That bag costs as much as thirty thousand yen.",
+    "examples": [
+      { "word": "万円", "furigana": "まんえん", "meaning": "ten thousand yen" },
+      { "word": "万人", "furigana": "まんにん", "meaning": "ten thousand people" },
+      { "word": "万年", "furigana": "まんねん", "meaning": "perpetual" }
+    ]
   },
   {
     "kanji": "円",
@@ -109,7 +174,12 @@
     "reading": "On: エン | Kun: まる-い",
     "level": "N5",
     "sentence": "おさいふに 五百円 あります。",
-    "translation": "I have five hundred yen in my wallet."
+    "translation": "I have five hundred yen in my wallet.",
+    "examples": [
+      { "word": "百円", "furigana": "ひゃくえん", "meaning": "hundred yen" },
+      { "word": "千円", "furigana": "せんえん", "meaning": "thousand yen" },
+      { "word": "円形", "furigana": "えんけい", "meaning": "circular shape" }
+    ]
   },
   {
     "kanji": "日",
@@ -117,7 +187,12 @@
     "reading": "On: ニチ | Kun: ひ",
     "level": "N5",
     "sentence": "日ようびに かいものに いきます。",
-    "translation": "I will go shopping on Sunday."
+    "translation": "I will go shopping on Sunday.",
+    "examples": [
+      { "word": "日曜日", "furigana": "にちようび", "meaning": "Sunday" },
+      { "word": "毎日", "furigana": "まいにち", "meaning": "every day" },
+      { "word": "日中", "furigana": "ひなか", "meaning": "during the day" }
+    ]
   },
   {
     "kanji": "月",
@@ -125,7 +200,12 @@
     "reading": "On: ゲツ、ガツ | Kun: つき",
     "level": "N5",
     "sentence": "こん月は とても いそがしいです。",
-    "translation": "I am very busy this month."
+    "translation": "I am very busy this month.",
+    "examples": [
+      { "word": "月曜日", "furigana": "げつようび", "meaning": "Monday" },
+      { "word": "来月", "furigana": "らいげつ", "meaning": "next month" },
+      { "word": "月明かり", "furigana": "つきあかり", "meaning": "moonlight" }
+    ]
   },
   {
     "kanji": "火",
@@ -133,7 +213,12 @@
     "reading": "On: カ | Kun: ひ",
     "level": "N5",
     "sentence": "火ようびは テニスの ひです。",
-    "translation": "Tuesday is tennis day."
+    "translation": "Tuesday is tennis day.",
+    "examples": [
+      { "word": "火曜日", "furigana": "かようび", "meaning": "Tuesday" },
+      { "word": "火事", "furigana": "かじ", "meaning": "fire (disaster)" },
+      { "word": "火力", "furigana": "かりょく", "meaning": "firepower" }
+    ]
   },
   {
     "kanji": "水",
@@ -141,7 +226,12 @@
     "reading": "On: スイ | Kun: みず",
     "level": "N5",
     "sentence": "つめたい 水を のみたいです。",
-    "translation": "I want to drink cold water."
+    "translation": "I want to drink cold water.",
+    "examples": [
+      { "word": "水曜日", "furigana": "すいようび", "meaning": "Wednesday" },
+      { "word": "水道", "furigana": "すいどう", "meaning": "water supply" },
+      { "word": "水泳", "furigana": "すいえい", "meaning": "swimming" }
+    ]
   },
   {
     "kanji": "木",
@@ -149,7 +239,12 @@
     "reading": "On: モク | Kun: き",
     "level": "N5",
     "sentence": "にわに おおきい 木が あります。",
-    "translation": "There is a big tree in the garden."
+    "translation": "There is a big tree in the garden.",
+    "examples": [
+      { "word": "木曜日", "furigana": "もくようび", "meaning": "Thursday" },
+      { "word": "木造", "furigana": "もくぞう", "meaning": "wooden construction" },
+      { "word": "大木", "furigana": "たいぼく", "meaning": "large tree" }
+    ]
   },
   {
     "kanji": "金",
@@ -157,7 +252,12 @@
     "reading": "On: キン | Kun: かね",
     "level": "N5",
     "sentence": "いま お金が ありません。",
-    "translation": "I don't have any money right now."
+    "translation": "I don't have any money right now.",
+    "examples": [
+      { "word": "金曜日", "furigana": "きんようび", "meaning": "Friday" },
+      { "word": "お金", "furigana": "おかね", "meaning": "money" },
+      { "word": "金色", "furigana": "きんいろ", "meaning": "gold color" }
+    ]
   },
   {
     "kanji": "土",
@@ -165,7 +265,12 @@
     "reading": "On: ド | Kun: つち",
     "level": "N5",
     "sentence": "土ようびは れんしゅうが あります。",
-    "translation": "There is practice on Saturday."
+    "translation": "There is practice on Saturday.",
+    "examples": [
+      { "word": "土曜日", "furigana": "どようび", "meaning": "Saturday" },
+      { "word": "土地", "furigana": "とち", "meaning": "land" },
+      { "word": "土木", "furigana": "どぼく", "meaning": "civil engineering" }
+    ]
   },
   {
     "kanji": "人",
@@ -173,7 +278,12 @@
     "reading": "On: ジン、ニン | Kun: ひと",
     "level": "N5",
     "sentence": "あの 人は わたしの せんせいです。",
-    "translation": "That person is my teacher."
+    "translation": "That person is my teacher.",
+    "examples": [
+      { "word": "人間", "furigana": "にんげん", "meaning": "human being" },
+      { "word": "人気", "furigana": "にんき", "meaning": "popularity" },
+      { "word": "外国人", "furigana": "がいこくじん", "meaning": "foreigner" }
+    ]
   },
   {
     "kanji": "年",
@@ -181,7 +291,12 @@
     "reading": "On: ネン | Kun: とし",
     "level": "N5",
     "sentence": "こと年は いい 年に したいです。",
-    "translation": "I want to make this year a good year."
+    "translation": "I want to make this year a good year.",
+    "examples": [
+      { "word": "来年", "furigana": "らいねん", "meaning": "next year" },
+      { "word": "去年", "furigana": "きょねん", "meaning": "last year" },
+      { "word": "毎年", "furigana": "まいとし", "meaning": "every year" }
+    ]
   },
   {
     "kanji": "大",
@@ -189,7 +304,12 @@
     "reading": "On: ダイ | Kun: おお-きい",
     "level": "N5",
     "sentence": "えきの まえに 大きい ビルが あります。",
-    "translation": "There is a big building in front of the station."
+    "translation": "There is a big building in front of the station.",
+    "examples": [
+      { "word": "大きい", "furigana": "おおきい", "meaning": "big" },
+      { "word": "大学", "furigana": "だいがく", "meaning": "university" },
+      { "word": "大切", "furigana": "たいせつ", "meaning": "important" }
+    ]
   },
   {
     "kanji": "小",
@@ -197,7 +317,12 @@
     "reading": "On: ショウ | Kun: ちい-さい",
     "level": "N5",
     "sentence": "この 小さい はこは なんですか。",
-    "translation": "What is this small box?"
+    "translation": "What is this small box?",
+    "examples": [
+      { "word": "小さい", "furigana": "ちいさい", "meaning": "small" },
+      { "word": "小学校", "furigana": "しょうがっこう", "meaning": "elementary school" },
+      { "word": "小説", "furigana": "しょうせつ", "meaning": "novel" }
+    ]
   },
   {
     "kanji": "中",
@@ -205,7 +330,12 @@
     "reading": "On: チュウ | Kun: なか",
     "level": "N5",
     "sentence": "かばんの 中に ほんが あります。",
-    "translation": "There is a book inside the bag."
+    "translation": "There is a book inside the bag.",
+    "examples": [
+      { "word": "中国", "furigana": "ちゅうごく", "meaning": "China" },
+      { "word": "中学校", "furigana": "ちゅうがっこう", "meaning": "middle school" },
+      { "word": "真中", "furigana": "まんなか", "meaning": "center" }
+    ]
   },
   {
     "kanji": "上",
@@ -213,7 +343,12 @@
     "reading": "On: ジョウ | Kun: うえ",
     "level": "N5",
     "sentence": "つくえの 上に とけいがあります。",
-    "translation": "There is a clock on the desk."
+    "translation": "There is a clock on the desk.",
+    "examples": [
+      { "word": "上着", "furigana": "うわぎ", "meaning": "jacket" },
+      { "word": "上司", "furigana": "じょうし", "meaning": "boss" },
+      { "word": "上昇", "furigana": "じょうしょう", "meaning": "rise / ascend" }
+    ]
   },
   {
     "kanji": "下",
@@ -221,7 +356,12 @@
     "reading": "On: カ、ゲ | Kun: した",
     "level": "N5",
     "sentence": "いすが つくえの 下に あります。",
-    "translation": "The chair is under the desk."
+    "translation": "The chair is under the desk.",
+    "examples": [
+      { "word": "下書き", "furigana": "したがき", "meaning": "draft" },
+      { "word": "下さい", "furigana": "ください", "meaning": "please give me" },
+      { "word": "下降", "furigana": "かこう", "meaning": "descent" }
+    ]
   },
   {
     "kanji": "左",
@@ -229,7 +369,12 @@
     "reading": "On: サ | Kun: ひだり",
     "level": "N5",
     "sentence": "こうさてんを 左に まがってください。",
-    "translation": "Please turn left at the intersection."
+    "translation": "Please turn left at the intersection.",
+    "examples": [
+      { "word": "左右", "furigana": "さゆう", "meaning": "left and right" },
+      { "word": "左手", "furigana": "ひだりて", "meaning": "left hand" },
+      { "word": "左側", "furigana": "ひだりがわ", "meaning": "left side" }
+    ]
   },
   {
     "kanji": "右",
@@ -237,7 +382,12 @@
     "reading": "On: ウ | Kun: みぎ",
     "level": "N5",
     "sentence": "わたしの 右の てが いたいです。",
-    "translation": "My right hand hurts."
+    "translation": "My right hand hurts.",
+    "examples": [
+      { "word": "右側", "furigana": "みぎがわ", "meaning": "right side" },
+      { "word": "右手", "furigana": "みぎて", "meaning": "right hand" },
+      { "word": "右折", "furigana": "うせつ", "meaning": "right turn" }
+    ]
   },
   {
     "kanji": "本",
@@ -245,7 +395,12 @@
     "reading": "On: ホン | Kun: もと",
     "level": "N5",
     "sentence": "としょかんで 本を よみます。",
-    "translation": "I read books at the library."
+    "translation": "I read books at the library.",
+    "examples": [
+      { "word": "本棚", "furigana": "ほんだな", "meaning": "bookshelf" },
+      { "word": "本当", "furigana": "ほんとう", "meaning": "true / real" },
+      { "word": "日本", "furigana": "にほん", "meaning": "Japan" }
+    ]
   },
   {
     "kanji": "見",
@@ -253,7 +408,12 @@
     "reading": "On: ケン | Kun: み-る",
     "level": "N5",
     "sentence": "こんばん えいがを 見ます。",
-    "translation": "I will watch a movie tonight."
+    "translation": "I will watch a movie tonight.",
+    "examples": [
+      { "word": "見方", "furigana": "みかた", "meaning": "viewpoint" },
+      { "word": "見学", "furigana": "けんがく", "meaning": "tour / inspection" },
+      { "word": "見事", "furigana": "みごと", "meaning": "splendid" }
+    ]
   },
   {
     "kanji": "行",
@@ -261,7 +421,12 @@
     "reading": "On: コウ | Kun: い-く",
     "level": "N5",
     "sentence": "らいしゅう、きょうとに 行きます。",
-    "translation": "I will go to Kyoto next week."
+    "translation": "I will go to Kyoto next week.",
+    "examples": [
+      { "word": "行動", "furigana": "こうどう", "meaning": "action / behavior" },
+      { "word": "行列", "furigana": "ぎょうれつ", "meaning": "queue / procession" },
+      { "word": "行方", "furigana": "ゆくえ", "meaning": "whereabouts" }
+    ]
   },
   {
     "kanji": "来",
@@ -269,7 +434,12 @@
     "reading": "On: ライ | Kun: く-る",
     "level": "N5",
     "sentence": "また あした 来てください。",
-    "translation": "Please come again tomorrow."
+    "translation": "Please come again tomorrow.",
+    "examples": [
+      { "word": "来月", "furigana": "らいげつ", "meaning": "next month" },
+      { "word": "来年", "furigana": "らいねん", "meaning": "next year" },
+      { "word": "来週", "furigana": "らいしゅう", "meaning": "next week" }
+    ]
   },
   {
     "kanji": "子",
@@ -277,7 +447,12 @@
     "reading": "On: シ | Kun: こ",
     "level": "N5",
     "sentence": "あそこで 子どもが あそんでいます。",
-    "translation": "A child is playing over there."
+    "translation": "A child is playing over there.",
+    "examples": [
+      { "word": "子供", "furigana": "こども", "meaning": "child" },
+      { "word": "子猫", "furigana": "こねこ", "meaning": "kitten" },
+      { "word": "女子", "furigana": "じょし", "meaning": "girl / female" }
+    ]
   },
   {
     "kanji": "男",
@@ -285,7 +460,12 @@
     "reading": "On: ダン | Kun: おとこ",
     "level": "N5",
     "sentence": "あの 男の ひとは だれですか。",
-    "translation": "Who is that man?"
+    "translation": "Who is that man?",
+    "examples": [
+      { "word": "男性", "furigana": "だんせい", "meaning": "man / male" },
+      { "word": "男の子", "furigana": "おとこのこ", "meaning": "boy" },
+      { "word": "男らしい", "furigana": "おとこらしい", "meaning": "manly" }
+    ]
   },
   {
     "kanji": "女",
@@ -293,7 +473,12 @@
     "reading": "On: ジョ | Kun: おんな",
     "level": "N5",
     "sentence": "あかるい 女の せんせいが すきです。",
-    "translation": "I like cheerful female teachers."
+    "translation": "I like cheerful female teachers.",
+    "examples": [
+      { "word": "女性", "furigana": "じょせい", "meaning": "woman / female" },
+      { "word": "女の子", "furigana": "おんなのこ", "meaning": "girl" },
+      { "word": "女らしい", "furigana": "おんならしい", "meaning": "feminine" }
+    ]
   },
   {
     "kanji": "父",
@@ -301,7 +486,12 @@
     "reading": "On: フ | Kun: ちち",
     "level": "N5",
     "sentence": "わたしの 父は びょういんで はたらいています。",
-    "translation": "My father works at a hospital."
+    "translation": "My father works at a hospital.",
+    "examples": [
+      { "word": "父親", "furigana": "ちちおや", "meaning": "father (formal)" },
+      { "word": "お父さん", "furigana": "おとうさん", "meaning": "dad (polite)" },
+      { "word": "父の日", "furigana": "ちちのひ", "meaning": "Father's Day" }
+    ]
   },
   {
     "kanji": "母",
@@ -309,7 +499,12 @@
     "reading": "On: ボ | Kun: はは",
     "level": "N5",
     "sentence": "母の つくる りょうりは おいしいです。",
-    "translation": "The food my mother makes is delicious."
+    "translation": "The food my mother makes is delicious.",
+    "examples": [
+      { "word": "母親", "furigana": "ははおや", "meaning": "mother (formal)" },
+      { "word": "お母さん", "furigana": "おかあさん", "meaning": "mom (polite)" },
+      { "word": "母の日", "furigana": "ははのひ", "meaning": "Mother's Day" }
+    ]
   },
   {
     "kanji": "山",
@@ -317,7 +512,12 @@
     "reading": "On: サン | Kun: やま",
     "level": "N5",
     "sentence": "ふじ山に のぼってみたいです。",
-    "translation": "I want to try climbing Mt. Fuji."
+    "translation": "I want to try climbing Mt. Fuji.",
+    "examples": [
+      { "word": "山登り", "furigana": "やまのぼり", "meaning": "mountain climbing" },
+      { "word": "富士山", "furigana": "ふじさん", "meaning": "Mt. Fuji" },
+      { "word": "山道", "furigana": "やまみち", "meaning": "mountain path" }
+    ]
   },
   {
     "kanji": "川",
@@ -325,7 +525,12 @@
     "reading": "On: セン | Kun: かわ",
     "level": "N5",
     "sentence": "きれいな 川で さかなを つります。",
-    "translation": "I catch fish in a beautiful river."
+    "translation": "I catch fish in a beautiful river.",
+    "examples": [
+      { "word": "川釣り", "furigana": "かわつり", "meaning": "river fishing" },
+      { "word": "川岸", "furigana": "かわぎし", "meaning": "riverbank" },
+      { "word": "川沿い", "furigana": "かわぞい", "meaning": "along the river" }
+    ]
   },
   {
     "kanji": "田",
@@ -333,7 +538,12 @@
     "reading": "On: デン | Kun: た",
     "level": "N5",
     "sentence": "まわりに 田んぼが たくさんあります。",
-    "translation": "There are many rice fields around."
+    "translation": "There are many rice fields around.",
+    "examples": [
+      { "word": "水田", "furigana": "すいでん", "meaning": "paddy field" },
+      { "word": "田中", "furigana": "たなか", "meaning": "Tanaka (name)" },
+      { "word": "田んぼ", "furigana": "たんぼ", "meaning": "rice paddy" }
+    ]
   },
   {
     "kanji": "天",
@@ -341,7 +551,12 @@
     "reading": "On: テン",
     "level": "N5",
     "sentence": "きょうは 天きが いいですね。",
-    "translation": "The weather is nice today, isn't it?"
+    "translation": "The weather is nice today, isn't it?",
+    "examples": [
+      { "word": "天気", "furigana": "てんき", "meaning": "weather" },
+      { "word": "天才", "furigana": "てんさい", "meaning": "genius" },
+      { "word": "天然", "furigana": "てんねん", "meaning": "natural" }
+    ]
   },
   {
     "kanji": "気",
@@ -349,7 +564,12 @@
     "reading": "On: キ",
     "level": "N5",
     "sentence": "まいにち 元気におそびましょう。",
-    "translation": "Let's play energetically every day."
+    "translation": "Let's play energetically every day.",
+    "examples": [
+      { "word": "元気", "furigana": "げんき", "meaning": "energy / vigor" },
+      { "word": "気分", "furigana": "きぶん", "meaning": "mood" },
+      { "word": "気持ち", "furigana": "きもち", "meaning": "feeling" }
+    ]
   },
   {
     "kanji": "雨",
@@ -357,7 +577,12 @@
     "reading": "On: ウ | Kun: あめ",
     "level": "N5",
     "sentence": "きょうは 朝から 雨が ふっています。",
-    "translation": "It has been raining since this morning."
+    "translation": "It has been raining since this morning.",
+    "examples": [
+      { "word": "雨具", "furigana": "あまぐ", "meaning": "rain gear" },
+      { "word": "雨降り", "furigana": "あめふり", "meaning": "rain / rainy" },
+      { "word": "雨天", "furigana": "うてん", "meaning": "rainy day" }
+    ]
   },
   {
     "kanji": "雪",
@@ -365,7 +590,12 @@
     "reading": "On: セツ | Kun: ゆき",
     "level": "N5",
     "sentence": "ふゆに 雪が たくさん ふりました。",
-    "translation": "It snowed a lot during the winter."
+    "translation": "It snowed a lot during the winter.",
+    "examples": [
+      { "word": "雪だるま", "furigana": "ゆきだるま", "meaning": "snowman" },
+      { "word": "雪合戦", "furigana": "ゆきがっせん", "meaning": "snowball fight" },
+      { "word": "雪道", "furigana": "ゆきみち", "meaning": "snowy road" }
+    ]
   },
   {
     "kanji": "風",
@@ -373,7 +603,12 @@
     "reading": "On: フウ | Kun: かぜ",
     "level": "N5",
     "sentence": "きょうは 風が とても つよいです。",
-    "translation": "The wind is very strong today."
+    "translation": "The wind is very strong today.",
+    "examples": [
+      { "word": "風邪", "furigana": "かぜ", "meaning": "cold (illness)" },
+      { "word": "風景", "furigana": "ふうけい", "meaning": "scenery" },
+      { "word": "風力", "furigana": "ふうりょく", "meaning": "wind power" }
+    ]
   },
   {
     "kanji": "空",
@@ -381,7 +616,12 @@
     "reading": "On: クウ | Kun: そら",
     "level": "N5",
     "sentence": "青い 空を とりが とんでいます。",
-    "translation": "Birds are flying in the blue sky."
+    "translation": "Birds are flying in the blue sky.",
+    "examples": [
+      { "word": "空港", "furigana": "くうこう", "meaning": "airport" },
+      { "word": "空気", "furigana": "くうき", "meaning": "air" },
+      { "word": "青空", "furigana": "あおぞら", "meaning": "blue sky" }
+    ]
   },
   {
     "kanji": "名",
@@ -389,7 +629,12 @@
     "reading": "On: メイ | Kun: な",
     "level": "N5",
     "sentence": "お 名まえを おしえてください。",
-    "translation": "Please tell me your name."
+    "translation": "Please tell me your name.",
+    "examples": [
+      { "word": "名前", "furigana": "なまえ", "meaning": "name" },
+      { "word": "有名", "furigana": "ゆうめい", "meaning": "famous" },
+      { "word": "名所", "furigana": "めいしょ", "meaning": "famous place" }
+    ]
   },
   {
     "kanji": "国",
@@ -397,7 +642,12 @@
     "reading": "On: コク | Kun: くに",
     "level": "N5",
     "sentence": "あなたのは どこの 国から きましたか。",
-    "translation": "Which country did you come from?"
+    "translation": "Which country did you come from?",
+    "examples": [
+      { "word": "国家", "furigana": "こっか", "meaning": "state / nation" },
+      { "word": "外国", "furigana": "がいこく", "meaning": "foreign country" },
+      { "word": "国民", "furigana": "こくみん", "meaning": "citizen" }
+    ]
   },
   {
     "kanji": "生",
@@ -405,7 +655,12 @@
     "reading": "On: セイ | Kun: う-まれる、い-きる",
     "level": "N5",
     "sentence": "せんげつ、あかちゃんが 生まれました。",
-    "translation": "A baby was born last month."
+    "translation": "A baby was born last month.",
+    "examples": [
+      { "word": "生徒", "furigana": "せいと", "meaning": "student" },
+      { "word": "生活", "furigana": "せいかつ", "meaning": "life / lifestyle" },
+      { "word": "誕生", "furigana": "たんじょう", "meaning": "birth" }
+    ]
   },
   {
     "kanji": "学",
@@ -413,7 +668,12 @@
     "reading": "On: ガク | Kun: まな-ぶ",
     "level": "N5",
     "sentence": "日本語を 学ぶ のは おもしろいです。",
-    "translation": "Learning Japanese is interesting."
+    "translation": "Learning Japanese is interesting.",
+    "examples": [
+      { "word": "学生", "furigana": "がくせい", "meaning": "student" },
+      { "word": "学校", "furigana": "がっこう", "meaning": "school" },
+      { "word": "学習", "furigana": "がくしゅう", "meaning": "learning" }
+    ]
   },
   {
     "kanji": "校",
@@ -421,7 +681,12 @@
     "reading": "On: コウ",
     "level": "N5",
     "sentence": "あるいて 学 校へ いきます。",
-    "translation": "I go to school on foot."
+    "translation": "I go to school on foot.",
+    "examples": [
+      { "word": "学校", "furigana": "がっこう", "meaning": "school" },
+      { "word": "高校", "furigana": "こうこう", "meaning": "high school" },
+      { "word": "校長", "furigana": "こうちょう", "meaning": "principal" }
+    ]
   },
   {
     "kanji": "先",
@@ -429,7 +694,12 @@
     "reading": "On: セン | Kun: さき",
     "level": "N5",
     "sentence": "お 先に しつれいします。",
-    "translation": "Excuse me for leaving before you."
+    "translation": "Excuse me for leaving before you.",
+    "examples": [
+      { "word": "先生", "furigana": "せんせい", "meaning": "teacher" },
+      { "word": "先週", "furigana": "せんしゅう", "meaning": "last week" },
+      { "word": "先月", "furigana": "せんげつ", "meaning": "last month" }
+    ]
   },
   {
     "kanji": "何",
@@ -437,7 +707,12 @@
     "reading": "On: カ | Kun: なに、なん",
     "level": "N5",
     "sentence": "これは 何の 本ですか。",
-    "translation": "What book is this?"
+    "translation": "What book is this?",
+    "examples": [
+      { "word": "何度", "furigana": "なんど", "meaning": "how many times" },
+      { "word": "何時", "furigana": "なんじ", "meaning": "what time" },
+      { "word": "何色", "furigana": "なにいろ", "meaning": "what color" }
+    ]
   },
   {
     "kanji": "前",
@@ -445,7 +720,12 @@
     "reading": "On: ゼン | Kun: まえ",
     "level": "N5",
     "sentence": "えきの 前で ともだちを まちます。",
-    "translation": "I will wait for my friend in front of the station."
+    "translation": "I will wait for my friend in front of the station.",
+    "examples": [
+      { "word": "前日", "furigana": "ぜんじつ", "meaning": "previous day" },
+      { "word": "前半", "furigana": "ぜんはん", "meaning": "first half" },
+      { "word": "前進", "furigana": "ぜんしん", "meaning": "advance" }
+    ]
   },
   {
     "kanji": "後",
@@ -453,7 +733,12 @@
     "reading": "On: ゴ、コウ | Kun: あと、うし-ろ",
     "level": "N5",
     "sentence": "ごはんの 後で デザートを たべます。",
-    "translation": "I will eat dessert after the meal."
+    "translation": "I will eat dessert after the meal.",
+    "examples": [
+      { "word": "後日", "furigana": "ごじつ", "meaning": "later / at a future date" },
+      { "word": "後半", "furigana": "こうはん", "meaning": "second half" },
+      { "word": "後ろ", "furigana": "うしろ", "meaning": "behind" }
+    ]
   },
   {
     "kanji": "外",
@@ -461,7 +746,12 @@
     "reading": "On: ガイ | Kun: そと",
     "level": "N5",
     "sentence": "部屋の 外に だれか います。",
-    "translation": "There is someone outside the room."
+    "translation": "There is someone outside the room.",
+    "examples": [
+      { "word": "外出", "furigana": "がいしゅつ", "meaning": "going out" },
+      { "word": "外国", "furigana": "がいこく", "meaning": "foreign country" },
+      { "word": "外側", "furigana": "そとがわ", "meaning": "outer side" }
+    ]
   },
   {
     "kanji": "間",
@@ -469,7 +759,12 @@
     "reading": "On: カン | Kun: あいだ、ま",
     "level": "N5",
     "sentence": "つくえといすの 間に かばんがあります。",
-    "translation": "There is a bag between the desk and the chair."
+    "translation": "There is a bag between the desk and the chair.",
+    "examples": [
+      { "word": "時間", "furigana": "じかん", "meaning": "time" },
+      { "word": "間隔", "furigana": "かんかく", "meaning": "interval" },
+      { "word": "部屋", "furigana": "へや", "meaning": "room" }
+    ]
   },
   {
     "kanji": "東",
@@ -477,7 +772,12 @@
     "reading": "On: トウ | Kun: ひがし",
     "level": "N5",
     "sentence": "たいようは 東から のぼります。",
-    "translation": "The sun rises from the east."
+    "translation": "The sun rises from the east.",
+    "examples": [
+      { "word": "東京", "furigana": "とうきょう", "meaning": "Tokyo" },
+      { "word": "東方", "furigana": "とうほう", "meaning": "eastern direction" },
+      { "word": "東側", "furigana": "ひがしがわ", "meaning": "east side" }
+    ]
   },
   {
     "kanji": "西",
@@ -485,7 +785,12 @@
     "reading": "On: セイ、サイ | Kun: にし",
     "level": "N5",
     "sentence": "ひがしをむくと、うしろが 西です。",
-    "translation": "If you face east, behind you is west."
+    "translation": "If you face east, behind you is west.",
+    "examples": [
+      { "word": "西洋", "furigana": "せいよう", "meaning": "the West" },
+      { "word": "西方", "furigana": "さいほう", "meaning": "western direction" },
+      { "word": "西側", "furigana": "にしがわ", "meaning": "west side" }
+    ]
   },
   {
     "kanji": "南",
@@ -493,7 +798,12 @@
     "reading": "On: ナン | Kun: みなみ",
     "level": "N5",
     "sentence": "日本の 南に おきなわがあります。",
-    "translation": "Okinawa is in the south of Japan."
+    "translation": "Okinawa is in the south of Japan.",
+    "examples": [
+      { "word": "南方", "furigana": "なんぽう", "meaning": "southern direction" },
+      { "word": "南米", "furigana": "なんべい", "meaning": "South America" },
+      { "word": "南側", "furigana": "みなみがわ", "meaning": "south side" }
+    ]
   },
   {
     "kanji": "北",
@@ -501,7 +811,12 @@
     "reading": "On: ホク | Kun: きた",
     "level": "N5",
     "sentence": "ほっかいどうは 日本の 北に あります。",
-    "translation": "Hokkaido is in the north of Japan."
+    "translation": "Hokkaido is in the north of Japan.",
+    "examples": [
+      { "word": "北方", "furigana": "ほっぽう", "meaning": "northern direction" },
+      { "word": "北米", "furigana": "ほくべい", "meaning": "North America" },
+      { "word": "北側", "furigana": "きたがわ", "meaning": "north side" }
+    ]
   },
   {
     "kanji": "時",
@@ -509,7 +824,12 @@
     "reading": "On: ジ | Kun: とき",
     "level": "N5",
     "sentence": "いまは 何 時 ですか。",
-    "translation": "What time is it now?"
+    "translation": "What time is it now?",
+    "examples": [
+      { "word": "時間", "furigana": "じかん", "meaning": "time" },
+      { "word": "時計", "furigana": "とけい", "meaning": "clock / watch" },
+      { "word": "時代", "furigana": "じだい", "meaning": "era / age" }
+    ]
   },
   {
     "kanji": "分",
@@ -517,7 +837,12 @@
     "reading": "On: ブン、フン | Kun: わ-かる",
     "level": "N5",
     "sentence": "この えいごの いみが 分かりますか。",
-    "translation": "Do you understand the meaning of this English?"
+    "translation": "Do you understand the meaning of this English?",
+    "examples": [
+      { "word": "分かります", "furigana": "わかります", "meaning": "understand" },
+      { "word": "十分", "furigana": "じゅっぷん", "meaning": "10 minutes" },
+      { "word": "分ける", "furigana": "わける", "meaning": "divide" }
+    ]
   },
   {
     "kanji": "半",
@@ -525,7 +850,12 @@
     "reading": "On: ハン",
     "level": "N5",
     "sentence": "しごとは 七じ 半に おわります。",
-    "translation": "Work finishes at seven thirty."
+    "translation": "Work finishes at seven thirty.",
+    "examples": [
+      { "word": "半分", "furigana": "はんぶん", "meaning": "half" },
+      { "word": "半年", "furigana": "はんとし", "meaning": "half year" },
+      { "word": "半径", "furigana": "はんけい", "meaning": "radius" }
+    ]
   },
   {
     "kanji": "午",
@@ -533,7 +863,12 @@
     "reading": "On: ゴ",
     "level": "N5",
     "sentence": "あしたの 午ごに テストが あります。",
-    "translation": "There is a test tomorrow afternoon."
+    "translation": "There is a test tomorrow afternoon.",
+    "examples": [
+      { "word": "午前", "furigana": "ごぜん", "meaning": "morning" },
+      { "word": "午後", "furigana": "ごご", "meaning": "afternoon" },
+      { "word": "正午", "furigana": "しょうご", "meaning": "noon" }
+    ]
   },
   {
     "kanji": "毎",
@@ -541,7 +876,12 @@
     "reading": "On: マイ",
     "level": "N5",
     "sentence": "まいにち 牛にゅうを のみます。",
-    "translation": "I drink milk every day."
+    "translation": "I drink milk every day.",
+    "examples": [
+      { "word": "毎日", "furigana": "まいにち", "meaning": "every day" },
+      { "word": "毎週", "furigana": "まいしゅう", "meaning": "every week" },
+      { "word": "毎月", "furigana": "まいつき", "meaning": "every month" }
+    ]
   },
   {
     "kanji": "語",
@@ -549,7 +889,12 @@
     "reading": "On: ゴ | Kun: かた-る",
     "level": "N5",
     "sentence": "かれは 日本 語が とても じょうずです。",
-    "translation": "He is very good at the Japanese language."
+    "translation": "He is very good at the Japanese language.",
+    "examples": [
+      { "word": "言語", "furigana": "げんご", "meaning": "language" },
+      { "word": "語呂合わせ", "furigana": "ごろあわせ", "meaning": "pun" },
+      { "word": "語彙", "furigana": "ごい", "meaning": "vocabulary" }
+    ]
   },
   {
     "kanji": "書",
@@ -557,7 +902,12 @@
     "reading": "On: ショ | Kun: か-く",
     "level": "N5",
     "sentence": "ここに おなまえを 書いて ください。",
-    "translation": "Please write your name here."
+    "translation": "Please write your name here.",
+    "examples": [
+      { "word": "書類", "furigana": "しょるい", "meaning": "documents" },
+      { "word": "書店", "furigana": "しょてん", "meaning": "bookstore" },
+      { "word": "手書き", "furigana": "てがき", "meaning": "handwriting" }
+    ]
   },
   {
     "kanji": "読",
@@ -565,7 +915,12 @@
     "reading": "On: ドク | Kun: よ-む",
     "level": "N5",
     "sentence": "ねるまえに ほんを 読みます。",
-    "translation": "I read books before going to bed."
+    "translation": "I read books before going to bed.",
+    "examples": [
+      { "word": "読書", "furigana": "どくしょ", "meaning": "reading" },
+      { "word": "読者", "furigana": "どくしゃ", "meaning": "reader" },
+      { "word": "読み間違い", "furigana": "よみまちがい", "meaning": "misreading" }
+    ]
   },
   {
     "kanji": "聞",
@@ -573,7 +928,12 @@
     "reading": "On: ブン | Kun: き-く",
     "level": "N5",
     "sentence": "ラジオで おんがくを 聞きます。",
-    "translation": "I listen to music on the radio."
+    "translation": "I listen to music on the radio.",
+    "examples": [
+      { "word": "聞き取り", "furigana": "ききとり", "meaning": "listening comprehension" },
+      { "word": "聞き手", "furigana": "ききて", "meaning": "listener" },
+      { "word": "質問を聞く", "furigana": "しつもんをきく", "meaning": "answer a question" }
+    ]
   },
   {
     "kanji": "話",
@@ -581,7 +941,12 @@
     "reading": "On: ワ | Kun: はな-す、はなし",
     "level": "N5",
     "sentence": "ゆっくり 話して ください。",
-    "translation": "Please speak slowly."
+    "translation": "Please speak slowly.",
+    "examples": [
+      { "word": "話題", "furigana": "わだい", "meaning": "topic" },
+      { "word": "対話", "furigana": "たいわ", "meaning": "dialogue" },
+      { "word": "電話", "furigana": "でんわ", "meaning": "telephone" }
+    ]
   },
   {
     "kanji": "買",
@@ -589,7 +954,12 @@
     "reading": "On: バイ | Kun: か-う",
     "level": "N5",
     "sentence": "デパートで くつを 買いました。",
-    "translation": "I bought shoes at the department store."
+    "translation": "I bought shoes at the department store.",
+    "examples": [
+      { "word": "買い物", "furigana": "かいもの", "meaning": "shopping" },
+      { "word": "買い手", "furigana": "かいて", "meaning": "buyer" },
+      { "word": "買値", "furigana": "かいね", "meaning": "purchase price" }
+    ]
   },
   {
     "kanji": "食",
@@ -597,7 +967,12 @@
     "reading": "On: ショク | Kun: た-べる",
     "level": "N5",
     "sentence": "いっしょに ごはんを 食べましょう。",
-    "translation": "Let's eat a meal together."
+    "translation": "Let's eat a meal together.",
+    "examples": [
+      { "word": "食事", "furigana": "しょくじ", "meaning": "meal" },
+      { "word": "食べ物", "furigana": "たべもの", "meaning": "food" },
+      { "word": "朝食", "furigana": "ちょうしょく", "meaning": "breakfast" }
+    ]
   },
   {
     "kanji": "飲",
@@ -605,7 +980,12 @@
     "reading": "On: イン | Kun: の-む",
     "level": "N5",
     "sentence": "おちゃを 飲みますか。",
-    "translation": "Would you like to drink some green tea?"
+    "translation": "Would you like to drink some green tea?",
+    "examples": [
+      { "word": "飲み物", "furigana": "のみもの", "meaning": "beverage" },
+      { "word": "飲料", "furigana": "いんりょう", "meaning": "drink" },
+      { "word": "飲酒", "furigana": "いんしゅ", "meaning": "drinking alcohol" }
+    ]
   },
   {
     "kanji": "出",
@@ -613,7 +993,12 @@
     "reading": "On: シュツ | Kun: で-る、だ-す",
     "level": "N5",
     "sentence": "はちじに いえを 出ます。",
-    "translation": "I leave the house at eight o'clock."
+    "translation": "I leave the house at eight o'clock.",
+    "examples": [
+      { "word": "出口", "furigana": "でぐち", "meaning": "exit" },
+      { "word": "出発", "furigana": "しゅっぱつ", "meaning": "departure" },
+      { "word": "出身", "furigana": "しゅっしん", "meaning": "from (place)" }
+    ]
   },
   {
     "kanji": "入",
@@ -621,7 +1006,12 @@
     "reading": "On: ニュウ | Kun: はい-る、い-れる",
     "level": "N5",
     "sentence": "おふろに 入ります。",
-    "translation": "I am going to take a bath."
+    "translation": "I am going to take a bath.",
+    "examples": [
+      { "word": "入口", "furigana": "いりぐち", "meaning": "entrance" },
+      { "word": "入学", "furigana": "にゅうがく", "meaning": "entrance to school" },
+      { "word": "入場", "furigana": "にゅうじょう", "meaning": "admission" }
+    ]
   },
   {
     "kanji": "休",
@@ -629,7 +1019,12 @@
     "reading": "On: キュウ | Kun: やす-む、やす-み",
     "level": "N5",
     "sentence": "すこし 休きましょう。",
-    "translation": "Let's rest for a bit."
+    "translation": "Let's rest for a bit.",
+    "examples": [
+      { "word": "休日", "furigana": "きゅうじつ", "meaning": "holiday" },
+      { "word": "休み時間", "furigana": "やすみじかん", "meaning": "break time" },
+      { "word": "休校", "furigana": "きゅうこう", "meaning": "school closure" }
+    ]
   },
   {
     "kanji": "立",
@@ -637,7 +1032,12 @@
     "reading": "On: リツ | Kun: た-つ",
     "level": "N5",
     "sentence": "でんしゃのなかで 立ちました。",
-    "translation": "I stood inside the train."
+    "translation": "I stood inside the train.",
+    "examples": [
+      { "word": "立場", "furigana": "たちば", "meaning": "position / stance" },
+      { "word": "立派", "furigana": "りっぱ", "meaning": "splendid" },
+      { "word": "立ち上がる", "furigana": "たちあがる", "meaning": "to stand up" }
+    ]
   },
   {
     "kanji": "車",
@@ -645,7 +1045,12 @@
     "reading": "On: シャ | Kun: くるま",
     "level": "N5",
     "sentence": "あたらしくて 赤い 車ですね。",
-    "translation": "It is a new and red car, isn't it?"
+    "translation": "It is a new and red car, isn't it?",
+    "examples": [
+      { "word": "車両", "furigana": "しゃりょう", "meaning": "vehicle" },
+      { "word": "車線", "furigana": "しゃせん", "meaning": "traffic lane" },
+      { "word": "自動車", "furigana": "じどうしゃ", "meaning": "automobile" }
+    ]
   },
   {
     "kanji": "駅",
@@ -653,7 +1058,12 @@
     "reading": "On: エキ",
     "level": "N5",
     "sentence": " 駅の ちかくで あいましょう。",
-    "translation": "Let's meet near the station."
+    "translation": "Let's meet near the station.",
+    "examples": [
+      { "word": "駅員", "furigana": "えきいん", "meaning": "station staff" },
+      { "word": "駅前", "furigana": "えきまえ", "meaning": "in front of station" },
+      { "word": "駅舎", "furigana": "えきしゃ", "meaning": "station building" }
+    ]
   },
   {
     "kanji": "電",
@@ -661,7 +1071,12 @@
     "reading": "On: デン",
     "level": "N5",
     "sentence": " 電車で おおさかへ いきます。",
-    "translation": "I will go to Osaka by train."
+    "translation": "I will go to Osaka by train.",
+    "examples": [
+      { "word": "電車", "furigana": "でんしゃ", "meaning": "train" },
+      { "word": "電話", "furigana": "でんわ", "meaning": "telephone" },
+      { "word": "電気", "furigana": "でんき", "meaning": "electricity" }
+    ]
   },
   {
     "kanji": "校",
@@ -669,7 +1084,12 @@
     "reading": "On: コウ",
     "level": "N5",
     "sentence": "この 学 校は とても おおきいです。",
-    "translation": "This school is very big."
+    "translation": "This school is very big.",
+    "examples": [
+      { "word": "学校", "furigana": "がっこう", "meaning": "school" },
+      { "word": "高校", "furigana": "こうこう", "meaning": "high school" },
+      { "word": "校舎", "furigana": "こうしゃ", "meaning": "school building" }
+    ]
   },
   {
     "kanji": "店",
@@ -677,7 +1097,12 @@
     "reading": "On: テン | Kun: みせ",
     "level": "N5",
     "sentence": "あの 店の パンは おいしいです。",
-    "translation": "That shop's bread is delicious."
+    "translation": "That shop's bread is delicious.",
+    "examples": [
+      { "word": "店員", "furigana": "てんいん", "meaning": "shop staff" },
+      { "word": "店舗", "furigana": "てんぽ", "meaning": "store" },
+      { "word": "店先", "furigana": "みせさき", "meaning": "storefront" }
+    ]
   },
   {
     "kanji": "白",
@@ -685,7 +1110,12 @@
     "reading": "On: ハク | Kun: しろ-い",
     "level": "N5",
     "sentence": " 白い シャツを あらいました。",
-    "translation": "I washed the white shirt."
+    "translation": "I washed the white shirt.",
+    "examples": [
+      { "word": "白色", "furigana": "はくしょく", "meaning": "white (color)" },
+      { "word": "白鳥", "furigana": "はくちょう", "meaning": "swan" },
+      { "word": "白髪", "furigana": "しらが", "meaning": "gray hair" }
+    ]
   },
   {
     "kanji": "黒",
@@ -693,7 +1123,12 @@
     "reading": "On: コク | Kun: くろ-い",
     "level": "N5",
     "sentence": " 黒い いぬが はしっています。",
-    "translation": "A black dog is running."
+    "translation": "A black dog is running.",
+    "examples": [
+      { "word": "黒色", "furigana": "こくしょく", "meaning": "black (color)" },
+      { "word": "黒板", "furigana": "こくばん", "meaning": "blackboard" },
+      { "word": "黒人", "furigana": "こくじん", "meaning": "black person" }
+    ]
   },
   {
     "kanji": "赤",
@@ -701,7 +1136,12 @@
     "reading": "On: セキ | Kun: あか-い",
     "level": "N5",
     "sentence": " 赤い りんごを かいました。",
-    "translation": "I bought red apples."
+    "translation": "I bought red apples.",
+    "examples": [
+      { "word": "赤色", "furigana": "あかいろ", "meaning": "red (color)" },
+      { "word": "赤ちゃん", "furigana": "あかちゃん", "meaning": "baby" },
+      { "word": "赤十字", "furigana": "せきじゅうじ", "meaning": "Red Cross" }
+    ]
   },
   {
     "kanji": "青",
@@ -709,7 +1149,12 @@
     "reading": "On: セイ | Kun: あお-い",
     "level": "N5",
     "sentence": "うみが 青い ですね。",
-    "translation": "The sea is blue, isn't it?"
+    "translation": "The sea is blue, isn't it?",
+    "examples": [
+      { "word": "青色", "furigana": "あおいろ", "meaning": "blue (color)" },
+      { "word": "青空", "furigana": "あおぞら", "meaning": "blue sky" },
+      { "word": "青年", "furigana": "せいねん", "meaning": "young man" }
+    ]
   },
   {
     "kanji": "長",
@@ -717,7 +1162,12 @@
     "reading": "On: チョウ | Kun: なが-い",
     "level": "N5",
     "sentence": "かみが 長い ひとは だれですか。",
-    "translation": "Who is the person with long hair?"
+    "translation": "Who is the person with long hair?",
+    "examples": [
+      { "word": "長さ", "furigana": "ながさ", "meaning": "length" },
+      { "word": "長話", "furigana": "ながばなし", "meaning": "long story" },
+      { "word": "長期", "furigana": "ちょうき", "meaning": "long-term" }
+    ]
   },
   {
     "kanji": "高",
@@ -725,7 +1175,12 @@
     "reading": "On: コウ | Kun: たか-い",
     "level": "N5",
     "sentence": "あの カメラは 高い ですね。",
-    "translation": "That camera is expensive, isn't it?"
+    "translation": "That camera is expensive, isn't it?",
+    "examples": [
+      { "word": "高さ", "furigana": "たかさ", "meaning": "height" },
+      { "word": "高校", "furigana": "こうこう", "meaning": "high school" },
+      { "word": "高血圧", "furigana": "こうけつあつ", "meaning": "high blood pressure" }
+    ]
   },
   {
     "kanji": "安",
@@ -733,7 +1188,12 @@
     "reading": "On: アン | Kun: やす-い",
     "level": "N5",
     "sentence": "この スーパーの やさいは 安い です。",
-    "translation": "The vegetables at this supermarket are cheap."
+    "translation": "The vegetables at this supermarket are cheap.",
+    "examples": [
+      { "word": "安全", "furigana": "あんぜん", "meaning": "safety" },
+      { "word": "安心", "furigana": "あんしん", "meaning": "relief / peace of mind" },
+      { "word": "安価", "furigana": "あんか", "meaning": "inexpensive" }
+    ]
   },
   {
     "kanji": "新",
@@ -741,7 +1201,12 @@
     "reading": "On: シン | Kun: あたら-しい",
     "level": "N5",
     "sentence": " 新しい ノートを つかいます。",
-    "translation": "I will use a new notebook."
+    "translation": "I will use a new notebook.",
+    "examples": [
+      { "word": "新年", "furigana": "しんねん", "meaning": "New Year" },
+      { "word": "新聞", "furigana": "しんぶん", "meaning": "newspaper" },
+      { "word": "新型", "furigana": "しんがた", "meaning": "new model" }
+    ]
   },
   {
     "kanji": "古",
@@ -749,7 +1214,12 @@
     "reading": "On: コ | Kun: ふる-い",
     "level": "N5",
     "sentence": " 古い くるまを うりました。",
-    "translation": "I sold my old car."
+    "translation": "I sold my old car.",
+    "examples": [
+      { "word": "古本", "furigana": "ふるほん", "meaning": "used book" },
+      { "word": "古人", "furigana": "こじん", "meaning": "ancient people" },
+      { "word": "古風", "furigana": "こふう", "meaning": "old-fashioned" }
+    ]
   },
   {
     "kanji": "多",
@@ -757,7 +1227,12 @@
     "reading": "On: タ | Kun: おお-い",
     "level": "N5",
     "sentence": "こうえんに ひとが 多い です。",
-    "translation": "There are many people in the park."
+    "translation": "There are many people in the park.",
+    "examples": [
+      { "word": "多数", "furigana": "たすう", "meaning": "many" },
+      { "word": "多忙", "furigana": "たぼう", "meaning": "busy" },
+      { "word": "多様", "furigana": "たよう", "meaning": "diversity" }
+    ]
   },
   {
     "kanji": "少",
@@ -765,7 +1240,12 @@
     "reading": "On: ショウ | Kun: すく-ない、すこ-し",
     "level": "N5",
     "sentence": "じかんが 少ない ですね。",
-    "translation": "There is little time left, isn't there?"
+    "translation": "There is little time left, isn't there?",
+    "examples": [
+      { "word": "少数", "furigana": "しょうすう", "meaning": "small number" },
+      { "word": "少年", "furigana": "しょうねん", "meaning": "boy / youth" },
+      { "word": "少し", "furigana": "すこし", "meaning": "a little" }
+    ]
   },
   {
     "kanji": "友",
@@ -773,7 +1253,12 @@
     "reading": "On: ユウ | Kun: とも",
     "level": "N5",
     "sentence": " 友だちと えいがに いきます。",
-    "translation": "I will go to a movie with my friend."
+    "translation": "I will go to a movie with my friend.",
+    "examples": [
+      { "word": "友人", "furigana": "ゆうじん", "meaning": "friend" },
+      { "word": "友情", "furigana": "ゆうじょう", "meaning": "friendship" },
+      { "word": "友好", "furigana": "ゆうこう", "meaning": "friendship / amity" }
+    ]
   },
   {
     "kanji": "足",
@@ -781,7 +1266,12 @@
     "reading": "On: ソク | Kun: あし、た-りる",
     "level": "N5",
     "sentence": "たくさん はしったので 足が いたいです。",
-    "translation": "My legs hurt because I ran a lot."
+    "translation": "My legs hurt because I ran a lot.",
+    "examples": [
+      { "word": "足首", "furigana": "あしくび", "meaning": "ankle" },
+      { "word": "足音", "furigana": "あしおと", "meaning": "footstep" },
+      { "word": "足りない", "furigana": "たりない", "meaning": "insufficient" }
+    ]
   },
   {
     "kanji": "目",
@@ -789,7 +1279,12 @@
     "reading": "On: モク | Kun: め",
     "level": "N5",
     "sentence": "テレビを みすぎて 目が つかれました。",
-    "translation": "My eyes are tired from watching too much TV."
+    "translation": "My eyes are tired from watching too much TV.",
+    "examples": [
+      { "word": "目玉", "furigana": "めだま", "meaning": "eyeball" },
+      { "word": "目印", "furigana": "めじるし", "meaning": "landmark" },
+      { "word": "目標", "furigana": "もくひょう", "meaning": "goal" }
+    ]
   },
   {
     "kanji": "耳",
@@ -797,1606 +1292,11 @@
     "reading": "On: ジ | Kun: みみ",
     "level": "N5",
     "sentence": "おとが おおきくて 耳が いたいです。",
-    "translation": "The sound is so loud that my ears hurt."
-  },
-  {
-    "kanji": "安",
-    "meaning": "Cheap / Safe",
-    "reading": "On: アン | Kun: やす-い",
-    "level": "N4",
-    "sentence": "ここなら 安全 だから、しんぱいしないでください。",
-    "translation": "It is safe here, so please don't worry."
-  },
-  {
-    "kanji": "以",
-    "meaning": "Because / By means of",
-    "reading": "On: イ",
-    "level": "N4",
-    "sentence": "これ 以がい のものは もっていません。",
-    "translation": "I don't have anything other than this."
-  },
-  {
-    "kanji": "意",
-    "meaning": "Idea / Mind / Intent",
-    "reading": "On: イ",
-    "level": "N4",
-    "sentence": "その ことばの 意味 を おしえてください。",
-    "translation": "Please tell me the meaning of that word."
-  },
-  {
-    "kanji": "医",
-    "meaning": "Doctor / Medicine",
-    "reading": "On: イ",
-    "level": "N4",
-    "sentence": "びょうきになったので 医しゃ に みてもらいました。",
-    "translation": "I got sick, so I had a doctor look at me."
-  },
-  {
-    "kanji": "育",
-    "meaning": "Bring up / Grow",
-    "reading": "On: イク | Kun: そだ-てる、そだ-つ",
-    "level": "N4",
-    "sentence": "にわで はなを 育てる のは たのしいです。",
-    "translation": "Growing flowers in the garden is fun."
-  },
-  {
-    "kanji": "一",
-    "meaning": "One",
-    "reading": "On: イチ | Kun: ひと-つ",
-    "level": "N4",
-    "sentence": "一しょうけんめい べんきょうします。",
-    "translation": "I will study with all my might."
-  },
-  {
-    "kanji": "員",
-    "meaning": "Member / Employee",
-    "reading": "On: イン",
-    "level": "N4",
-    "sentence": "あの 駅員 さんは いつも しんせつです。",
-    "translation": "That station staff member is always kind."
-  },
-  {
-    "kanji": "引",
-    "meaning": "Pull / Draw",
-    "reading": "On: イン | Kun: ひ-く",
-    "level": "N4",
-    "sentence": "かぜを 引いて しまいました。",
-    "translation": "I have caught a cold."
-  },
-  {
-    "kanji": "飲",
-    "meaning": "Drink",
-    "reading": "On: イン | Kun: の-む",
-    "level": "N4",
-    "sentence": "つめたい 飲料 すいが ほしいです。",
-    "translation": "I want some cold drinking water."
-  },
-  {
-    "kanji": "院",
-    "meaning": "Institution / House",
-    "reading": "On: イン",
-    "level": "N4",
-    "sentence": "あした、病 院 へ いきます。",
-    "translation": "I will go to the hospital tomorrow."
-  },
-  {
-    "kanji": "右",
-    "meaning": "Right",
-    "reading": "On: ウ、ユウ | Kun: みぎ",
-    "level": "N4",
-    "sentence": "日本でおまわりさんは 右そく をあるきます。",
-    "translation": "In Japan, police officers walk on the right side."
-  },
-  {
-    "kanji": "雨",
-    "meaning": "Rain",
-    "reading": "On: ウ | Kun: あめ",
-    "level": "N4",
-    "sentence": "ひどい 雨てん ですが、しあいは あります。",
-    "translation": "It's a heavy rainy day, but there is a match."
-  },
-  {
-    "kanji": "運",
-    "meaning": "Carry / Luck / Destiny",
-    "reading": "On: ウン | Kun: はこ-ぶ",
-    "level": "N4",
-    "sentence": "おもい にもつを 運ぶ のを手伝ってください。",
-    "translation": "Please help me carry this heavy luggage."
-  },
-  {
-    "kanji": "映",
-    "meaning": "Project / Reflect",
-    "reading": "On: エイ | Kun: うつ-る",
-    "level": "N4",
-    "sentence": "こんばん、ともだちと 映画 を みにいきます。",
-    "translation": "I'm going to watch a movie with a friend tonight."
-  },
-  {
-    "kanji": "駅",
-    "meaning": "Station",
-    "reading": "On: エキ",
-    "level": "N4",
-    "sentence": " 駅ちょう さんに みちを ききました。",
-    "translation": "I asked the stationmaster for directions."
-  },
-  {
-    "kanji": "円",
-    "meaning": "Yen / Circle",
-    "reading": "On: エン | Kun: まる-い",
-    "level": "N4",
-    "sentence": "みんなで 円 ざになって すわりました。",
-    "translation": "We all sat down in a circle."
-  },
-  {
-    "kanji": "園",
-    "meaning": "Garden / Park",
-    "reading": "On: エン | Kun: その",
-    "level": "N4",
-    "sentence": "あした、こう 園 へ さんぽに いきます。",
-    "translation": "Tomorrow, I'm going to the park for a walk."
-  },
-  {
-    "kanji": "遠",
-    "meaning": "Far / Distant",
-    "reading": "On: エン | Kun: とお-い",
-    "level": "N4",
-    "sentence": "がっこうから とても 遠い ところに すんでいます。",
-    "translation": "I live in a place very far from school."
-  },
-  {
-    "kanji": "横",
-    "meaning": "Side / Horizontal",
-    "reading": "On: オウ | Kun: よこ",
-    "level": "N4",
-    "sentence": "ノートを 横 に つかって 絵を かきました。",
-    "translation": "I used the notebook horizontally to draw a picture."
-  },
-  {
-    "kanji": "屋",
-    "meaning": "Roof / Shop / House",
-    "reading": "On: オク | Kun: や",
-    "level": "N4",
-    "sentence": "あの 本 屋 さんで まんがを かいました。",
-    "translation": "I bought a manga at that bookstore."
-  },
-  {
-    "kanji": "温",
-    "meaning": "Warm / Temperature",
-    "reading": "On: オン | Kun: あたた-かい",
-    "level": "N4",
-    "sentence": "あたたかい 温泉 に はいりたいです。",
-    "translation": "I want to get into a warm hot spring."
-  },
-  {
-    "kanji": "音",
-    "meaning": "Sound",
-    "reading": "On: オン、イン | Kun: おと、ね",
-    "level": "N4",
-    "sentence": "あかるい 楽 音 が きこえてきました。",
-    "translation": "Bright musical sounds started to be heard."
-  },
-  {
-    "kanji": "下",
-    "meaning": "Below / Down",
-    "reading": "On: カ、ゲ | Kun: した、さ-げる",
-    "level": "N4",
-    "sentence": "おんどが 下がる と さむくなりますね。",
-    "translation": "When the temperature drops, it gets cold, doesn't it?"
-  },
-  {
-    "kanji": "化",
-    "meaning": "Change / Transform",
-    "reading": "On: カ、ケ | Kun: ば-ける",
-    "level": "N4",
-    "sentence": "おとうとは 化がく を べんきょうしています。",
-    "translation": "My younger brother is studying chemistry."
-  },
-  {
-    "kanji": "何",
-    "meaning": "What",
-    "reading": "On: カ | Kun: なに、なん",
-    "level": "N4",
-    "sentence": "何かい も おなじ まちがいを しました。",
-    "translation": "I made the same mistake many times."
-  },
-  {
-    "kanji": "夏",
-    "meaning": "Summer",
-    "reading": "On: カ | Kun: なつ",
-    "level": "N4",
-    "sentence": "今年の 夏 は とても あついですね。",
-    "translation": "This year's summer is very hot, isn't it?"
-  },
-  {
-    "kanji": "家",
-    "meaning": "House / Family",
-    "reading": "On: カ、ケ | Kun: いえ、や",
-    "level": "N4",
-    "sentence": " 家族 みんなで りょこうに いきます。",
-    "translation": "I am going on a trip with my whole family."
-  },
-  {
-    "kanji": "科",
-    "meaning": "Department / Course / Science",
-    "reading": "On: カ",
-    "level": "N4",
-    "sentence": "おもしろい 科目 を えらびました。",
-    "translation": "I chose an interesting subject."
-  },
-  {
-    "kanji": "歌",
-    "meaning": "Song / Sing",
-    "reading": "On: カ | Kun: うた、うた-う",
-    "level": "N4",
-    "sentence": "みんなで いっしょに 歌を 歌いましょう。",
-    "translation": "Let's sing a song together."
-  },
-  {
-    "kanji": "火",
-    "meaning": "Fire",
-    "reading": "On: カ | Kun: ひ、ほ",
-    "level": "N4",
-    "sentence": " 火ざん が ふんかしました。",
-    "translation": "The volcano erupted."
-  },
-  {
-    "kanji": "花",
-    "meaning": "Flower",
-    "reading": "On: カ | Kun: はな",
-    "level": "N4",
-    "sentence": "にわに きれいな 花 が さいています。",
-    "translation": "Beautiful flowers are blooming in the garden."
-  },
-  {
-    "kanji": "画",
-    "meaning": "Brush stroke / Picture",
-    "reading": "On: ガ、カク",
-    "level": "N4",
-    "sentence": "この かんじの 画すう は いくつですか。",
-    "translation": "What is the stroke count of this kanji?"
-  },
-  {
-    "kanji": "会",
-    "meaning": "Meet / Society",
-    "reading": "On: カイ | Kun: あ-う",
-    "level": "N4",
-    "sentence": "あした、ともだちに 会います。",
-    "translation": "I will meet my friend tomorrow."
-  },
-  {
-    "kanji": "回",
-    "meaning": "Times / Turn round",
-    "reading": "On: カイ | Kun: まわ-る",
-    "level": "N4",
-    "sentence": "くるまの タイヤが まわりました。",
-    "translation": "The car's tires spun."
-  },
-  {
-    "kanji": "海",
-    "meaning": "Sea / Ocean",
-    "reading": "On: カイ | Kun: うみ",
-    "level": "N4",
-    "sentence": "夏休みに 海 へ およぎにいきました。",
-    "translation": "I went to swim in the sea during summer vacation."
-  },
-  {
-    "kanji": "界",
-    "meaning": "World / Boundary",
-    "reading": "On: カイ",
-    "level": "N4",
-    "sentence": " 世界 には たくさんの くにがあります。",
-    "translation": "There are many countries in the world."
-  },
-  {
-    "kanji": "皆",
-    "meaning": "All / Everyone",
-    "reading": "On: カイ | Kun: みな",
-    "level": "N4",
-    "sentence": " 皆さん 、おはようございます。",
-    "translation": "Good morning, everyone."
-  },
-  {
-    "kanji": "絵",
-    "meaning": "Picture / Drawing",
-    "reading": "On: エ、カイ",
-    "level": "N4",
-    "sentence": "きれいな 絵はがき を もらいました。",
-    "translation": "I received a beautiful picture postcard."
-  },
-  {
-    "kanji": "開",
-    "meaning": "Open / Unfold",
-    "reading": "On: カイ | Kun: あ-ける、ひら-く",
-    "level": "N4",
-    "sentence": "まどを 開けて ください。",
-    "translation": "Please open the window."
-  },
-  {
-    "kanji": "階",
-    "meaning": "Floor / Stair",
-    "reading": "On: カイ",
-    "level": "N4",
-    "sentence": "わたしの へやは さん 階 にあります。",
-    "translation": "My room is on the third floor."
-  },
-  {
-    "kanji": "外",
-    "meaning": "Outside / Foreign",
-    "reading": "On: ガイ | Kun: そと、はず-す",
-    "level": "N4",
-    "sentence": " 外こく の ともだちが できました。",
-    "translation": "I made a friend from a foreign country."
-  },
-  {
-    "kanji": "学",
-    "meaning": "Study / Learning",
-    "reading": "On: ガク | Kun: まな-ぶ",
-    "level": "N4",
-    "sentence": "あの 人は まじめな 学生 ですね。",
-    "translation": "That person is a diligent student, isn't he?"
-  },
-  {
-    "kanji": "楽",
-    "meaning": "Pleasurable / Music",
-    "reading": "On: ラク、ガク | Kun: たの-しい",
-    "level": "N4",
-    "sentence": "まいにちの べんきょうが 楽しい です。",
-    "translation": "Every day's studying is fun."
-  },
-  {
-    "kanji": "間",
-    "meaning": "Interval / Space",
-    "reading": "On: カン | Kun: あいだ、ま",
-    "level": "N4",
-    "sentence": "ながい 時間 、バスを まちました。",
-    "translation": "I waited for the bus for a long time."
-  },
-  {
-    "kanji": "漢",
-    "meaning": "Sino- / China / Man",
-    "reading": "On: カン",
-    "level": "N4",
-    "sentence": "まいにち 漢字 を 三つ おぼえます。",
-    "translation": "I memorize three kanji every day."
-  },
-  {
-    "kanji": "館",
-    "meaning": "Building / Mansion",
-    "reading": "On: カン",
-    "level": "N4",
-    "sentence": "図書 館 で ほんを かりてきました。",
-    "translation": "I borrowed a book from the library."
-  },
-  {
-    "kanji": "顔",
-    "meaning": "Face / Expression",
-    "reading": "On: ガン | Kun: かお",
-    "level": "N4",
-    "sentence": "あさ おきて、すぐに 顔 を あらいます。",
-    "translation": "I wake up in the morning and wash my face right away."
-  },
-  {
-    "kanji": "危",
-    "meaning": "Dangerous / Fear",
-    "reading": "On: キ | Kun: あぶ-ない",
-    "level": "N4",
-    "sentence": "あそこは 危険 だから はいってはいけません。",
-    "translation": "It is dangerous over there, so you must not enter."
-  },
-  {
-    "kanji": "帰",
-    "meaning": "Return / Go home",
-    "reading": "On: キ | Kun: かえ-る",
-    "level": "N4",
-    "sentence": "はちじに いえに 帰り ます。",
-    "translation": "I will return home at eight o'clock."
-  },
-  {
-    "kanji": "気",
-    "meaning": "Spirit / Mind / Air",
-    "reading": "On: キ、ケ",
-    "level": "N4",
-    "sentence": "おなかがすいているのに 気づき ませんでした。",
-    "translation": "I didn't notice that I was hungry."
-  },
-  {
-    "kanji": "記",
-    "meaning": "Scribe / Record",
-    "reading": "On: キ | Kun: しる-す",
-    "level": "N4",
-    "sentence": "ここに なまえを 記して ください。",
-    "translation": "Please record your name here."
-  },
-  {
-    "kanji": "起",
-    "meaning": "Wake up / Get up",
-    "reading": "On: キ | Kun: お-きる、お-こす",
-    "level": "N4",
-    "sentence": "まいにち ろくじに 起きます 。",
-    "translation": "I wake up at six o'clock every day."
-  },
-  {
-    "kanji": "客",
-    "meaning": "Guest / Customer",
-    "reading": "On: キャク、カク",
-    "level": "N4",
-    "sentence": "みせに お客 さんが たくさんきました。",
-    "translation": "Many customers came to the shop."
-  },
-  {
-    "kanji": "急",
-    "meaning": "Hurry / Sudden",
-    "reading": "On: キュウ | Kun: いそ-ぐ",
-    "level": "N4",
-    "sentence": "じかんに おくれそうなので 急ぎ ます。",
-    "translation": "I will hurry because I might be late."
-  },
-  {
-    "kanji": "牛",
-    "meaning": "Cow",
-    "reading": "On: ギュウ | Kun: うし",
-    "level": "N4",
-    "sentence": "まいにち 牛にゅう を のみます。",
-    "translation": "I drink milk every day."
-  },
-  {
-    "kanji": "去",
-    "meaning": "Past / Leave",
-    "reading": "On: キョ、コ | Kun: さ-る",
-    "level": "N4",
-    "sentence": " 去年 のなつに にほんに きました。",
-    "translation": "I came to Japan last summer."
-  },
-  {
-    "kanji": "強",
-    "meaning": "Strong",
-    "reading": "On: キョウ、ゴウ | Kun: つよ-い",
-    "level": "N4",
-    "sentence": "もっと にほんごを 強べんきょう します。",
-    "translation": "I will study Japanese more."
-  },
-  {
-    "kanji": "教",
-    "meaning": "Teach / Faith",
-    "reading": "On: キョウ | Kun: おし-える",
-    "level": "N4",
-    "sentence": "かんじの よみかたを 教えて ください。",
-    "translation": "Please teach me how to read the kanji."
-  },
-  {
-    "kanji": "局",
-    "meaning": "Bureau / Office",
-    "reading": "On: キョク",
-    "level": "N4",
-    "sentence": "ゆうびん 局 で きってを かいました。",
-    "translation": "I bought stamps at the post office."
-  },
-  {
-    "kanji": "近",
-    "meaning": "Near / Early",
-    "reading": "On: キン | Kun: ちか-い",
-    "level": "N4",
-    "sentence": "えきの 近く に すんでいます。",
-    "translation": "I live near the station."
-  },
-  {
-    "kanji": "銀",
-    "meaning": "Silver",
-    "reading": "On: ギン",
-    "level": "N4",
-    "sentence": " 銀こう で おかねを おろしました。",
-    "translation": "I withdrew money from the bank."
-  },
-  {
-    "kanji": "区",
-    "meaning": "District / Ward",
-    "reading": "On: ク",
-    "level": "N4",
-    "sentence": "しんじゅく 区 の やくしょに いきます。",
-    "translation": "I am going to the Shinjuku ward office."
-  },
-  {
-    "kanji": "苦",
-    "meaning": "Suffering / Bitter",
-    "reading": "On: ク | Kun: くる-しい、にが-い",
-    "level": "N4",
-    "sentence": "この くすりは とても 苦い ですね。",
-    "translation": "This medicine is very bitter, isn't it?"
-  },
-  {
-    "kanji": "具",
-    "meaning": "Tool / Ingredient",
-    "reading": "On: グ",
-    "level": "N4",
-    "sentence": "ごはんを つくる 道 具 を かいました。",
-    "translation": "I bought cooking tools to make meals."
-  },
-  {
-    "kanji": "君",
-    "meaning": "You / Ruler",
-    "reading": "On: クン | Kun: きみ",
-    "level": "N4",
-    "sentence": "たなか 君 は きょう おやすみです。",
-    "translation": "Tanaka-kun is absent today."
-  },
-  {
-    "kanji": "兄",
-    "meaning": "Older brother",
-    "reading": "On: ケイ、キョウ | Kun: あに",
-    "level": "N4",
-    "sentence": "わたしの 兄 は だいがくせいです。",
-    "translation": "My older brother is a university student."
-  },
-  {
-    "kanji": "係",
-    "meaning": "Person in charge",
-    "reading": "On: ケイ | Kun: かか-り",
-    "level": "N4",
-    "sentence": "あんないの 係 のひとに ききました。",
-    "translation": "I asked the person in charge of information."
-  },
-  {
-    "kanji": "形",
-    "meaning": "Shape / Form",
-    "reading": "On: ケイ、ギョウ | Kun: かたち",
-    "level": "N4",
-    "sentence": "まるい 形 の チョコレートです。",
-    "translation": "It is a round-shaped chocolate."
-  },
-  {
-    "kanji": "経",
-    "meaning": "Pass through / Manage",
-    "reading": "On: ケイ、キョウ | Kun: へ-る",
-    "level": "N4",
-    "sentence": "だいがくで 経ざい を まなんでいます。",
-    "translation": "I am studying economics at university."
-  },
-  {
-    "kanji": "計",
-    "meaning": "Plot / Plan / Meter",
-    "reading": "On: ケイ | Kun: はか-る",
-    "level": "N4",
-    "sentence": "りょこうの 計かく を たてましょう。",
-    "translation": "Let's make a plan for the trip."
-  },
-  {
-    "kanji": "決",
-    "meaning": "Decide / Vote",
-    "reading": "On: ケツ | Kun: き-める",
-    "level": "N4",
-    "sentence": "どっちにするか 決めました か。",
-    "translation": "Have you decided which one to choose?"
-  },
-  {
-    "kanji": "結",
-    "meaning": "Tie / Bind / Contract",
-    "reading": "On: ケツ | Kun: むす-ぶ",
-    "level": "N4",
-    "sentence": "あねが 結こん することになりました。",
-    "translation": "My older sister is getting married."
-  },
-  {
-    "kanji": "月",
-    "meaning": "Month / Moon",
-    "reading": "On: ゲツ、ガツ | Kun: つき",
-    "level": "N4",
-    "sentence": " 月ようび から しごとが はじまります。",
-    "translation": "Work starts on Monday."
-  },
-  {
-    "kanji": "犬",
-    "meaning": "Dog",
-    "reading": "On: ケン | Kun: いぬ",
-    "level": "N4",
-    "sentence": "かわいい 犬 を かっています。",
-    "translation": "I keep a cute dog."
-  },
-  {
-    "kanji": "研",
-    "meaning": "Polish / Study",
-    "reading": "On: ケン | Kun: と-ぐ",
-    "level": "N4",
-    "sentence": "がっこうで 研きゅう を しています。",
-    "translation": "I am doing research at school."
-  },
-  {
-    "kanji": "県",
-    "meaning": "Prefecture",
-    "reading": "On: ケン",
-    "level": "N4",
-    "sentence": "あおもり 県 の りんごは おいしいです。",
-    "translation": "Apples from Aomori Prefecture are delicious."
-  },
-  {
-    "kanji": "建",
-    "meaning": "Build",
-    "reading": "On: ケン、コン | Kun: た-てる",
-    "level": "N4",
-    "sentence": "あたらしく いえを 建てる ことにしました。",
-    "translation": "I decided to build a new house."
-  },
-  {
-    "kanji": "験",
-    "meaning": "Verification / Test",
-    "reading": "On: ケン、ゲン",
-    "level": "N4",
-    "sentence": "らいしゅう、にほんごの 試験 があります。",
-    "translation": "There is a Japanese exam next week."
-  },
-  {
-    "kanji": "元",
-    "meaning": "Origin / Source",
-    "reading": "On: ゲン、ガン | Kun: もと",
-    "level": "N4",
-    "sentence": "まいにち 元気 におそびましょう。",
-    "translation": "Let's play energetically every day."
-  },
-  {
-    "kanji": "原",
-    "meaning": "Meadow / Original",
-    "reading": "On: ゲン | Kun: はら",
-    "level": "N4",
-    "sentence": "こうえんの 原っぱ で はしりました。",
-    "translation": "I ran in the open field of the park."
-  },
-  {
-    "kanji": "言",
-    "meaning": "Say / Word",
-    "reading": "On: ゲン、ゴン | Kun: い-う、こと",
-    "level": "N4",
-    "sentence": "にほんの 伝言 を のこしました。",
-    "translation": "I left a Japanese message."
-  },
-  {
-    "kanji": "古",
-    "meaning": "Old",
-    "reading": "On: コ | Kun: ふる-い",
-    "level": "N4",
-    "sentence": " 古い ほんを ほんやに うりました。",
-    "translation": "I sold old books to the bookstore."
-  },
-  {
-    "kanji": "五",
-    "meaning": "Five",
-    "reading": "On: ゴ | Kun: いつ",
-    "level": "N4",
-    "sentence": "あさ 五じ に おきました。",
-    "translation": "I woke up at five in the morning."
-  },
-  {
-    "kanji": "午",
-    "meaning": "Noon",
-    "reading": "On: ゴ",
-    "level": "N4",
-    "sentence": " 午ご から ともだちの いえに いきます。",
-    "translation": "I will go to my friend's house in the afternoon."
-  },
-  {
-    "kanji": "後",
-    "meaning": "Behind / After",
-    "reading": "On: ゴ、コウ | Kun: のち、うし-ろ",
-    "level": "N4",
-    "sentence": "わたしの 後ろ に だれか います。",
-    "translation": "There is someone behind me."
-  },
-  {
-    "kanji": "語",
-    "meaning": "Language / Talk",
-    "reading": "On: ゴ | Kun: かた-る",
-    "level": "N4",
-    "sentence": "えい 語 を はなすことができますか。",
-    "translation": "Can you speak English?"
-  },
-  {
-    "kanji": "公",
-    "meaning": "Public / Official",
-    "reading": "On: コウ | Kun: おおやけ",
-    "level": "N4",
-    "sentence": "この 公えん は とても ひろいです。",
-    "translation": "This park is very spacious."
-  },
-  {
-    "kanji": "口",
-    "meaning": "Mouth",
-    "reading": "On: コウ、ク | Kun: くち",
-    "level": "N4",
-    "sentence": "えきの 西口 で まちあわせを しましょう。",
-    "translation": "Let's meet up at the west exit of the station."
-  },
-  {
-    "kanji": "向",
-    "meaning": "Face / Toward",
-    "reading": "On: コウ | Kun: む-く、む-こう",
-    "level": "N4",
-    "sentence": "あちらの むこう に やまが みえます。",
-    "translation": "You can see mountains over there."
-  },
-  {
-    "kanji": "好",
-    "meaning": "Fond / Like",
-    "reading": "On: コウ | Kun: す-き、よ-い",
-    "level": "N4",
-    "sentence": "にほんの りょうりが 好き です。",
-    "translation": "I like Japanese food."
-  },
-  {
-    "kanji": "工",
-    "meaning": "Craft / Construction",
-    "reading": "On: コウ、ク",
-    "level": "N4",
-    "sentence": "あそこで 工じを していますね。",
-    "translation": "They are doing construction over there, aren't they?"
-  },
-  {
-    "kanji": "広",
-    "meaning": "Wide / Spacious",
-    "reading": "On: コウ | Kun: ひろ-い",
-    "level": "N4",
-    "sentence": "この へやは 広い から いいですね。",
-    "translation": "This room is spacious, so it's nice."
-  },
-  {
-    "kanji": "校",
-    "meaning": "School",
-    "reading": "On: コウ",
-    "level": "N4",
-    "sentence": "がっこうの 中学校 に かよっています。",
-    "translation": "I commute to a junior high school."
-  },
-  {
-    "kanji": "港",
-    "meaning": "Harbor / Port",
-    "reading": "On: コウ | Kun: みなと",
-    "level": "N4",
-    "sentence": " 港 に おおきい ふねが とまっています。",
-    "translation": "A large ship is docked at the harbor."
-  },
-  {
-    "kanji": "考",
-    "meaning": "Consider / Think",
-    "reading": "On: コウ | Kun: かんが-える",
-    "level": "N4",
-    "sentence": "いい ほうほうを 考え ています。",
-    "translation": "I am thinking of a good method."
-  },
-  {
-    "kanji": "行",
-    "meaning": "Go / Line",
-    "reading": "On: コウ、ギョウ | Kun: い-く、おこな-う",
-    "level": "N4",
-    "sentence": "らいしゅう、きょうとに 行き ます。",
-    "translation": "I will go to Kyoto next week."
-  },
-  {
-    "kanji": "高",
-    "meaning": "High / Expensive",
-    "reading": "On: コウ | Kun: たか-い",
-    "level": "N4",
-    "sentence": "あの やまは とても 高い です。",
-    "translation": "That mountain is very high."
-  },
-  {
-    "kanji": "号",
-    "meaning": "Nickname / Number",
-    "reading": "On: ゴウ",
-    "level": "N4",
-    "sentence": "しん 号 が あおに なったら わたります。",
-    "translation": "We will cross when the traffic light turns green."
-  },
-  {
-    "kanji": "合",
-    "meaning": "Fit / Suit",
-    "reading": "On: ゴウ | Kun: あ-う",
-    "level": "N4",
-    "sentence": "ふくの サイズが 合い ませんでした。",
-    "translation": "The clothes size did not fit."
-  },
-  {
-    "kanji": "国",
-    "meaning": "Country",
-    "reading": "On: コク | Kun: くに",
-    "level": "N4",
-    "sentence": " 外国 の ともだちが ほしいです。",
-    "translation": "I want foreign friends."
-  },
-  {
-    "kanji": "愛",
-    "meaning": "Love",
-    "reading": "On: アイ",
-    "level": "N3",
-    "sentence": "ペットに 愛 をそそいでいます。",
-    "translation": "I pour love into my pets."
-  },
-  {
-    "kanji": "案",
-    "meaning": "Plan / Proposal",
-    "reading": "On: アン",
-    "level": "N3",
-    "sentence": "あたらしい 企 案 をだしました。",
-    "translation": "I submitted a new proposal plan."
-  },
-  {
-    "kanji": "以",
-    "meaning": "By means of / Compared to",
-    "reading": "On: イ",
-    "level": "N3",
-    "sentence": "これ 以ぜん にもきたことがあります。",
-    "translation": "I have been here before this time."
-  },
-  {
-    "kanji": "位",
-    "meaning": "Rank / Grade / About",
-    "reading": "On: イ | Kun: くらい",
-    "level": "N3",
-    "sentence": "テストで 第一 位 になりました。",
-    "translation": "I came in first place on the test."
-  },
-  {
-    "kanji": "囲",
-    "meaning": "Surround / Enclose",
-    "reading": "On: イ | Kun: かこ-む",
-    "level": "N3",
-    "sentence": "みんなで テーブルを 囲んで すわりました。",
-    "translation": "We all sat surrounding the table."
-  },
-  {
-    "kanji": "委",
-    "meaning": "Committee / Entrust",
-    "reading": "On: イ",
-    "level": "N3",
-    "sentence": "がっこうの 委いん にえらばれました。",
-    "translation": "I was chosen for the school committee."
-  },
-  {
-    "kanji": "意",
-    "meaning": "Idea / Mind / Heart",
-    "reading": "On: イ",
-    "level": "N3",
-    "sentence": "かれの 意けん をききました。",
-    "translation": "I listened to his opinion."
-  },
-  {
-    "kanji": "易",
-    "meaning": "Easy / Change",
-    "reading": "On: エキ、イ | Kun: やさ-しい",
-    "level": "N3",
-    "sentence": "この もんだいは 易しい ですね。",
-    "translation": "This problem is easy, isn't it?"
-  },
-  {
-    "kanji": "移",
-    "meaning": "Shift / Move / Drift",
-    "reading": "On: イ | Kun: うつ-る",
-    "level": "N3",
-    "sentence": "あたらしいうちに 移る ことになりました。",
-    "translation": "It has been decided that I will move to a new house."
-  },
-  {
-    "kanji": "胃",
-    "meaning": "Stomach",
-    "reading": "On: イ",
-    "level": "N3",
-    "sentence": "たべすぎて 胃 がいたいです。",
-    "translation": "My stomach hurts from eating too much."
-  },
-  {
-    "kanji": "衣",
-    "meaning": "Garment / Clothes",
-    "reading": "On: イ | Kun: ころも",
-    "level": "N3",
-    "sentence": "そろそろ 衣がえ のきせつですね。",
-    "translation": "It is almost time for the seasonal change of clothes."
-  },
-  {
-    "kanji": "違",
-    "meaning": "Differ / Violate",
-    "reading": "On: イ | Kun: ちが-う",
-    "level": "N3",
-    "sentence": "あのふたつの いろは 違う とおもいます。",
-    "translation": "I think those two colors are different."
-  },
-  {
-    "kanji": "因",
-    "meaning": "Cause / Factor",
-    "reading": "On: イン",
-    "level": "N3",
-    "sentence": "じこの 原 因 をしらべています。",
-    "translation": "They are investigating the cause of the accident."
-  },
-  {
-    "kanji": "引",
-    "meaning": "Pull / Tug",
-    "reading": "On: イン | Kun: ひ-く",
-    "level": "N3",
-    "sentence": "じしょを 引いて たしかめます。",
-    "translation": "I will check by pulling up the dictionary."
-  },
-  {
-    "kanji": "栄",
-    "meaning": "Prosper / Flourish",
-    "reading": "On: エイ | Kun: さか-える",
-    "level": "N3",
-    "sentence": " 栄よう のあるものをたべましょう。",
-    "translation": "Let's eat something nutritious."
-  },
-  {
-    "kanji": "永",
-    "meaning": "Eternity / Long",
-    "reading": "On: エイ",
-    "level": "N3",
-    "sentence": "ふたりの 永じゅう がきまりました。",
-    "translation": "Their permanent residency has been decided."
-  },
-  {
-    "kanji": "泳",
-    "meaning": "Swim",
-    "reading": "On: エイ | Kun: およ-ぐ",
-    "level": "N3",
-    "sentence": "プールで およぐ のがすきです。",
-    "translation": "I like swimming in the pool."
-  },
-  {
-    "kanji": "英",
-    "meaning": "England / Brilliant",
-    "reading": "On: エイ",
-    "level": "N3",
-    "sentence": "まいにち 英ご をべんきょうします。",
-    "translation": "I study English every day."
-  },
-  {
-    "kanji": "駅",
-    "meaning": "Station",
-    "reading": "On: エキ",
-    "level": "N3",
-    "sentence": " 駅まえ のカフェでまちあわせました。",
-    "translation": "We met up at a cafe in front of the station."
-  },
-  {
-    "kanji": "演",
-    "meaning": "Perform / Play",
-    "reading": "On: エン",
-    "level": "N3",
-    "sentence": "かれの 講 演 をききにいきます。",
-    "translation": "I am going to listen to his lecture."
-  },
-  {
-    "kanji": "遠",
-    "meaning": "Distant / Far",
-    "reading": "On: エン | Kun: とお-い",
-    "level": "N3",
-    "sentence": " 遠足 でやまにのぼりました。",
-    "translation": "We climbed a mountain on an excursion."
-  },
-  {
-    "kanji": "塩",
-    "meaning": "Salt",
-    "reading": "On: エン | Kun: しお",
-    "level": "N3",
-    "sentence": "スープに 塩 をすこしいれました。",
-    "translation": "I added a little salt to the soup."
-  },
-  {
-    "kanji": "央",
-    "meaning": "Center / Middle",
-    "reading": "On: オウ",
-    "level": "N3",
-    "sentence": "町の 中 央 にこうえんがあります。",
-    "translation": "There is a park in the center of the town."
-  },
-  {
-    "kanji": "往",
-    "meaning": "Journey / Go",
-    "reading": "On: オウ",
-    "level": "N3",
-    "sentence": "えきまでの 往ふく きっぷをかいました。",
-    "translation": "I bought a round-trip ticket to the station."
-  },
-  {
-    "kanji": "欧",
-    "meaning": "Europe",
-    "reading": "On: オウ",
-    "level": "N3",
-    "sentence": "らいねん、西 欧 へりょこうにいきます。",
-    "translation": "Next year, I will travel to Western Europe."
-  },
-  {
-    "kanji": "王",
-    "meaning": "King / Monarch",
-    "reading": "On: オウ",
-    "level": "N3",
-    "sentence": "おとぎばなしの 王さま はやさしいです。",
-    "translation": "The king in the fairy tale is kind."
-  },
-  {
-    "kanji": "横",
-    "meaning": "Side / Horizontal",
-    "reading": "On: オウ | Kun: よこ",
-    "level": "N3",
-    "sentence": "みちを 横だん するときはきをつけてください。",
-    "translation": "Please be careful when crossing the street."
-  },
-  {
-    "kanji": "屋",
-    "meaning": "Roof / Shop",
-    "reading": "On: オク | Kun: や",
-    "level": "N3",
-    "sentence": "へやの 屋じょう からほしがみえます。",
-    "translation": "Stars can be seen from the rooftop of the room."
-  },
-  {
-    "kanji": "温",
-    "meaning": "Warm / Temperature",
-    "reading": "On: オン | Kun: あたた-かい",
-    "level": "N3",
-    "sentence": "きょうの 気 温 はとてもたかいです。",
-    "translation": "Today's air temperature is very high."
-  },
-  {
-    "kanji": "音",
-    "meaning": "Sound / Noise",
-    "reading": "On: オン | Kun: おと",
-    "level": "N3",
-    "sentence": "テレビの 音りょう をさげてください。",
-    "translation": "Please turn down the TV volume."
-  },
-  {
-    "kanji": "下",
-    "meaning": "Below / Down",
-    "reading": "On: カ、ゲ | Kun: した",
-    "level": "N3",
-    "sentence": "ちかてつの 下車 えきはこちらです。",
-    "translation": "The subway exit station is this way."
-  },
-  {
-    "kanji": "化",
-    "meaning": "Change / Transform",
-    "reading": "On: カ、ケ",
-    "level": "N3",
-    "sentence": "にほんの 文 化 をべんきょうしています。",
-    "translation": "I am studying Japanese culture."
-  },
-  {
-    "kanji": "科",
-    "meaning": "Department / Science",
-    "reading": "On: カ",
-    "level": "N3",
-    "sentence": " 科学 の実験はおもしろいです。",
-    "translation": "Science experiments are interesting."
-  },
-  {
-    "kanji": "夏",
-    "meaning": "Summer",
-    "reading": "On: カ | Kun: なつ",
-    "level": "N3",
-    "sentence": "じいじのいえで 夏みかん をたべました。",
-    "translation": "I ate a summer mandarin at my grandpa's house."
-  },
-  {
-    "kanji": "家",
-    "meaning": "House / Home",
-    "reading": "On: カ | Kun: いえ",
-    "level": "N3",
-    "sentence": " 家ちん をはらいにいきます。",
-    "translation": "I am going to pay the rent."
-  },
-  {
-    "kanji": "果",
-    "meaning": "Fruit / Result",
-    "reading": "On: カ | Kun: はた-す",
-    "level": "N3",
-    "sentence": "テストの 結 果 がわかりました。",
-    "translation": "I found out the result of the test."
-  },
-  {
-    "kanji": "過",
-    "meaning": "Pass / Exceed",
-    "reading": "On: カ | Kun: す-ぎる",
-    "level": "N3",
-    "sentence": "たのしい 時間が 過ぎる のははやいです。",
-    "translation": "Fun times pass quickly."
-  },
-  {
-    "kanji": "課",
-    "meaning": "Section / Lesson",
-    "reading": "On: カ",
-    "level": "N3",
-    "sentence": "きょうは 第一 課 をべんきょうします。",
-    "translation": "Today, we will study Lesson 1."
-  },
-  {
-    "kanji": "会",
-    "meaning": "Meet / Society",
-    "reading": "On: カイ | Kun: あ-う",
-    "level": "N3",
-    "sentence": " 会社 のミーティングがあります。",
-    "translation": "There is a company meeting."
-  },
-  {
-    "kanji": "解",
-    "meaning": "Untie / Solve",
-    "reading": "On: カイ | Kun: と-く",
-    "level": "N3",
-    "sentence": "むずかしいもんだいを 解き ました。",
-    "translation": "I solved a difficult problem."
-  },
-  {
-    "kanji": "回",
-    "meaning": "Times / Round",
-    "reading": "On: カイ | Kun: まわ-る",
-    "level": "N3",
-    "sentence": "みちを まわって 回そく していきました。",
-    "translation": "I detoured around the road and bypassed it."
-  },
-  {
-    "kanji": "皆",
-    "meaning": "All / Everyone",
-    "reading": "On: カイ | Kun: みな",
-    "level": "N3",
-    "sentence": " 皆さん 、こちらをみてください。",
-    "translation": "Everyone, please look over here."
-  },
-  {
-    "kanji": "絵",
-    "meaning": "Picture / Painting",
-    "reading": "On: カイ | Kun: え",
-    "level": "N3",
-    "sentence": "美術館で 絵が をみました。",
-    "translation": "I saw paintings at the art museum."
-  },
-  {
-    "kanji": "街",
-    "meaning": "Boulevard / Street",
-    "reading": "On: ガイ | Kun: まち",
-    "level": "N3",
-    "sentence": "にぎやかな 街どう をあるきました。",
-    "translation": "I walked along a lively boulevard."
-  },
-  {
-    "kanji": "各",
-    "meaning": "Each / Every",
-    "reading": "On: カク | Kun: おのおの",
-    "level": "N3",
-    "sentence": " 各じ でべんとうをよういしてください。",
-    "translation": "Please prepare your lunch boxes individually."
-  },
-  {
-    "kanji": "確",
-    "meaning": "Certain / Firm",
-    "reading": "On: カク | Kun: たし-か",
-    "level": "N3",
-    "sentence": "じかんを 確か めてからいきます。",
-    "translation": "I will go after confirming the time."
-  },
-  {
-    "kanji": "覚",
-    "meaning": "Memorize / Wake up",
-    "reading": "On: カク | Kun: おぼ-える",
-    "level": "N3",
-    "sentence": "あたらしいことばを 覚えます 。",
-    "translation": "I memorize new words."
-  },
-  {
-    "kanji": "角",
-    "meaning": "Angle / Corner",
-    "reading": "On: カク | Kun: かど、つの",
-    "level": "N3",
-    "sentence": "あの 角 をみぎにまがってください。",
-    "translation": "Please turn right at that corner."
-  },
-  {
-    "kanji": "割",
-    "meaning": "Proportion / Divide",
-    "reading": "On: カツ | Kun: わ-る",
-    "level": "N3",
-    "sentence": "おくりものを 割合 してわけました。",
-    "translation": "We divided and portioned the gifts."
-  },
-  {
-    "kanji": "活",
-    "meaning": "Lively / Active",
-    "reading": "On: カツ",
-    "level": "N3",
-    "sentence": "まいにちの 生活 がたのしいです。",
-    "translation": "My everyday life is fun."
-  },
-  {
-    "kanji": "寒",
-    "meaning": "Cold",
-    "reading": "On: カン | Kun: さむ-い",
-    "level": "N3",
-    "sentence": "今年のふゆは 寒い 日がおおいですね。",
-    "translation": "There are many cold days this winter, aren't there?"
-  },
-  {
-    "kanji": "感",
-    "meaning": "Feel / Emotion",
-    "reading": "On: カン",
-    "level": "N3",
-    "sentence": "ともだちのやさしさに 感しゃ しています。",
-    "translation": "I am grateful for my friend's kindness."
-  },
-  {
-    "kanji": "関",
-    "meaning": "Related / Barrier",
-    "reading": "On: カン | Kun: せき",
-    "level": "N3",
-    "sentence": "にほんのぶんかに 関する 本をよみました。",
-    "translation": "I read a book related to Japanese culture."
-  },
-  {
-    "kanji": "観",
-    "meaning": "Observe / View",
-    "reading": "On: カン",
-    "level": "N3",
-    "sentence": "きょうとに 観こう にいきました。",
-    "translation": "I went to Kyoto for sightseeing."
-  },
-  {
-    "kanji": "願",
-    "meaning": "Request / Wish",
-    "reading": "On: ガン | Kun: ねが-う",
-    "level": "N3",
-    "sentence": "どうぞ よろしくお 願い します。",
-    "translation": "Please look after me."
-  },
-  {
-    "kanji": "期",
-    "meaning": "Period / Term",
-    "reading": "On: キ",
-    "level": "N3",
-    "sentence": "らいしゅうから学 期 がはじまります。",
-    "translation": "The school term starts next week."
-  },
-  {
-    "kanji": "機",
-    "meaning": "Machine / Opportunity",
-    "reading": "On: キ",
-    "level": "N3",
-    "sentence": " 飛行 機 でとうきょうへいきます。",
-    "translation": "I am going to Tokyo by airplane."
-  },
-  {
-    "kanji": "議",
-    "meaning": "Deliberate / Discuss",
-    "reading": "On: ギ",
-    "level": "N3",
-    "sentence": "らいしゅうの 会 議 のじゅんびをします。",
-    "translation": "I will prepare for next week's meeting."
-  },
-  {
-    "kanji": "客",
-    "meaning": "Guest / Customer",
-    "reading": "On: キャク",
-    "level": "N3",
-    "sentence": " 乗 客 がたくさんでんしゃにのりました。",
-    "translation": "Many passengers got on the train."
-  },
-  {
-    "kanji": "究",
-    "meaning": "Research / Deepen",
-    "reading": "On: キュウ | Kun: きわ-める",
-    "level": "N3",
-    "sentence": "だいがくで 研 究 をつづけています。",
-    "translation": "I am continuing research at the university."
-  },
-  {
-    "kanji": "急",
-    "meaning": "Hurry / Sudden",
-    "reading": "On: キュウ | Kun: いそ-ぐ",
-    "level": "N3",
-    "sentence": " 急行 でんしゃにのるとはやいです。",
-    "translation": "It is fast if you take the express train."
-  },
-  {
-    "kanji": "級",
-    "meaning": "Rank / Class / Grade",
-    "reading": "On: キュウ",
-    "level": "N3",
-    "sentence": "にほんごのしけんの三 級 をうけます。",
-    "translation": "I will take the level 3 Japanese exam."
-  },
-  {
-    "kanji": "去",
-    "meaning": "Past / Leave",
-    "reading": "On: キョ | Kun: さ-る",
-    "level": "N3",
-    "sentence": " 去年のなつにふじさんにのぼりました。",
-    "translation": "I climbed Mt. Fuji last summer."
-  },
-  {
-    "kanji": "居",
-    "meaning": "Reside / Exist",
-    "reading": "On: キョ | Kun: い-る",
-    "level": "N3",
-    "sentence": " 居ざけやでおさけをのみました。",
-    "translation": "I drank alcohol at an izakaya (Japanese pub)."
-  },
-  {
-    "kanji": "許",
-    "meaning": "Permit / Allow",
-    "reading": "On: キョ | Kun: ゆる-す",
-    "level": "N3",
-    "sentence": "ちちがにほんへのりょこうを 許して くれました。",
-    "translation": "My father allowed my trip to Japan."
-  },
-  {
-    "kanji": "供",
-    "meaning": "Offer / Companion",
-    "reading": "On: キョウ | Kun: とも",
-    "level": "N3",
-    "sentence": "こうえんで 子 供 たちがあそんでいます。",
-    "translation": "Children are playing in the park."
-  },
-  {
-    "kanji": "強",
-    "meaning": "Strong",
-    "reading": "On: キョウ | Kun: つよ-い",
-    "level": "N3",
-    "sentence": " 勉強 をまいにちがんばります。",
-    "translation": "I will do my best studying every day."
-  },
-  {
-    "kanji": "恐",
-    "meaning": "Fear / Dread",
-    "reading": "On: キョウ | Kun: おそ-れる",
-    "level": "N3",
-    "sentence": "おそい時間のひとりあるきは 恐ろしい です。",
-    "translation": "Walking alone late at night is scary."
-  },
-  {
-    "kanji": "局",
-    "meaning": "Bureau / Office",
-    "reading": "On: キョク",
-    "level": "N3",
-    "sentence": " 郵便 局 へきってをかいにいきます。",
-    "translation": "I am going to the post office to buy stamps."
-  },
-  {
-    "kanji": "極",
-    "meaning": "Poles / Extreme",
-    "reading": "On: キョク | Kun: きわ-める",
-    "level": "N3",
-    "sentence": "このスープは 北極 のようにさむいひにぴったりです。",
-    "translation": "This soup is perfect for days as cold as the North Pole."
-  },
-  {
-    "kanji": "均",
-    "meaning": "Equal / Level",
-    "reading": "On: キン",
-    "level": "N3",
-    "sentence": "テストの 平 均 てんはななじってんでした。",
-    "translation": "The average score of the test was seventy points."
-  },
-  {
-    "kanji": "禁",
-    "meaning": "Prohibit / Ban",
-    "reading": "On: キン",
-    "level": "N3",
-    "sentence": "このばしょは 禁えん です。",
-    "translation": "This place is non-smoking."
-  },
-  {
-    "kanji": "偶",
-    "meaning": "Accidental / Pair",
-    "reading": "On: グウ",
-    "level": "N3",
-    "sentence": "えきで 偶ぜん ともだちにあいました。",
-    "translation": "I accidentally ran into my friend at the station."
-  },
-  {
-    "kanji": "靴",
-    "meaning": "Shoes",
-    "reading": "On: カ | Kun: くつ",
-    "level": "N3",
-    "sentence": "あたらしくてくろい 靴 をかいました。",
-    "translation": "I bought new black shoes."
-  },
-  {
-    "kanji": "君",
-    "meaning": "You / Ruler",
-    "reading": "On: クン | Kun: きみ",
-    "level": "N3",
-    "sentence": "たなか 君 はあしたおやすみです。",
-    "translation": "Tanaka-kun is absent tomorrow."
-  },
-  {
-    "kanji": "群",
-    "meaning": "Flock / Herd",
-    "reading": "On: グン | Kun: む-れる",
-    "level": "N3",
-    "sentence": "とりが 群れ をなしてとんでいます。",
-    "translation": "Birds are flying in a flock."
-  },
-  {
-    "kanji": "係",
-    "meaning": "Person in charge / Connection",
-    "reading": "On: ケイ | Kun: かか-り",
-    "level": "N3",
-    "sentence": "としょの 係 のひとにはなしました。",
-    "translation": "I spoke to the person in charge of the library."
-  },
-  {
-    "kanji": "形",
-    "meaning": "Shape / Form",
-    "reading": "On: ケイ | Kun: かたち",
-    "level": "N3",
-    "sentence": "ほしの 人 形 をつくりました。",
-    "translation": "I made a star-shaped doll."
-  },
-  {
-    "kanji": "経",
-    "meaning": "Pass through / Manage",
-    "reading": "On: ケイ | Kun: へ-る",
-    "level": "N3",
-    "sentence": "にほんでたくさんの 経けん をしました。",
-    "translation": "I gained a lot of experience in Japan."
-  },
-  {
-    "kanji": "警",
-    "meaning": "Guard / Warn",
-    "reading": "On: ケイ",
-    "level": "N3",
-    "sentence": "みちでおまわりさんの 警官 にあいました。",
-    "translation": "I met a police officer on the street."
-  },
-  {
-    "kanji": "迎",
-    "meaning": "Welcome / Meet",
-    "reading": "On: ゲイ | Kun: むか-える",
-    "level": "N3",
-    "sentence": "くうこうまでともだちを 迎え にいきます。",
-    "translation": "I am going to the airport to pick up my friend."
-  },
-  {
-    "kanji": "欠",
-    "meaning": "Lack / Absence",
-    "reading": "On: ケツ | Kun: か-ける",
-    "level": "N3",
-    "sentence": "きょうのじゅぎょうを 欠せき します。",
-    "translation": "I will be absent from today's class."
-  },
-  {
-    "kanji": "決",
-    "meaning": "Decide",
-    "reading": "On: ケツ | Kun: き-める",
-    "level": "N3",
-    "sentence": "にほんにいくことを 決めました 。",
-    "translation": "I decided to go to Japan."
-  },
-  {
-    "kanji": "件",
-    "meaning": "Matter / Case",
-    "reading": "On: ケン",
-    "level": "N3",
-    "sentence": "その 事 件 についてはなしてください。",
-    "translation": "Please speak about that incident case."
-  },
-  {
-    "kanji": "権",
-    "meaning": "Authority / Right",
-    "reading": "On: ケン",
-    "level": "N3",
-    "sentence": "だれにでも生きる 権り があります。",
-    "translation": "Everyone has the right to live."
-  },
-  {
-    "kanji": "憲",
-    "meaning": "Constitution / Law",
-    "reading": "On: ケン",
-    "level": "N3",
-    "sentence": "がっこうで国の 憲ぽう をまなびました。",
-    "translation": "I learned about the country's constitution at school."
-  },
-  {
-    "kanji": "険",
-    "meaning": "Precipitous / Dangerous",
-    "reading": "On: ケン | Kun: 険-しい",
-    "level": "N3",
-    "sentence": "あぶない場所にいくのは 危 険 です。",
-    "translation": "It is dangerous to go to unsafe places."
-  },
-  {
-    "kanji": "県",
-    "meaning": "Prefecture",
-    "reading": "On: ケン",
-    "level": "N3",
-    "sentence": "おきなわ 県 にはりょこうでいきました。",
-    "translation": "I went to Okinawa Prefecture on a trip."
-  },
-  {
-    "kanji": "見",
-    "meaning": "See / Look",
-    "reading": "On: ケン | Kun: み-る",
-    "level": "N3",
-    "sentence": "きょうとのまちを 見学 しました。",
-    "translation": "I toured and observed the city of Kyoto."
-  },
-  {
-    "kanji": "験",
-    "meaning": "Verification / Test",
-    "reading": "On: ケン",
-    "level": "N3",
-    "sentence": "らいしゅうにほんごの 試 験 があります。",
-    "translation": "There is a Japanese exam next week."
-  },
-  {
-    "kanji": "元",
-    "meaning": "Origin / Source",
-    "reading": "On: ゲン | Kun: もと",
-    "level": "N3",
-    "sentence": "まいにち 元気 におそびましょう。",
-    "translation": "Let's play energetically every day."
-  },
-  {
-    "kanji": "現",
-    "meaning": "Appear / Present",
-    "reading": "On: ゲン | Kun: あらわ-れる",
-    "level": "N3",
-    "sentence": "カードではなく 現きん ではらいました。",
-    "translation": "I paid in cash instead of a card."
-  },
-  {
-    "kanji": "言",
-    "meaning": "Say / Word",
-    "reading": "On: ゲン | Kun: い-う",
-    "level": "N3",
-    "sentence": "かれのことばに 言ぜん をうたいました。",
-    "translation": "I gave my word to his speech statement."
-  },
-  {
-    "kanji": "個",
-    "meaning": "Individual / Counter",
-    "reading": "On: コ",
-    "level": "N3",
-    "sentence": "りんごを 一 個 かいました。",
-    "translation": "I bought one apple."
-  },
-  {
-    "kanji": "護",
-    "meaning": "Protect / Defend",
-    "reading": "On: ゴ",
-    "level": "N3",
-    "sentence": "びょういんで 看 護 しがおきていました。",
-    "translation": "The nurse was awake at the hospital."
-  },
-  {
-    "kanji": "五",
-    "meaning": "Five",
-    "reading": "On: ゴ | Kun: いつ",
-    "level": "N3",
-    "sentence": "あさ 五じ に おきました。",
-    "translation": "I woke up at five in the morning."
-  },
-  {
-    "kanji": "誤",
-    "meaning": "Mistake / Err",
-    "reading": "On: ゴ | Kun: あやま-る",
-    "level": "N3",
-    "sentence": "漢字の 誤にゅう をなおしました。",
-    "translation": "I corrected the mistaken entry of the kanji."
-  },
-  {
-    "kanji": "後",
-    "meaning": "Behind / After",
-    "reading": "On: ゴ | Kun: うし-ロ",
-    "level": "N3",
-    "sentence": "ごはんは 午 後 にたべます。",
-    "translation": "I eat meals in the afternoon."
-  },
-  {
-    "kanji": "語",
-    "meaning": "Language / Word",
-    "reading": "On: ゴ | Kun: かた-る",
-    "level": "N3",
-    "sentence": " 物 語 のほんをよみました。",
-    "translation": "I read a story tale book."
-  },
-  {
-    "kanji": "公",
-    "meaning": "Public / Official",
-    "reading": "On: コウ",
-    "level": "N3",
-    "sentence": "ひろい 公園 であそびました。",
-    "translation": "I played in a spacious public park."
+    "translation": "The sound is so loud that my ears hurt.",
+    "examples": [
+      { "word": "耳たぶ", "furigana": "みみたぶ", "meaning": "earlobe" },
+      { "word": "耳栓", "furigana": "みみせん", "meaning": "earplugs" },
+      { "word": "耳鳴り", "furigana": "みみなり", "meaning": "tinnitus" }
+    ]
   }
 ]

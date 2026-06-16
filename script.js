@@ -10,6 +10,7 @@ const flashcardScreen = document.getElementById('flashcard-screen');
 const flashcard = document.getElementById('flashcard');
 const kanjiFront = document.getElementById('kanji-front');
 const meaningBack = document.getElementById('meaning-back');
+const examplesBack = document.getElementById('examples-back');
 
 // Control Elements (Changed to exact lowercase matching your HTML)
 const flipBtn = document.getElementById('flip-btn');
@@ -51,6 +52,27 @@ function updateCard() {
                 ${currentItem.translation || ''}
             </div>
         `;
+        
+        // Render examples
+        if (currentItem.examples && currentItem.examples.length > 0) {
+            let examplesHTML = '<div style="font-size: 0.9rem; margin-top: 12px; padding-top: 12px; border-top: 1px solid #555;">';
+            examplesHTML += '<div style="font-size: 0.8rem; color: #95a5a6; margin-bottom: 8px; text-transform: uppercase; letter-spacing: 1px;">Examples:</div>';
+            
+            currentItem.examples.forEach(example => {
+                examplesHTML += `
+                    <div style="margin-bottom: 10px; padding: 8px; background-color: rgba(255,255,255,0.05); border-radius: 5px;">
+                        <div style="font-weight: 500; font-size: 1.1rem; margin-bottom: 3px;">${example.word}</div>
+                        <div style="font-size: 0.75rem; color: #a8c5dd; margin-bottom: 3px;">${example.furigana}</div>
+                        <div style="font-size: 0.8rem; color: #bdc3c7; font-style: italic;">${example.meaning}</div>
+                    </div>
+                `;
+            });
+            
+            examplesHTML += '</div>';
+            examplesBack.innerHTML = examplesHTML;
+        } else {
+            examplesBack.innerHTML = '';
+        }
     }, 200); 
 }
 
