@@ -1,10 +1,14 @@
 let masterKanjiDatabase = []; // Holds all raw entries from json
+let compoundDatabase = {};    // Holds compound words grouped by level
 let activeStudyGroup = [];    // Holds filtered and sliced group selection
 let currentIndex = 0;
+let selectedLevel = '';
 
 // DOM Screens (Changed to exact lowercase matching your HTML)
 const mainMenu = document.getElementById('main-menu');
+const subMenu = document.getElementById('sub-menu');
 const flashcardScreen = document.getElementById('flashcard-screen');
+const subMenuTitle = document.getElementById('sub-menu-title');
 
 // DOM Card Elements (Changed to exact lowercase matching your HTML)
 const flashcard = document.getElementById('flashcard');
@@ -13,9 +17,6 @@ const meaningBack = document.getElementById('meaning-back');
 const examplesBack = document.getElementById('examples-back');
 
 // Control Elements (Changed to exact lowercase matching your HTML)
-const flipBtn = document.getElementById('flip-btn');
-const nextBtn = document.getElementById('next-btn');
-const prevBtn = document.getElementById('prev-btn');
 const backBtn = document.getElementById('back-btn');
 
 // Fisher-Yates Shuffle Algorithm
@@ -80,60 +81,86 @@ function updateCard() {
     }, 200); 
 }
 
-// Core Function called by Main Menu Buttons
-function startGroup(level, startIndex, endIndex) {
-    // 1. Filter out entries by target level (N5, N4, or N3)
-    let filteredByLevel = masterKanjiDatabase.filter(item => item.level === level);
-    
-    // 2. Select the specified subset array interval range (e.g., 0 to 50)
-    activeStudyGroup = filteredByLevel.slice(startIndex, endIndex);
-    
+function openStudyGroup(items) {
+    activeStudyGroup = items.slice();
+
     if (activeStudyGroup.length === 0) {
         alert("No kanji available inside this specific index selection.");
         return;
     }
-    
-    // 3. Shuffle selection subset and start
+
     shuffleArray(activeStudyGroup);
     currentIndex = 0;
     updateCard();
-    
-    // 4. Change UI Display screens
+
     mainMenu.classList.add('style-hidden');
+    subMenu.classList.add('style-hidden');
     flashcardScreen.classList.remove('style-hidden');
+}
+
+// Show second menu after choosing N5, N4, or N3
+function showLevelOptions(level) {
+    selectedLevel = level;
+    subMenuTitle.innerText = `JLPT ${level}`;
+    mainMenu.classList.add('style-hidden');
+    subMenu.classList.remove('style-hidden');
+}
+
+// Core Function called by Sub Menu Buttons
+function startGroup(startIndex, endIndex) {
+    let filteredByLevel = masterKanjiDatabase.filter(item => item.level === selectedLevel);
+    openStudyGroup(filteredByLevel.slice(startIndex, endIndex));
+}
+
+function startCompoundGroup() {
+    openStudyGroup(compoundDatabase[selectedLevel] || []);
 }
 
 // Return to Main Menu
 backBtn.addEventListener('click', () => {
     flashcardScreen.classList.add('style-hidden');
+    subMenu.classList.add('style-hidden');
     mainMenu.classList.remove('style-hidden');
 });
 
 // Fetch base JSON storage file on background startup load
 async function loadKanjiData() {
     try {
-        const response = await fetch('kanji.json');
-        masterKanjiDatabase = await response.json();
+        const kanjiResponse = await fetch('kanji.json');
+        const compoundResponse = await fetch('compound.json');
+        masterKanjiDatabase = await kanjiResponse.json();
+        compoundDatabase = await compoundResponse.json();
     } catch (error) {
         console.error("Error connecting to Kanji JSON file storage source:", error);
     }
 }
 loadKanjiData();
 
-// Card Controls
-flashcard.addEventListener('click', () => flashcard.classList.toggle('flipped'));
-flipBtn.addEventListener('click', () => flashcard.classList.toggle('flipped'));
-
-nextBtn.addEventListener('click', () => {
+function showNextCard() {
     if (activeStudyGroup.length > 0) {
         currentIndex = (currentIndex + 1) % activeStudyGroup.length;
         updateCard();
     }
-});
+}
 
-prevBtn.addEventListener('click', () => {
+function showPreviousCard() {
     if (activeStudyGroup.length > 0) {
         currentIndex = (currentIndex - 1 + activeStudyGroup.length) % activeStudyGroup.length;
         updateCard();
+    }
+}
+
+// Card tap areas: left = next, center = flip, right = previous
+flashcard.addEventListener('click', event => {
+    const cardBounds = flashcard.getBoundingClientRect();
+    const tapPosition = event.clientX - cardBounds.left;
+    const cardThird = cardBounds.width / 3;
+
+    if (tapPosition < cardThird) {
+        showNextCard();
+    } else if (tapPosition > cardThird * 2) {
+        showPreviousCard();
+    } else {
+        flashcard.classList.toggle('flipped');
     }
 });
