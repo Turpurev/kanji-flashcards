@@ -52,6 +52,10 @@ body {
     transform: translateY(-2px);
 }
 
+.menu-back-btn {
+    margin-top: 20px;
+}
+
 /* Flashcard Interface Styles */
 .card-container {
     text-align: center;
@@ -73,6 +77,10 @@ body {
 .back-navigation-btn:hover {
     color: #c0392b;
     background: none;
+}
+
+.flashcard-back-btn {
+    margin-bottom: 22px;
 }
 
 .flashcard {
@@ -117,6 +125,10 @@ body {
     justify-content: flex-start;
     padding-top: 20px;
     overflow: hidden;
+}
+
+.flashcard.compound-card .back {
+    justify-content: center;
 }
 
 .examples-section {
