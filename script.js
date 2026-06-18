@@ -3,6 +3,7 @@ let compoundDatabase = {};    // Holds compound words grouped by level
 let activeStudyGroup = [];    // Holds filtered and sliced group selection
 let currentIndex = 0;
 let selectedLevel = '';
+let isCompoundGroup = false;
 
 // DOM Screens (Changed to exact lowercase matching your HTML)
 const mainMenu = document.getElementById('main-menu');
@@ -18,6 +19,7 @@ const examplesBack = document.getElementById('examples-back');
 
 // Control Elements (Changed to exact lowercase matching your HTML)
 const backBtn = document.getElementById('back-btn');
+const levelBackBtn = document.getElementById('level-back-btn');
 
 // Fisher-Yates Shuffle Algorithm
 function shuffleArray(array) {
@@ -35,11 +37,27 @@ function updateCard() {
     
     setTimeout(() => {
         const currentItem = activeStudyGroup[currentIndex];
+        flashcard.classList.toggle('compound-card', isCompoundGroup);
         kanjiFront.innerText = currentItem.kanji;
-        
+
+        if (isCompoundGroup) {
+            meaningBack.innerHTML = `
+                <div style="font-size: 1.8rem; font-weight: bold; margin-bottom: 2px;">
+                    ${currentItem.meaning}
+                    <span style="font-size: 0.9rem; color: #e74c3c; margin-left: 5px;">[${currentItem.level}]</span>
+                </div>
+                <div style="font-size: 0.9rem; color: #bdc3c7; margin-bottom: 8px;">
+                    ${currentItem.reading}
+                </div>
+            `;
+            examplesBack.classList.add('style-hidden');
+            examplesBack.innerHTML = '';
+            return;
+        }
+
         meaningBack.innerHTML = `
             <div style="font-size: 1.8rem; font-weight: bold; margin-bottom: 2px;">
-                ${currentItem.meaning} 
+                ${currentItem.meaning}
                 <span style="font-size: 0.9rem; color: #e74c3c; margin-left: 5px;">[${currentItem.level}]</span>
             </div>
             <div style="font-size: 0.9rem; color: #bdc3c7; margin-bottom: 8px;">
@@ -56,6 +74,7 @@ function updateCard() {
         
         // Render examples
         if (currentItem.examples && currentItem.examples.length > 0) {
+            examplesBack.classList.remove('style-hidden');
             let examplesHTML = '<div style="margin-top: 12px; padding-top: 12px; border-top: 1px solid #555;">';
             examplesHTML += '<div style="font-size: 0.8rem; color: #95a5a6; margin-bottom: 8px; text-transform: uppercase; letter-spacing: 1px;">Examples:</div>';
             
@@ -76,13 +95,15 @@ function updateCard() {
             examplesHTML += '</div>';
             examplesBack.innerHTML = examplesHTML;
         } else {
+            examplesBack.classList.add('style-hidden');
             examplesBack.innerHTML = '';
         }
     }, 200); 
 }
 
-function openStudyGroup(items) {
+function openStudyGroup(items, isCompound = false) {
     activeStudyGroup = items.slice();
+    isCompoundGroup = isCompound;
 
     if (activeStudyGroup.length === 0) {
         alert("No kanji available inside this specific index selection.");
@@ -113,15 +134,18 @@ function startGroup(startIndex, endIndex) {
 }
 
 function startCompoundGroup() {
-    openStudyGroup(compoundDatabase[selectedLevel] || []);
+    openStudyGroup(compoundDatabase[selectedLevel] || [], true);
 }
 
-// Return to Main Menu
-backBtn.addEventListener('click', () => {
+function returnToMainMenu() {
     flashcardScreen.classList.add('style-hidden');
     subMenu.classList.add('style-hidden');
     mainMenu.classList.remove('style-hidden');
-});
+}
+
+// Return to Main Menu
+backBtn.addEventListener('click', returnToMainMenu);
+levelBackBtn.addEventListener('click', returnToMainMenu);
 
 // Fetch base JSON storage file on background startup load
 async function loadKanjiData() {
