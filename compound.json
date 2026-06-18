@@ -1,0 +1,2318 @@
+{
+    "N5":  [
+               {
+                   "kanji":  "一つ",
+                   "meaning":  "one (item)",
+                   "reading":  "ひとつ",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "第一",
+                   "meaning":  "first",
+                   "reading":  "だいいち",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "一番",
+                   "meaning":  "number one",
+                   "reading":  "いちばん",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "二つ",
+                   "meaning":  "two (items)",
+                   "reading":  "ふたつ",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "二日",
+                   "meaning":  "2nd day",
+                   "reading":  "ふつか",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "二番",
+                   "meaning":  "number two",
+                   "reading":  "にばん",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "三つ",
+                   "meaning":  "three (items)",
+                   "reading":  "みつ",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "三月",
+                   "meaning":  "March",
+                   "reading":  "さんがつ",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "三番",
+                   "meaning":  "number three",
+                   "reading":  "さんばん",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "四つ",
+                   "meaning":  "four (items)",
+                   "reading":  "よつ",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "四月",
+                   "meaning":  "April",
+                   "reading":  "しがつ",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "四番",
+                   "meaning":  "number four",
+                   "reading":  "しばん",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "五つ",
+                   "meaning":  "five (items)",
+                   "reading":  "いつつ",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "五月",
+                   "meaning":  "May",
+                   "reading":  "ごがつ",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "五番",
+                   "meaning":  "number five",
+                   "reading":  "ごばん",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "六つ",
+                   "meaning":  "six (items)",
+                   "reading":  "むつ",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "六月",
+                   "meaning":  "June",
+                   "reading":  "ろくがつ",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "六番",
+                   "meaning":  "number six",
+                   "reading":  "ろくばん",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "七つ",
+                   "meaning":  "seven (items)",
+                   "reading":  "ななつ",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "七月",
+                   "meaning":  "July",
+                   "reading":  "しちがつ",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "七番",
+                   "meaning":  "number seven",
+                   "reading":  "しちばん",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "八つ",
+                   "meaning":  "eight (items)",
+                   "reading":  "やつ",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "八月",
+                   "meaning":  "August",
+                   "reading":  "はちがつ",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "八番",
+                   "meaning":  "number eight",
+                   "reading":  "はちばん",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "九つ",
+                   "meaning":  "nine (items)",
+                   "reading":  "ここのつ",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "九月",
+                   "meaning":  "September",
+                   "reading":  "くがつ",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "九番",
+                   "meaning":  "number nine",
+                   "reading":  "きゅうばん",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "十日",
+                   "meaning":  "10th day",
+                   "reading":  "とおか",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "十月",
+                   "meaning":  "October",
+                   "reading":  "じゅうがつ",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "十番",
+                   "meaning":  "number ten",
+                   "reading":  "じゅうばん",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "百円",
+                   "meaning":  "hundred yen",
+                   "reading":  "ひゃくえん",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "百人",
+                   "meaning":  "hundred people",
+                   "reading":  "ひゃくにん",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "百点",
+                   "meaning":  "perfect score",
+                   "reading":  "ひゃくてん",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "千円",
+                   "meaning":  "thousand yen",
+                   "reading":  "せんえん",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "千人",
+                   "meaning":  "thousand people",
+                   "reading":  "せんにん",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "千代",
+                   "meaning":  "thousand years",
+                   "reading":  "ちよ",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "万円",
+                   "meaning":  "ten thousand yen",
+                   "reading":  "まんえん",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "万人",
+                   "meaning":  "ten thousand people",
+                   "reading":  "まんにん",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "万年",
+                   "meaning":  "perpetual",
+                   "reading":  "まんねん",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "円形",
+                   "meaning":  "circular shape",
+                   "reading":  "えんけい",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "日曜日",
+                   "meaning":  "Sunday",
+                   "reading":  "にちようび",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "毎日",
+                   "meaning":  "every day",
+                   "reading":  "まいにち",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "日中",
+                   "meaning":  "during the day",
+                   "reading":  "ひなか",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "月曜日",
+                   "meaning":  "Monday",
+                   "reading":  "げつようび",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "来月",
+                   "meaning":  "next month",
+                   "reading":  "らいげつ",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "月明かり",
+                   "meaning":  "moonlight",
+                   "reading":  "つきあかり",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "火曜日",
+                   "meaning":  "Tuesday",
+                   "reading":  "かようび",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "火事",
+                   "meaning":  "fire (disaster)",
+                   "reading":  "かじ",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "火力",
+                   "meaning":  "firepower",
+                   "reading":  "かりょく",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "水曜日",
+                   "meaning":  "Wednesday",
+                   "reading":  "すいようび",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "水道",
+                   "meaning":  "water supply",
+                   "reading":  "すいどう",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "水泳",
+                   "meaning":  "swimming",
+                   "reading":  "すいえい",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "木曜日",
+                   "meaning":  "Thursday",
+                   "reading":  "もくようび",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "木造",
+                   "meaning":  "wooden construction",
+                   "reading":  "もくぞう",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "大木",
+                   "meaning":  "large tree",
+                   "reading":  "たいぼく",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "金曜日",
+                   "meaning":  "Friday",
+                   "reading":  "きんようび",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "お金",
+                   "meaning":  "money",
+                   "reading":  "おかね",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "金色",
+                   "meaning":  "gold color",
+                   "reading":  "きんいろ",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "土曜日",
+                   "meaning":  "Saturday",
+                   "reading":  "どようび",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "土地",
+                   "meaning":  "land",
+                   "reading":  "とち",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "土木",
+                   "meaning":  "civil engineering",
+                   "reading":  "どぼく",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "人間",
+                   "meaning":  "human being",
+                   "reading":  "にんげん",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "人気",
+                   "meaning":  "popularity",
+                   "reading":  "にんき",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "外国人",
+                   "meaning":  "foreigner",
+                   "reading":  "がいこくじん",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "来年",
+                   "meaning":  "next year",
+                   "reading":  "らいねん",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "去年",
+                   "meaning":  "last year",
+                   "reading":  "きょねん",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "毎年",
+                   "meaning":  "every year",
+                   "reading":  "まいとし",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "大きい",
+                   "meaning":  "big",
+                   "reading":  "おおきい",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "大学",
+                   "meaning":  "university",
+                   "reading":  "だいがく",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "大切",
+                   "meaning":  "important",
+                   "reading":  "たいせつ",
+                   "level":  "N5",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               }
+           ],
+    "N4":  [
+               {
+                   "kanji":  "会社",
+                   "meaning":  "company",
+                   "reading":  "かいしゃ",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "会話",
+                   "meaning":  "conversation",
+                   "reading":  "かいわ",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "教会",
+                   "meaning":  "church",
+                   "reading":  "きょうかい",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "同時に",
+                   "meaning":  "at the same time",
+                   "reading":  "どうじに",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "同意",
+                   "meaning":  "agreement",
+                   "reading":  "どうい",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "同級生",
+                   "meaning":  "classmate",
+                   "reading":  "どうきゅうせい",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "仕事",
+                   "meaning":  "work / job",
+                   "reading":  "しごと",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "食事",
+                   "meaning":  "meal",
+                   "reading":  "しょくじ",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "事故",
+                   "meaning":  "accident",
+                   "reading":  "じこ",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "自転車",
+                   "meaning":  "bicycle",
+                   "reading":  "じてんしゃ",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "自動車",
+                   "meaning":  "automobile",
+                   "reading":  "じどうしゃ",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "自由",
+                   "meaning":  "freedom",
+                   "reading":  "じゆう",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "社会",
+                   "meaning":  "society",
+                   "reading":  "しゃかい",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "神社",
+                   "meaning":  "shrine",
+                   "reading":  "じんじゃ",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "本社",
+                   "meaning":  "head office",
+                   "reading":  "ほんしゃ",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "発音",
+                   "meaning":  "pronunciation",
+                   "reading":  "hatsuon",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "発見",
+                   "meaning":  "discovery",
+                   "reading":  "はっけん",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "発表",
+                   "meaning":  "presentation / announcement",
+                   "reading":  "はっぴょう",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "学者",
+                   "meaning":  "scholar",
+                   "reading":  "がくしゃ",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "若者",
+                   "meaning":  "young person",
+                   "reading":  "わかもの",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "歯医者",
+                   "meaning":  "dentist",
+                   "reading":  "はいしゃ",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "地図",
+                   "meaning":  "map",
+                   "reading":  "ちず",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "地震",
+                   "meaning":  "earthquake",
+                   "reading":  "じしん",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "地方",
+                   "meaning":  "region / locality",
+                   "reading":  "ちほう",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "工業",
+                   "meaning":  "industry",
+                   "reading":  "こうぎょう",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "商業",
+                   "meaning":  "commerce",
+                   "reading":  "しょうぎょう",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "卒業",
+                   "meaning":  "graduation",
+                   "reading":  "そつぎょう",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "夕方",
+                   "meaning":  "evening",
+                   "reading":  "ゆうがた",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "方法",
+                   "meaning":  "method",
+                   "reading":  "ほうほう",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "両方",
+                   "meaning":  "both sides",
+                   "reading":  "りょうほう",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "新聞",
+                   "meaning":  "newspaper",
+                   "reading":  "しんぶん",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "新年",
+                   "meaning":  "New Year",
+                   "reading":  "しんねん",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "新鮮",
+                   "meaning":  "fresh",
+                   "reading":  "しんせん",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "場所",
+                   "meaning":  "place",
+                   "reading":  "ばしょ",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "工場",
+                   "meaning":  "factory",
+                   "reading":  "こうじょう",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "場合",
+                   "meaning":  "case / situation",
+                   "reading":  "ばあい",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "社員",
+                   "meaning":  "company employee",
+                   "reading":  "しゃいん",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "店員",
+                   "meaning":  "store clerk",
+                   "reading":  "てんいん",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "全員",
+                   "meaning":  "everyone",
+                   "reading":  "ぜんいん",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "国立",
+                   "meaning":  "national (e.g., university)",
+                   "reading":  "こくりつ",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "私立",
+                   "meaning":  "private (e.g., school)",
+                   "reading":  "しりつ",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "役に立つ",
+                   "meaning":  "to be useful",
+                   "reading":  "やくにたつ",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "開く",
+                   "meaning":  "to open (an event/book)",
+                   "reading":  "ひらく",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "開店",
+                   "meaning":  "opening a store",
+                   "reading":  "かいてん",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "開始",
+                   "meaning":  "start / commencement",
+                   "reading":  "かいし",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "上手",
+                   "meaning":  "skillful",
+                   "reading":  "じょうず",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "下手",
+                   "meaning":  "unskillful",
+                   "reading":  "へた",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "手紙",
+                   "meaning":  "letter",
+                   "reading":  "てがみ",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "体力",
+                   "meaning":  "physical strength",
+                   "reading":  "たいりょく",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "協力",
+                   "meaning":  "cooperation",
+                   "reading":  "きょうりょく",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "努力",
+                   "meaning":  "effort",
+                   "reading":  "どりょく",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "問題",
+                   "meaning":  "problem / question",
+                   "reading":  "もんだい",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "訪問",
+                   "meaning":  "visit",
+                   "reading":  "ほうもん",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "問い合わせ",
+                   "meaning":  "inquiry",
+                   "reading":  "といあわせ",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "部屋代",
+                   "meaning":  "room rent",
+                   "reading":  "へやだい",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "時代",
+                   "meaning":  "era / age",
+                   "reading":  "じだい",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "交代",
+                   "meaning":  "alternation / shift",
+                   "reading":  "こうたい",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "明日",
+                   "meaning":  "tomorrow",
+                   "reading":  "あした",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "説明",
+                   "meaning":  "explanation",
+                   "reading":  "せつめい",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "明白",
+                   "meaning":  "clear / obvious",
+                   "reading":  "めいはく",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "動物",
+                   "meaning":  "animal",
+                   "reading":  "どうぶつ",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "運動",
+                   "meaning":  "exercise",
+                   "reading":  "うんどう",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "京都",
+                   "meaning":  "Kyoto",
+                   "reading":  "きょうと",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "上京",
+                   "meaning":  "proceeding to the capital",
+                   "reading":  "じょうきょう",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "京浜",
+                   "meaning":  "Tokyo-Yokohama area",
+                   "reading":  "けいひん",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "目的",
+                   "meaning":  "purpose / goal",
+                   "reading":  "もくてき",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "目次",
+                   "meaning":  "table of contents",
+                   "reading":  "もくじ",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "一番目",
+                   "meaning":  "the first one",
+                   "reading":  "いちばんめ",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "通り",
+                   "meaning":  "street / road",
+                   "reading":  "とおり",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "交通",
+                   "meaning":  "traffic",
+                   "reading":  "こうつう",
+                   "level":  "N4",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               }
+           ],
+    "N3":  [
+               {
+                   "kanji":  "政府",
+                   "meaning":  "government",
+                   "reading":  "せいふ",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "政治家",
+                   "meaning":  "politician",
+                   "reading":  "せいじか",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "政策",
+                   "meaning":  "policy",
+                   "reading":  "せいさく",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "経験",
+                   "meaning":  "experience",
+                   "reading":  "けいけん",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "経営",
+                   "meaning":  "management",
+                   "reading":  "けいえい",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "経費",
+                   "meaning":  "expenses",
+                   "reading":  "けいひ",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "経済",
+                   "meaning":  "economics",
+                   "reading":  "けいざい",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "返済",
+                   "meaning":  "repayment",
+                   "reading":  "へんさい",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "決済",
+                   "meaning":  "settlement / payment",
+                   "reading":  "けっさい",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "危険",
+                   "meaning":  "danger",
+                   "reading":  "きけん",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "保険",
+                   "meaning":  "insurance",
+                   "reading":  "ほけん",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "冒険",
+                   "meaning":  "adventure",
+                   "reading":  "ぼうけん",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "準備",
+                   "meaning":  "preparation",
+                   "reading":  "じゅんび",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "設備",
+                   "meaning":  "equipment / facilities",
+                   "reading":  "せつび",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "予備",
+                   "meaning":  "spare / reserve",
+                   "reading":  "よび",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "営業",
+                   "meaning":  "business hours / sales",
+                   "reading":  "えいぎょう",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "運営",
+                   "meaning":  "administration / operation",
+                   "reading":  "うんえい",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "面白い",
+                   "meaning":  "interesting",
+                   "reading":  "おもしろい",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "画面",
+                   "meaning":  "screen",
+                   "reading":  "がめん",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "表面",
+                   "meaning":  "surface",
+                   "reading":  "ひょうめん",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "面接",
+                   "meaning":  "interview",
+                   "reading":  "めんせつ",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "直接",
+                   "meaning":  "directly",
+                   "reading":  "ちょくせつ",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "接続",
+                   "meaning":  "connection",
+                   "reading":  "せつぞく",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "反対",
+                   "meaning":  "opposite / opposition",
+                   "reading":  "はんたい",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "対象",
+                   "meaning":  "target / object",
+                   "reading":  "たいしょう",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "対談",
+                   "meaning":  "talk / dialogue",
+                   "reading":  "たいだん",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "個人",
+                   "meaning":  "individual / private",
+                   "reading":  "こじん",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "個性",
+                   "meaning":  "individuality / personality",
+                   "reading":  "こせい",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "一個",
+                   "meaning":  "one piece",
+                   "reading":  "いっこ",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "全部",
+                   "meaning":  "all / everything",
+                   "reading":  "ぜんぶ",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "安全",
+                   "meaning":  "safety",
+                   "reading":  "あんぜん",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "全国",
+                   "meaning":  "nationwide",
+                   "reading":  "ぜんこく",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "部屋",
+                   "meaning":  "room",
+                   "reading":  "へや",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "部分",
+                   "meaning":  "part / portion",
+                   "reading":  "ぶぶん",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "部長",
+                   "meaning":  "department manager",
+                   "reading":  "ぶちょう",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "案内",
+                   "meaning":  "guidance / information",
+                   "reading":  "あんない",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "以内",
+                   "meaning":  "within / inside",
+                   "reading":  "いない",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "内容",
+                   "meaning":  "content",
+                   "reading":  "ないよう",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "首相",
+                   "meaning":  "prime minister",
+                   "reading":  "しゅしょう",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "相手",
+                   "meaning":  "partner / opponent",
+                   "reading":  "あいて",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "相互",
+                   "meaning":  "mutual",
+                   "reading":  "そうご",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "相談",
+                   "meaning":  "consultation",
+                   "reading":  "そうだん",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "会談",
+                   "meaning":  "conference / interview",
+                   "reading":  "かいだん",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "心配",
+                   "meaning":  "worry / anxiety",
+                   "reading":  "しんぱい",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "配達",
+                   "meaning":  "delivery",
+                   "reading":  "はいたつ",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "気配",
+                   "meaning":  "sign / indication",
+                   "reading":  "けはい",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "教育",
+                   "meaning":  "education",
+                   "reading":  "きょういく",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "体育",
+                   "meaning":  "physical education",
+                   "reading":  "たいいく",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "育児",
+                   "meaning":  "child-rearing",
+                   "reading":  "いくじ",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "化学",
+                   "meaning":  "chemistry",
+                   "reading":  "かがく",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "変化",
+                   "meaning":  "change",
+                   "reading":  "へんか",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "化粧",
+                   "meaning":  "makeup",
+                   "reading":  "けしょう",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "日本酒",
+                   "meaning":  "Japanese sake",
+                   "reading":  "にほんしゅ",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "居酒屋",
+                   "meaning":  "Japanese pub",
+                   "reading":  "いざかや",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "飲酒",
+                   "meaning":  "drinking alcohol",
+                   "reading":  "いんしゅ",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "果物",
+                   "meaning":  "fruit",
+                   "reading":  "くだもの",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "結果",
+                   "meaning":  "result",
+                   "reading":  "けっか",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "効果",
+                   "meaning":  "effect",
+                   "reading":  "こうか",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "悲劇",
+                   "meaning":  "tragedy",
+                   "reading":  "ひげき",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "悲哀",
+                   "meaning":  "sorrow",
+                   "reading":  "ひあい",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "悲痛",
+                   "meaning":  "grief-stricken",
+                   "reading":  "ひつう",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "幸福",
+                   "meaning":  "happiness",
+                   "reading":  "こうふく",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "不幸",
+                   "meaning":  "misfortune / unhappiness",
+                   "reading":  "ふこう",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "幸運",
+                   "meaning":  "good luck",
+                   "reading":  "こううん",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "福祉",
+                   "meaning":  "welfare",
+                   "reading":  "ふくし",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "福袋",
+                   "meaning":  "lucky bag",
+                   "reading":  "ふくぶくろ",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "祝福",
+                   "meaning":  "blessing / celebration",
+                   "reading":  "しゅくふく",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "通路",
+                   "meaning":  "aisle / pathway",
+                   "reading":  "つうろ",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "線路",
+                   "meaning":  "railway track",
+                   "reading":  "せんろ",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               },
+               {
+                   "kanji":  "進路",
+                   "meaning":  "career path / course",
+                   "reading":  "しんろ",
+                   "level":  "N3",
+                   "sentence":  "",
+                   "translation":  "",
+                   "examples":  [
+
+                                ]
+               }
+           ]
+}
